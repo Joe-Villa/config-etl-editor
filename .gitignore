@@ -1,0 +1,45 @@
+# Local paths (machine-specific)
+config.json
+
+# Documentation & design notes (not tracked)
+*.md
+extra.txt
+TODO
+所有可用的写操作
+
+# Databases, exports, generated web snapshots
+output/
+interactive_map/output/
+save/
+release/
+*.sqlite
+*.sqlite-journal
+*.snapshots/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+
+# Packaging / build artifacts
+*.build/
+viewer_launcher.build/
+nuitka-crash-report.xml
+dist/
+build/
+*.exe
+*.spec
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
