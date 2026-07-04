@@ -35,6 +35,12 @@
       grid-template-columns: 220px 1fr;
       min-height: calc(100vh - 88px);
     }
+    main {
+      display: flex;
+      flex-direction: column;
+      min-height: calc(100vh - 88px);
+      min-width: 0;
+    }
     @media (max-width: 800px) {
       .layout { grid-template-columns: 1fr; }
       .sidebar { border-right: none; border-bottom: 1px solid #333; max-height: 180px; overflow-y: auto; }
@@ -65,6 +71,9 @@
       overflow: hidden;
       background: #0a0a0c;
       cursor: grab;
+      flex: 1 1 auto;
+      min-height: 420px;
+      height: 58vh;
     }
     .viewer-wrap.dragging { cursor: grabbing; }
     #viewport {
@@ -83,6 +92,7 @@
       color: #888;
       border-top: 1px solid #333;
       background: #1a1a1e;
+      flex: 0 0 auto;
     }
     .gallery {
       padding: 16px;
@@ -164,6 +174,7 @@
     function fitView() {
       if (!mapImg.naturalWidth) return;
       const rect = viewer.getBoundingClientRect();
+      if (rect.width < 1 || rect.height < 1) return;
       scale = Math.min(rect.width / mapImg.naturalWidth, rect.height / mapImg.naturalHeight) * 0.95;
       tx = (rect.width - mapImg.naturalWidth * scale) / 2;
       ty = (rect.height - mapImg.naturalHeight * scale) / 2;
