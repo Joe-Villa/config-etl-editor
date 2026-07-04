@@ -4,6 +4,8 @@
 
 > **Purpose (for reviewers):** Import **multi-source configuration directories** into **SQLite**, edit records in a **browser UI** with transactional write APIs, pre-render numeric attributes as map layers, and export back to **structured text**. Domain-agnostic ETL + interactive editing pipeline.
 
+> **Live preview (read-only):** [Open map demo](https://joe-villa.github.io/config-etl-editor/demo/mnar/) — **17** pre-rendered layers from a fictional alternate-history sample dataset (806 tags, 912 scopes). Pan/zoom in browser; **editing not available** in the online preview.
+
 ```
   content dirs ──► build_db ──► SQLite ──► HTTP API + viewer ──► export zip
                       │              │              │
@@ -37,6 +39,16 @@ Requires two content roots (base + optional overlay). Game/mod assets stay local
 ## 项目简介
 
 面向 **半结构化文本 ETL · SQLite 建模 · Web 交互编辑 · 批量导出** 的配置流水线：多源目录导入 → 校验建库 → 浏览器可视化编辑 → 结构化文本 zip 导出。
+
+## 在线预览（只读）
+
+**[打开地图演示 →](https://joe-villa.github.io/config-etl-editor/demo/mnar/)**
+
+- 示例集：架空历史 mod（806 tag · 912 scope · 8192×3616）
+- **17** 类预渲染图层：国家归属、人口、建筑、战略区域等；支持缩放与拖拽
+- **仅查看**：在线预览暂不支持编辑；完整编辑需本地运行 `interactive_map/serve.py`
+
+GitHub Pages 源目录：`docs/`（Settings → Pages → Deploy from branch `main` / `/docs`）
 
 ## 项目亮点
 

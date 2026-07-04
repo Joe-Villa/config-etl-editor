@@ -1,0 +1,481 @@
+{
+  "state_claim_tags": {
+    "STATE_ALABAMA": [
+      "MSC"
+    ],
+    "STATE_ALAND": [
+      "SWE"
+    ],
+    "STATE_ALXA": [
+      "KHT",
+      "MGL"
+    ],
+    "STATE_ANKARA": [
+      "DAG"
+    ],
+    "STATE_ARMENIA": [
+      "DAG"
+    ],
+    "STATE_AZERBAIJAN": [
+      "DAG"
+    ],
+    "STATE_BIHAR": [
+      "BGL"
+    ],
+    "STATE_BOLIVAR": [
+      "HAI"
+    ],
+    "STATE_BUSAN": [
+      "KOR"
+    ],
+    "STATE_CHERNIHIV": [
+      "UKR"
+    ],
+    "STATE_CHUGOKU": [
+      "JAP",
+      "STT"
+    ],
+    "STATE_DIYARBAKIR": [
+      "DAG"
+    ],
+    "STATE_EASTERN_CAPE": [
+      "SAF"
+    ],
+    "STATE_EASTERN_HUBEI": [
+      "YUE"
+    ],
+    "STATE_EAST_BENGAL": [
+      "BGL"
+    ],
+    "STATE_EAST_GALICIA": [
+      "UKR"
+    ],
+    "STATE_EAST_KARELIA": [
+      "FIN",
+      "SWE"
+    ],
+    "STATE_ELIZAVETPOL": [
+      "DAG"
+    ],
+    "STATE_ERZURUM": [
+      "DAG"
+    ],
+    "STATE_FLORIDA": [
+      "CUB",
+      "MSC"
+    ],
+    "STATE_FORMOSA": [
+      "PHI"
+    ],
+    "STATE_FUJIAN": [
+      "HNA",
+      "YUE"
+    ],
+    "STATE_GEORGIA": [
+      "MSC"
+    ],
+    "STATE_GOTLAND": [
+      "SWE"
+    ],
+    "STATE_GREATER_CAUCASUS": [
+      "DAG"
+    ],
+    "STATE_GREENLAND": [
+      "SCO"
+    ],
+    "STATE_GUANGDONG": [
+      "HNA",
+      "YUE"
+    ],
+    "STATE_GUANGXI": [
+      "HNA"
+    ],
+    "STATE_GUIZHOU": [
+      "HNA"
+    ],
+    "STATE_HILL_PUNJAB": [
+      "AFG"
+    ],
+    "STATE_HINGGAN": [
+      "MGL"
+    ],
+    "STATE_HOKKAIDO": [
+      "JAP"
+    ],
+    "STATE_HUNAN": [
+      "YUE"
+    ],
+    "STATE_ICELAND": [
+      "SWE"
+    ],
+    "STATE_JIANGXI": [
+      "YUE"
+    ],
+    "STATE_KANSAI": [
+      "JAP"
+    ],
+    "STATE_KANTO": [
+      "JAP"
+    ],
+    "STATE_KARS": [
+      "DAG"
+    ],
+    "STATE_KASTAMONU": [
+      "DAG"
+    ],
+    "STATE_KHARKOV": [
+      "UKR"
+    ],
+    "STATE_KOLA": [
+      "FIN",
+      "SWE"
+    ],
+    "STATE_KURSK": [
+      "UKR"
+    ],
+    "STATE_KYUSHU": [
+      "JAP",
+      "KUS"
+    ],
+    "STATE_LANCASHIRE": [
+      "NRM"
+    ],
+    "STATE_MIRANDA": [
+      "HAI"
+    ],
+    "STATE_MISSISSIPPI": [
+      "MSC"
+    ],
+    "STATE_NANJING": [
+      "YUE"
+    ],
+    "STATE_NEW_SOUTH_WALES": [
+      "TOL"
+    ],
+    "STATE_NORRLAND": [
+      "FIN",
+      "SWE"
+    ],
+    "STATE_NORTHERN_NORWAY": [
+      "FIN",
+      "SWE"
+    ],
+    "STATE_NORTHERN_TERRITORY": [
+      "BAL"
+    ],
+    "STATE_NORTH_BORNEO": [
+      "BRU"
+    ],
+    "STATE_NORTH_ISLAND": [
+      "TOL"
+    ],
+    "STATE_NORTH_MADAGASCAR": [
+      "MAD"
+    ],
+    "STATE_OB": [
+      "PRM"
+    ],
+    "STATE_OULU": [
+      "FIN",
+      "SWE"
+    ],
+    "STATE_OUTER_MANCHURIA": [
+      "KHT",
+      "MCH"
+    ],
+    "STATE_PUNJAB": [
+      "AFG"
+    ],
+    "STATE_RIFT_VALLEY": [
+      "KKY"
+    ],
+    "STATE_RYUKYU_ISLANDS": [
+      "JAP"
+    ],
+    "STATE_SAKHALIN": [
+      "JAP"
+    ],
+    "STATE_SANTIAGO": [
+      "PAT"
+    ],
+    "STATE_SARIWON": [
+      "KOR"
+    ],
+    "STATE_SCHLESWIG_HOLSTEIN": [
+      "SWE"
+    ],
+    "STATE_SHAOZHOU": [
+      "HNA",
+      "YUE"
+    ],
+    "STATE_SHENGJING": [
+      "MCH"
+    ],
+    "STATE_SHIKOKU": [
+      "JAP"
+    ],
+    "STATE_SICILY": [
+      "ARN",
+      "ITA"
+    ],
+    "STATE_SOUTHERN_ANHUI": [
+      "YUE"
+    ],
+    "STATE_SOUTHERN_MANCHURIA": [
+      "MCH"
+    ],
+    "STATE_SOUTH_MADAGASCAR": [
+      "MAD"
+    ],
+    "STATE_SURGUT": [
+      "PRM"
+    ],
+    "STATE_SUZHOU": [
+      "YUE"
+    ],
+    "STATE_TABRIZ": [
+      "DAG"
+    ],
+    "STATE_TALINN": [
+      "FIN"
+    ],
+    "STATE_TOBOLSK": [
+      "PRM"
+    ],
+    "STATE_TOHOKU": [
+      "JAP"
+    ],
+    "STATE_TONKIN": [
+      "YUE"
+    ],
+    "STATE_TRABZON": [
+      "DAG"
+    ],
+    "STATE_TUCUMAN": [
+      "PAT"
+    ],
+    "STATE_URAL": [
+      "PRM"
+    ],
+    "STATE_URGA": [
+      "MGL"
+    ],
+    "STATE_URMIA": [
+      "DAG"
+    ],
+    "STATE_UUSIMAA": [
+      "FIN"
+    ],
+    "STATE_VICTORIA": [
+      "TOL"
+    ],
+    "STATE_VOLHYNIA": [
+      "UKR"
+    ],
+    "STATE_WESTERN_AUSTRALIA": [
+      "WAS"
+    ],
+    "STATE_WESTERN_HUBEI": [
+      "YUE"
+    ],
+    "STATE_WESTERN_NEW_GUINEA": [
+      "PPU"
+    ],
+    "STATE_WEST_BENGAL": [
+      "BGL"
+    ],
+    "STATE_YANGHO": [
+      "KOR"
+    ],
+    "STATE_YORKSHIRE": [
+      "NRM"
+    ],
+    "STATE_ZHEJIANG": [
+      "HNA",
+      "YUE"
+    ],
+    "STATE_ZULIA": [
+      "HAI"
+    ],
+    "STATE_ZULULAND": [
+      "SAF"
+    ]
+  },
+  "state_claim_counts": {
+    "STATE_ALABAMA": 1,
+    "STATE_ALAND": 1,
+    "STATE_ALXA": 2,
+    "STATE_ANKARA": 1,
+    "STATE_ARMENIA": 1,
+    "STATE_AZERBAIJAN": 1,
+    "STATE_BIHAR": 1,
+    "STATE_BOLIVAR": 1,
+    "STATE_BUSAN": 1,
+    "STATE_CHERNIHIV": 1,
+    "STATE_CHUGOKU": 2,
+    "STATE_DIYARBAKIR": 1,
+    "STATE_EASTERN_CAPE": 1,
+    "STATE_EASTERN_HUBEI": 1,
+    "STATE_EAST_BENGAL": 1,
+    "STATE_EAST_GALICIA": 1,
+    "STATE_EAST_KARELIA": 2,
+    "STATE_ELIZAVETPOL": 1,
+    "STATE_ERZURUM": 1,
+    "STATE_FLORIDA": 2,
+    "STATE_FORMOSA": 1,
+    "STATE_FUJIAN": 2,
+    "STATE_GEORGIA": 1,
+    "STATE_GOTLAND": 1,
+    "STATE_GREATER_CAUCASUS": 1,
+    "STATE_GREENLAND": 1,
+    "STATE_GUANGDONG": 2,
+    "STATE_GUANGXI": 1,
+    "STATE_GUIZHOU": 1,
+    "STATE_HILL_PUNJAB": 1,
+    "STATE_HINGGAN": 1,
+    "STATE_HOKKAIDO": 1,
+    "STATE_HUNAN": 1,
+    "STATE_ICELAND": 1,
+    "STATE_JIANGXI": 1,
+    "STATE_KANSAI": 1,
+    "STATE_KANTO": 1,
+    "STATE_KARS": 1,
+    "STATE_KASTAMONU": 1,
+    "STATE_KHARKOV": 1,
+    "STATE_KOLA": 2,
+    "STATE_KURSK": 1,
+    "STATE_KYUSHU": 2,
+    "STATE_LANCASHIRE": 1,
+    "STATE_MIRANDA": 1,
+    "STATE_MISSISSIPPI": 1,
+    "STATE_NANJING": 1,
+    "STATE_NEW_SOUTH_WALES": 1,
+    "STATE_NORRLAND": 2,
+    "STATE_NORTHERN_NORWAY": 2,
+    "STATE_NORTHERN_TERRITORY": 1,
+    "STATE_NORTH_BORNEO": 1,
+    "STATE_NORTH_ISLAND": 1,
+    "STATE_NORTH_MADAGASCAR": 1,
+    "STATE_OB": 1,
+    "STATE_OULU": 2,
+    "STATE_OUTER_MANCHURIA": 2,
+    "STATE_PUNJAB": 1,
+    "STATE_RIFT_VALLEY": 1,
+    "STATE_RYUKYU_ISLANDS": 1,
+    "STATE_SAKHALIN": 1,
+    "STATE_SANTIAGO": 1,
+    "STATE_SARIWON": 1,
+    "STATE_SCHLESWIG_HOLSTEIN": 1,
+    "STATE_SHAOZHOU": 2,
+    "STATE_SHENGJING": 1,
+    "STATE_SHIKOKU": 1,
+    "STATE_SICILY": 2,
+    "STATE_SOUTHERN_ANHUI": 1,
+    "STATE_SOUTHERN_MANCHURIA": 1,
+    "STATE_SOUTH_MADAGASCAR": 1,
+    "STATE_SURGUT": 1,
+    "STATE_SUZHOU": 1,
+    "STATE_TABRIZ": 1,
+    "STATE_TALINN": 1,
+    "STATE_TOBOLSK": 1,
+    "STATE_TOHOKU": 1,
+    "STATE_TONKIN": 1,
+    "STATE_TRABZON": 1,
+    "STATE_TUCUMAN": 1,
+    "STATE_URAL": 1,
+    "STATE_URGA": 1,
+    "STATE_URMIA": 1,
+    "STATE_UUSIMAA": 1,
+    "STATE_VICTORIA": 1,
+    "STATE_VOLHYNIA": 1,
+    "STATE_WESTERN_AUSTRALIA": 1,
+    "STATE_WESTERN_HUBEI": 1,
+    "STATE_WESTERN_NEW_GUINEA": 1,
+    "STATE_WEST_BENGAL": 1,
+    "STATE_YANGHO": 1,
+    "STATE_YORKSHIRE": 1,
+    "STATE_ZHEJIANG": 2,
+    "STATE_ZULIA": 1,
+    "STATE_ZULULAND": 1
+  },
+  "scale_max": 8,
+  "legend": [
+    {
+      "count": 0,
+      "rgb": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "count": 1,
+      "rgb": [
+        255,
+        185,
+        175
+      ]
+    },
+    {
+      "count": 2,
+      "rgb": [
+        245,
+        162,
+        156
+      ]
+    },
+    {
+      "count": 3,
+      "rgb": [
+        236,
+        140,
+        138
+      ]
+    },
+    {
+      "count": 4,
+      "rgb": [
+        227,
+        117,
+        120
+      ]
+    },
+    {
+      "count": 5,
+      "rgb": [
+        217,
+        95,
+        102
+      ]
+    },
+    {
+      "count": 6,
+      "rgb": [
+        208,
+        72,
+        84
+      ]
+    },
+    {
+      "count": 7,
+      "rgb": [
+        199,
+        50,
+        66
+      ]
+    },
+    {
+      "count": 8,
+      "rgb": [
+        190,
+        28,
+        48
+      ]
+    }
+  ],
+  "stats": {
+    "claimed_states": 95,
+    "unclaimed_states": 579,
+    "max_claim_count": 2
+  }
+}

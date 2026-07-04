@@ -1,0 +1,26 @@
+{
+  "incorporated_tag_states": 725,
+  "unincorporated_tag_states": 187,
+  "colors": {
+    "sea": [
+      255,
+      255,
+      255
+    ],
+    "unowned": [
+      255,
+      255,
+      255
+    ],
+    "incorporated": [
+      70,
+      130,
+      200
+    ],
+    "unincorporated": [
+      220,
+      140,
+      50
+    ]
+  }
+}

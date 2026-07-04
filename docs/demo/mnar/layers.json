@@ -1,0 +1,23 @@
+{
+  "dataset": "Sample A (alternate-history fiction)",
+  "read_only": true,
+  "layers": [
+    { "id": "ownership", "label_zh": "国家归属", "label_en": "Ownership", "file": "ownership.png" },
+    { "id": "country_type", "label_zh": "国家类型", "label_en": "Country type", "file": "country_type.png" },
+    { "id": "incorporation", "label_zh": "整合状态", "label_en": "Incorporation", "file": "incorporation.png" },
+    { "id": "pop_total", "label_zh": "人口总量", "label_en": "Population", "file": "pop_total.png" },
+    { "id": "pop_culture", "label_zh": "主流文化", "label_en": "Culture", "file": "pop_culture.png" },
+    { "id": "pop_religion", "label_zh": "主流宗教", "label_en": "Religion", "file": "pop_religion.png" },
+    { "id": "building_level", "label_zh": "建筑等级", "label_en": "Building levels", "file": "building_level.png" },
+    { "id": "homeland", "label_zh": "文化本土", "label_en": "Homelands", "file": "homeland.png" },
+    { "id": "claims", "label_zh": "宣称", "label_en": "Claims", "file": "claims.png" },
+    { "id": "foreign_investment", "label_zh": "外资", "label_en": "Foreign investment", "file": "foreign_investment.png" },
+    { "id": "slavery", "label_zh": "奴隶人口", "label_en": "Slavery", "file": "slavery.png" },
+    { "id": "hubs", "label_zh": "枢纽", "label_en": "Hubs", "file": "hubs.png" },
+    { "id": "strategic_region", "label_zh": "战略区域", "label_en": "Strategic regions", "file": "strategic_region.png" },
+    { "id": "terrain", "label_zh": "地块质量", "label_en": "Terrain", "file": "terrain.png" },
+    { "id": "border_country", "label_zh": "国界", "label_en": "Country borders", "file": "border_country.png" },
+    { "id": "border_state", "label_zh": "州界", "label_en": "State borders", "file": "border_state.png" },
+    { "id": "border_province", "label_zh": "地块界", "label_en": "Province borders", "file": "border_province.png" }
+  ]
+}

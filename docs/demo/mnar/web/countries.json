@@ -1,0 +1,7612 @@
+{
+  "ABK": {
+    "r": 92,
+    "g": 188,
+    "b": 73,
+    "country_type": "recognized",
+    "cultures": [
+      "north_caucasian"
+    ]
+  },
+  "ABS": {
+    "r": 199,
+    "g": 102,
+    "b": 22,
+    "country_type": "decentralized",
+    "cultures": [
+      "siouan"
+    ]
+  },
+  "ABU": {
+    "r": 113,
+    "g": 112,
+    "b": 96,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bedouin"
+    ]
+  },
+  "ACE": {
+    "r": 73,
+    "g": 152,
+    "b": 76,
+    "country_type": "unrecognized",
+    "cultures": [
+      "sumatran"
+    ]
+  },
+  "ACH": {
+    "r": 166,
+    "g": 225,
+    "b": 217,
+    "country_type": "unrecognized",
+    "cultures": [
+      "luo",
+      "lacustrine_bantu"
+    ]
+  },
+  "ADG": {
+    "r": 215,
+    "g": 132,
+    "b": 165,
+    "country_type": "decentralized",
+    "cultures": [
+      "tuareg"
+    ]
+  },
+  "ADR": {
+    "r": 13,
+    "g": 164,
+    "b": 56,
+    "country_type": "decentralized",
+    "cultures": [
+      "bidan"
+    ]
+  },
+  "AFG": {
+    "r": 92,
+    "g": 148,
+    "b": 152,
+    "country_type": "unrecognized",
+    "cultures": [
+      "pashtun",
+      "tajik"
+    ]
+  },
+  "AFS": {
+    "r": 130,
+    "g": 23,
+    "b": 47,
+    "country_type": "colonial",
+    "cultures": [
+      "bakongo"
+    ]
+  },
+  "AGC": {
+    "r": 255,
+    "g": 180,
+    "b": 0,
+    "country_type": "unrecognized",
+    "cultures": [
+      "swahili"
+    ]
+  },
+  "AGJ": {
+    "r": 111,
+    "g": 56,
+    "b": 200,
+    "country_type": "recognized",
+    "cultures": [
+      "afro_brazilian"
+    ]
+  },
+  "AGL": {
+    "r": 72,
+    "g": 54,
+    "b": 76,
+    "country_type": "recognized",
+    "cultures": [
+      "anglish"
+    ]
+  },
+  "AHG": {
+    "r": 138,
+    "g": 168,
+    "b": 70,
+    "country_type": "decentralized",
+    "cultures": [
+      "tuareg"
+    ]
+  },
+  "AHU": {
+    "r": 187,
+    "g": 126,
+    "b": 224,
+    "country_type": "unrecognized",
+    "cultures": [
+      "han"
+    ]
+  },
+  "AIN": {
+    "r": 201,
+    "g": 197,
+    "b": 124,
+    "country_type": "unrecognized",
+    "cultures": [
+      "ainu"
+    ]
+  },
+  "AIR": {
+    "r": 30,
+    "g": 31,
+    "b": 162,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tuareg"
+    ]
+  },
+  "AIT": {
+    "r": 255,
+    "g": 255,
+    "b": 153,
+    "country_type": "unrecognized",
+    "cultures": [
+      "berber"
+    ]
+  },
+  "AJJ": {
+    "r": 255,
+    "g": 105,
+    "b": 180,
+    "country_type": "decentralized",
+    "cultures": [
+      "tuareg"
+    ]
+  },
+  "AJR": {
+    "r": 124,
+    "g": 128,
+    "b": 93,
+    "country_type": "decentralized",
+    "cultures": [
+      "somali"
+    ]
+  },
+  "ALA": {
+    "r": 0,
+    "g": 140,
+    "b": 230,
+    "country_type": "recognized",
+    "cultures": []
+  },
+  "ALB": {
+    "r": 181,
+    "g": 72,
+    "b": 106,
+    "country_type": "recognized",
+    "cultures": [
+      "albanian"
+    ]
+  },
+  "ALD": {
+    "r": 210,
+    "g": 235,
+    "b": 87,
+    "country_type": "unrecognized",
+    "cultures": [
+      "maghrebi",
+      "berber"
+    ]
+  },
+  "ALE": {
+    "r": 12,
+    "g": 12,
+    "b": 105,
+    "country_type": "recognized",
+    "cultures": [
+      "french"
+    ]
+  },
+  "ALI": {
+    "r": 255,
+    "g": 101,
+    "b": 38,
+    "country_type": "recognized",
+    "cultures": [
+      "mongol"
+    ]
+  },
+  "ALK": {
+    "r": 20,
+    "g": 191,
+    "b": 20,
+    "country_type": "decentralized",
+    "cultures": [
+      "athabaskan"
+    ]
+  },
+  "ALS": {
+    "r": 205,
+    "g": 205,
+    "b": 230,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish",
+      "alemannic"
+    ]
+  },
+  "ALT": {
+    "r": 115,
+    "g": 251,
+    "b": 194,
+    "country_type": "recognized",
+    "cultures": [
+      "central_american"
+    ]
+  },
+  "ALW": {
+    "r": 65,
+    "g": 105,
+    "b": 225,
+    "country_type": "unrecognized",
+    "cultures": [
+      "rajput"
+    ]
+  },
+  "AMZ": {
+    "r": 42,
+    "g": 102,
+    "b": 64,
+    "country_type": "decentralized",
+    "cultures": [
+      "amazonian"
+    ]
+  },
+  "ANH": {
+    "r": 203,
+    "g": 93,
+    "b": 124,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "ANK": {
+    "r": 126,
+    "g": 162,
+    "b": 98,
+    "country_type": "unrecognized",
+    "cultures": [
+      "baganda",
+      "lacustrine_bantu"
+    ]
+  },
+  "ANL": {
+    "r": 31,
+    "g": 138,
+    "b": 40,
+    "country_type": "recognized",
+    "cultures": [
+      "andalusian"
+    ]
+  },
+  "ANT": {
+    "r": 200,
+    "g": 50,
+    "b": 50,
+    "country_type": "recognized",
+    "cultures": [
+      "turkish"
+    ]
+  },
+  "ANU": {
+    "r": 128,
+    "g": 98,
+    "b": 89,
+    "country_type": "decentralized",
+    "cultures": [
+      "luo"
+    ]
+  },
+  "AOT": {
+    "r": 47,
+    "g": 140,
+    "b": 191,
+    "country_type": "unrecognized",
+    "cultures": [
+      "maori"
+    ]
+  },
+  "APC": {
+    "r": 198,
+    "g": 158,
+    "b": 109,
+    "country_type": "decentralized",
+    "cultures": [
+      "apache"
+    ]
+  },
+  "ARA": {
+    "r": 66,
+    "g": 111,
+    "b": 19,
+    "country_type": "unrecognized",
+    "cultures": [
+      "mashriqi",
+      "bedouin",
+      "misri",
+      "yemenite",
+      "oman"
+    ]
+  },
+  "ARB": {
+    "r": 140,
+    "g": 102,
+    "b": 152,
+    "country_type": "unrecognized",
+    "cultures": [
+      "mashriqi"
+    ]
+  },
+  "ARG": {
+    "r": 101,
+    "g": 102,
+    "b": 163,
+    "country_type": "recognized",
+    "cultures": [
+      "platinean"
+    ]
+  },
+  "ARH": {
+    "r": 232,
+    "g": 48,
+    "b": 233,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "ARK": {
+    "r": 212,
+    "g": 211,
+    "b": 151,
+    "country_type": "unrecognized",
+    "cultures": [
+      "burmese"
+    ]
+  },
+  "ARM": {
+    "r": 128,
+    "g": 63,
+    "b": 128,
+    "country_type": "recognized",
+    "cultures": [
+      "armenian"
+    ]
+  },
+  "ARN": {
+    "r": 166,
+    "g": 98,
+    "b": 22,
+    "country_type": "recognized",
+    "cultures": [
+      "occitan",
+      "aragonese"
+    ]
+  },
+  "ARP": {
+    "r": 223,
+    "g": 204,
+    "b": 125,
+    "country_type": "decentralized",
+    "cultures": [
+      "siouan"
+    ]
+  },
+  "ARR": {
+    "r": 182,
+    "g": 165,
+    "b": 254,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "ARS": {
+    "r": 255,
+    "g": 197,
+    "b": 179,
+    "country_type": "unrecognized",
+    "cultures": [
+      "oromo"
+    ]
+  },
+  "ASA": {
+    "r": 212,
+    "g": 100,
+    "b": 141,
+    "country_type": "recognized",
+    "cultures": [
+      "afro_american"
+    ]
+  },
+  "ASH": {
+    "r": 97,
+    "g": 98,
+    "b": 195,
+    "country_type": "unrecognized",
+    "cultures": [
+      "akan"
+    ]
+  },
+  "ASM": {
+    "r": 163,
+    "g": 5,
+    "b": 77,
+    "country_type": "unrecognized",
+    "cultures": [
+      "assamese"
+    ]
+  },
+  "ASS": {
+    "r": 111,
+    "g": 56,
+    "b": 200,
+    "country_type": "recognized",
+    "cultures": [
+      "assyrian"
+    ]
+  },
+  "AST": {
+    "r": 77,
+    "g": 139,
+    "b": 106,
+    "country_type": "colonial",
+    "cultures": [
+      "mashriq_sahara"
+    ]
+  },
+  "ASU": {
+    "r": 104,
+    "g": 173,
+    "b": 230,
+    "country_type": "recognized",
+    "cultures": [
+      "asturleonese"
+    ]
+  },
+  "ATB": {
+    "r": 88,
+    "g": 105,
+    "b": 137,
+    "country_type": "decentralized",
+    "cultures": [
+      "athabaskan"
+    ]
+  },
+  "ATI": {
+    "r": 206,
+    "g": 66,
+    "b": 158,
+    "country_type": "recognized",
+    "cultures": [
+      "greek"
+    ]
+  },
+  "ATL": {
+    "r": 115,
+    "g": 236,
+    "b": 250,
+    "country_type": "recognized",
+    "cultures": [
+      "caribeno",
+      "afro_caribeno"
+    ]
+  },
+  "ATR": {
+    "r": 83,
+    "g": 123,
+    "b": 40,
+    "country_type": "decentralized",
+    "cultures": [
+      "tuareg"
+    ]
+  },
+  "AUL": {
+    "r": 196,
+    "g": 227,
+    "b": 240,
+    "country_type": "decentralized",
+    "cultures": [
+      "somali"
+    ]
+  },
+  "AUS": {
+    "r": 120,
+    "g": 100,
+    "b": 100,
+    "country_type": "recognized",
+    "cultures": [
+      "south_german"
+    ]
+  },
+  "AVE": {
+    "r": 190,
+    "g": 100,
+    "b": 40,
+    "country_type": "recognized",
+    "cultures": [
+      "galician"
+    ]
+  },
+  "AWA": {
+    "r": 119,
+    "g": 130,
+    "b": 145,
+    "country_type": "unrecognized",
+    "cultures": [
+      "avadhi"
+    ]
+  },
+  "AWS": {
+    "r": 125,
+    "g": 125,
+    "b": 100,
+    "country_type": "unrecognized",
+    "cultures": [
+      "afar",
+      "tigray"
+    ]
+  },
+  "AYI": {
+    "r": 131,
+    "g": 210,
+    "b": 34,
+    "country_type": "decentralized",
+    "cultures": [
+      "akan"
+    ]
+  },
+  "AYM": {
+    "r": 173,
+    "g": 211,
+    "b": 239,
+    "country_type": "unrecognized",
+    "cultures": [
+      "aimara"
+    ]
+  },
+  "AZB": {
+    "r": 68,
+    "g": 110,
+    "b": 35,
+    "country_type": "unrecognized",
+    "cultures": [
+      "azerbaijani"
+    ]
+  },
+  "BAD": {
+    "r": 118,
+    "g": 229,
+    "b": 215,
+    "country_type": "recognized",
+    "cultures": [
+      "south_german"
+    ]
+  },
+  "BAG": {
+    "r": 123,
+    "g": 14,
+    "b": 148,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bageli"
+    ]
+  },
+  "BAH": {
+    "r": 66,
+    "g": 51,
+    "b": 70,
+    "country_type": "colonial",
+    "cultures": [
+      "caribeno"
+    ]
+  },
+  "BAL": {
+    "r": 201,
+    "g": 97,
+    "b": 74,
+    "country_type": "colonial",
+    "cultures": [
+      "occitanic_insulindian"
+    ]
+  },
+  "BAS": {
+    "r": 110,
+    "g": 173,
+    "b": 129,
+    "country_type": "unrecognized",
+    "cultures": [
+      "telegu"
+    ]
+  },
+  "BAV": {
+    "r": 80,
+    "g": 90,
+    "b": 90,
+    "country_type": "recognized",
+    "cultures": [
+      "south_german"
+    ]
+  },
+  "BCE": {
+    "r": 0,
+    "g": 51,
+    "b": 102,
+    "country_type": "colonial",
+    "cultures": [
+      "british"
+    ]
+  },
+  "BDJ": {
+    "r": 138,
+    "g": 243,
+    "b": 53,
+    "country_type": "recognized",
+    "cultures": [
+      "toledo"
+    ]
+  },
+  "BEI": {
+    "r": 219,
+    "g": 44,
+    "b": 21,
+    "country_type": "unrecognized",
+    "cultures": [
+      "han"
+    ]
+  },
+  "BEL": {
+    "r": 235,
+    "g": 200,
+    "b": 127,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish"
+    ]
+  },
+  "BEN": {
+    "r": 110,
+    "g": 173,
+    "b": 129,
+    "country_type": "unrecognized",
+    "cultures": [
+      "edo"
+    ]
+  },
+  "BER": {
+    "r": 120,
+    "g": 77,
+    "b": 119,
+    "country_type": "unrecognized",
+    "cultures": [
+      "gujarati"
+    ]
+  },
+  "BGD": {
+    "r": 40,
+    "g": 85,
+    "b": 145,
+    "country_type": "recognized",
+    "cultures": [
+      "francoprovencal",
+      "french"
+    ]
+  },
+  "BGI": {
+    "r": 64,
+    "g": 124,
+    "b": 157,
+    "country_type": "unrecognized",
+    "cultures": [
+      "baguirmi"
+    ]
+  },
+  "BGL": {
+    "r": 36,
+    "g": 109,
+    "b": 194,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bengali",
+      "bihari"
+    ]
+  },
+  "BGM": {
+    "r": 228,
+    "g": 243,
+    "b": 104,
+    "country_type": "unrecognized",
+    "cultures": [
+      "amhara",
+      "oromo",
+      "tigray"
+    ]
+  },
+  "BHI": {
+    "r": 197,
+    "g": 206,
+    "b": 191,
+    "country_type": "colonial",
+    "cultures": [
+      "nordestino"
+    ]
+  },
+  "BHN": {
+    "r": 169,
+    "g": 51,
+    "b": 51,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bedouin"
+    ]
+  },
+  "BHO": {
+    "r": 154,
+    "g": 129,
+    "b": 35,
+    "country_type": "unrecognized",
+    "cultures": [
+      "marathi"
+    ]
+  },
+  "BHT": {
+    "r": 255,
+    "g": 140,
+    "b": 0,
+    "country_type": "recognized",
+    "cultures": [
+      "assamese",
+      "avadhi",
+      "baluchi",
+      "bengali",
+      "bihari",
+      "gujarati",
+      "kannada",
+      "malayalam",
+      "marathi",
+      "oriya",
+      "panjabi",
+      "pathan",
+      "rajput",
+      "sindi",
+      "tamil",
+      "telegu",
+      "hindustani",
+      "bundeli",
+      "pahari",
+      "gondi",
+      "bageli",
+      "chhattisgarhi",
+      "deccani",
+      "italic_oriya",
+      "italic_deccani",
+      "italic_gujarati"
+    ]
+  },
+  "BHU": {
+    "r": 93,
+    "g": 180,
+    "b": 76,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tibetan"
+    ]
+  },
+  "BHV": {
+    "r": 122,
+    "g": 222,
+    "b": 222,
+    "country_type": "unrecognized",
+    "cultures": [
+      "gujarati"
+    ]
+  },
+  "BHW": {
+    "r": 93,
+    "g": 148,
+    "b": 107,
+    "country_type": "unrecognized",
+    "cultures": [
+      "panjabi",
+      "sindi"
+    ]
+  },
+  "BIC": {
+    "r": 188,
+    "g": 113,
+    "b": 61,
+    "country_type": "colonial",
+    "cultures": [
+      "italic_gujarati"
+    ]
+  },
+  "BIH": {
+    "r": 252,
+    "g": 239,
+    "b": 60,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bihari"
+    ]
+  },
+  "BIK": {
+    "r": 255,
+    "g": 208,
+    "b": 170,
+    "country_type": "unrecognized",
+    "cultures": [
+      "rajput"
+    ]
+  },
+  "BJA": {
+    "r": 140,
+    "g": 65,
+    "b": 135,
+    "country_type": "decentralized",
+    "cultures": [
+      "beja"
+    ]
+  },
+  "BKR": {
+    "r": 71,
+    "g": 219,
+    "b": 129,
+    "country_type": "recognized",
+    "cultures": [
+      "bashkir"
+    ]
+  },
+  "BLA": {
+    "r": 140,
+    "g": 166,
+    "b": 75,
+    "country_type": "decentralized",
+    "cultures": [
+      "melanesian"
+    ]
+  },
+  "BLE": {
+    "r": 218,
+    "g": 104,
+    "b": 44,
+    "country_type": "decentralized",
+    "cultures": [
+      "akan"
+    ]
+  },
+  "BLF": {
+    "r": 49,
+    "g": 72,
+    "b": 153,
+    "country_type": "decentralized",
+    "cultures": [
+      "siouan"
+    ]
+  },
+  "BLG": {
+    "r": 140,
+    "g": 166,
+    "b": 75,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bornean"
+    ]
+  },
+  "BLH": {
+    "r": 125,
+    "g": 47,
+    "b": 47,
+    "country_type": "unrecognized",
+    "cultures": [
+      "baluchi"
+    ]
+  },
+  "BLT": {
+    "r": 130,
+    "g": 10,
+    "b": 0,
+    "country_type": "recognized",
+    "cultures": [
+      "latvian",
+      "estonian",
+      "lithuanian",
+      "prussian"
+    ]
+  },
+  "BMB": {
+    "r": 192,
+    "g": 90,
+    "b": 121,
+    "country_type": "decentralized",
+    "cultures": [
+      "lacustrine_bantu"
+    ]
+  },
+  "BMM": {
+    "r": 197,
+    "g": 201,
+    "b": 163,
+    "country_type": "decentralized",
+    "cultures": [
+      "equatorial_bantu"
+    ]
+  },
+  "BND": {
+    "r": 60,
+    "g": 118,
+    "b": 54,
+    "country_type": "decentralized",
+    "cultures": [
+      "fulbe",
+      "mande"
+    ]
+  },
+  "BNE": {
+    "r": 139,
+    "g": 30,
+    "b": 10,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish",
+      "alemannic"
+    ]
+  },
+  "BNG": {
+    "r": 41,
+    "g": 135,
+    "b": 135,
+    "country_type": "decentralized",
+    "cultures": [
+      "mongo",
+      "fluvian_bantu"
+    ]
+  },
+  "BNJ": {
+    "r": 171,
+    "g": 175,
+    "b": 40,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bornean"
+    ]
+  },
+  "BNN": {
+    "r": 129,
+    "g": 56,
+    "b": 7,
+    "country_type": "decentralized",
+    "cultures": [
+      "paiute"
+    ]
+  },
+  "BNT": {
+    "r": 59,
+    "g": 104,
+    "b": 94,
+    "country_type": "recognized",
+    "cultures": [
+      "south_german",
+      "serb"
+    ]
+  },
+  "BNY": {
+    "r": 174,
+    "g": 24,
+    "b": 66,
+    "country_type": "unrecognized",
+    "cultures": [
+      "baganda",
+      "lacustrine_bantu"
+    ]
+  },
+  "BOB": {
+    "r": 211,
+    "g": 149,
+    "b": 112,
+    "country_type": "decentralized",
+    "cultures": [
+      "mongo",
+      "bakongo"
+    ]
+  },
+  "BOH": {
+    "r": 176,
+    "g": 110,
+    "b": 32,
+    "country_type": "recognized",
+    "cultures": [
+      "czech",
+      "wendish"
+    ]
+  },
+  "BOL": {
+    "r": 157,
+    "g": 199,
+    "b": 224,
+    "country_type": "unrecognized",
+    "cultures": [
+      "quechua"
+    ]
+  },
+  "BOR": {
+    "r": 30,
+    "g": 131,
+    "b": 162,
+    "country_type": "unrecognized",
+    "cultures": [
+      "kanuri"
+    ]
+  },
+  "BOS": {
+    "r": 170,
+    "g": 70,
+    "b": 100,
+    "country_type": "recognized",
+    "cultures": [
+      "bosniak"
+    ]
+  },
+  "BOU": {
+    "r": 26,
+    "g": 10,
+    "b": 135,
+    "country_type": "recognized",
+    "cultures": [
+      "occitan",
+      "french"
+    ]
+  },
+  "BRA": {
+    "r": 116,
+    "g": 92,
+    "b": 39,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "BRC": {
+    "r": 160,
+    "g": 105,
+    "b": 70,
+    "country_type": "recognized",
+    "cultures": [
+      "galician"
+    ]
+  },
+  "BRD": {
+    "r": 21,
+    "g": 191,
+    "b": 16,
+    "country_type": "unrecognized",
+    "cultures": [
+      "rundi"
+    ]
+  },
+  "BRE": {
+    "r": 33,
+    "g": 101,
+    "b": 137,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "BRG": {
+    "r": 218,
+    "g": 231,
+    "b": 235,
+    "country_type": "unrecognized",
+    "cultures": [
+      "mande",
+      "fulbe"
+    ]
+  },
+  "BRI": {
+    "r": 197,
+    "g": 215,
+    "b": 217,
+    "country_type": "recognized",
+    "cultures": [
+      "breton"
+    ]
+  },
+  "BRK": {
+    "r": 33,
+    "g": 64,
+    "b": 120,
+    "country_type": "decentralized",
+    "cultures": [
+      "haratin"
+    ]
+  },
+  "BRN": {
+    "r": 236,
+    "g": 236,
+    "b": 104,
+    "country_type": "unrecognized",
+    "cultures": [
+      "oromo"
+    ]
+  },
+  "BRR": {
+    "r": 30,
+    "g": 40,
+    "b": 220,
+    "country_type": "recognized",
+    "cultures": [
+      "french"
+    ]
+  },
+  "BRU": {
+    "r": 41,
+    "g": 89,
+    "b": 174,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bornean"
+    ]
+  },
+  "BRY": {
+    "r": 50,
+    "g": 50,
+    "b": 120,
+    "country_type": "decentralized",
+    "cultures": [
+      "buryat"
+    ]
+  },
+  "BRZ": {
+    "r": 39,
+    "g": 156,
+    "b": 84,
+    "country_type": "recognized",
+    "cultures": [
+      "brazilian"
+    ]
+  },
+  "BSS": {
+    "r": 203,
+    "g": 48,
+    "b": 37,
+    "country_type": "decentralized",
+    "cultures": [
+      "bassa"
+    ]
+  },
+  "BST": {
+    "r": 137,
+    "g": 106,
+    "b": 217,
+    "country_type": "decentralized",
+    "cultures": [
+      "sotho"
+    ]
+  },
+  "BTG": {
+    "r": 200,
+    "g": 193,
+    "b": 108,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tonga"
+    ]
+  },
+  "BTN": {
+    "r": 209,
+    "g": 203,
+    "b": 31,
+    "country_type": "unrecognized",
+    "cultures": [
+      "moluccan"
+    ]
+  },
+  "BUG": {
+    "r": 21,
+    "g": 21,
+    "b": 227,
+    "country_type": "unrecognized",
+    "cultures": [
+      "baganda"
+    ]
+  },
+  "BUK": {
+    "r": 147,
+    "g": 82,
+    "b": 173,
+    "country_type": "unrecognized",
+    "cultures": [
+      "uzbek"
+    ]
+  },
+  "BUL": {
+    "r": 116,
+    "g": 107,
+    "b": 140,
+    "country_type": "recognized",
+    "cultures": [
+      "bulgarian"
+    ]
+  },
+  "BUN": {
+    "r": 23,
+    "g": 114,
+    "b": 143,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bundeli"
+    ]
+  },
+  "BUR": {
+    "r": 109,
+    "g": 168,
+    "b": 127,
+    "country_type": "unrecognized",
+    "cultures": [
+      "burmese"
+    ]
+  },
+  "BYE": {
+    "r": 160,
+    "g": 225,
+    "b": 225,
+    "country_type": "recognized",
+    "cultures": [
+      "byelorussian"
+    ]
+  },
+  "BYZ": {
+    "r": 76,
+    "g": 0,
+    "b": 46,
+    "country_type": "recognized",
+    "cultures": [
+      "greek"
+    ]
+  },
+  "CAE": {
+    "r": 10,
+    "g": 0,
+    "b": 130,
+    "country_type": "recognized",
+    "cultures": [
+      "french"
+    ]
+  },
+  "CAL": {
+    "r": 144,
+    "g": 181,
+    "b": 106,
+    "country_type": "decentralized",
+    "cultures": [
+      "hokan"
+    ]
+  },
+  "CAM": {
+    "r": 127,
+    "g": 180,
+    "b": 60,
+    "country_type": "unrecognized",
+    "cultures": [
+      "khmer"
+    ]
+  },
+  "CAN": {
+    "r": 113,
+    "g": 53,
+    "b": 63,
+    "country_type": "colonial",
+    "cultures": [
+      "anglo_canadian",
+      "franco_canadian"
+    ]
+  },
+  "CAR": {
+    "r": 232,
+    "g": 79,
+    "b": 142,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tamil"
+    ]
+  },
+  "CAS": {
+    "r": 243,
+    "g": 209,
+    "b": 23,
+    "country_type": "recognized",
+    "cultures": [
+      "spanish"
+    ]
+  },
+  "CAT": {
+    "r": 213,
+    "g": 132,
+    "b": 76,
+    "country_type": "recognized",
+    "cultures": [
+      "catalan"
+    ]
+  },
+  "CAU": {
+    "r": 200,
+    "g": 100,
+    "b": 55,
+    "country_type": "recognized",
+    "cultures": [
+      "azerbaijani",
+      "armenian",
+      "georgian"
+    ]
+  },
+  "CAY": {
+    "r": 189,
+    "g": 187,
+    "b": 166,
+    "country_type": "decentralized",
+    "cultures": [
+      "wolof"
+    ]
+  },
+  "CCM": {
+    "r": 156,
+    "g": 171,
+    "b": 67,
+    "country_type": "decentralized",
+    "cultures": [
+      "oodham"
+    ]
+  },
+  "CEY": {
+    "r": 156,
+    "g": 47,
+    "b": 47,
+    "country_type": "unrecognized",
+    "cultures": [
+      "sinhala"
+    ]
+  },
+  "CHA": {
+    "r": 7,
+    "g": 60,
+    "b": 120,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish"
+    ]
+  },
+  "CHC": {
+    "r": 35,
+    "g": 52,
+    "b": 48,
+    "country_type": "unrecognized",
+    "cultures": [
+      "chechen"
+    ]
+  },
+  "CHE": {
+    "r": 105,
+    "g": 145,
+    "b": 40,
+    "country_type": "unrecognized",
+    "cultures": [
+      "cherokee"
+    ]
+  },
+  "CHI": {
+    "r": 190,
+    "g": 80,
+    "b": 48,
+    "country_type": "unrecognized",
+    "cultures": [
+      "han",
+      "yue",
+      "min",
+      "hakka",
+      "wu",
+      "xiang",
+      "gan",
+      "jin",
+      "shu",
+      "yi"
+    ]
+  },
+  "CHK": {
+    "r": 99,
+    "g": 160,
+    "b": 39,
+    "country_type": "decentralized",
+    "cultures": [
+      "lunda",
+      "ovimbundu"
+    ]
+  },
+  "CHL": {
+    "r": 219,
+    "g": 129,
+    "b": 101,
+    "country_type": "recognized",
+    "cultures": [
+      "vietnamese",
+      "khmer",
+      "thai",
+      "mon",
+      "khmu",
+      "lao",
+      "shan",
+      "burmese",
+      "kachin",
+      "karen",
+      "zhuang"
+    ]
+  },
+  "CHM": {
+    "r": 7,
+    "g": 60,
+    "b": 160,
+    "country_type": "recognized",
+    "cultures": [
+      "french"
+    ]
+  },
+  "CHP": {
+    "r": 75,
+    "g": 112,
+    "b": 99,
+    "country_type": "unrecognized",
+    "cultures": [
+      "lao"
+    ]
+  },
+  "CHT": {
+    "r": 96,
+    "g": 193,
+    "b": 182,
+    "country_type": "unrecognized",
+    "cultures": [
+      "kho"
+    ]
+  },
+  "CHV": {
+    "r": 249,
+    "g": 125,
+    "b": 4,
+    "country_type": "recognized",
+    "cultures": [
+      "chuvash"
+    ]
+  },
+  "CHW": {
+    "r": 116,
+    "g": 157,
+    "b": 102,
+    "country_type": "decentralized",
+    "cultures": [
+      "chewa"
+    ]
+  },
+  "CIB": {
+    "r": 182,
+    "g": 108,
+    "b": 45,
+    "country_type": "recognized",
+    "cultures": [
+      "galician"
+    ]
+  },
+  "CIR": {
+    "r": 75,
+    "g": 96,
+    "b": 55,
+    "country_type": "unrecognized",
+    "cultures": [
+      "circassian"
+    ]
+  },
+  "CKC": {
+    "r": 99,
+    "g": 236,
+    "b": 240,
+    "country_type": "decentralized",
+    "cultures": [
+      "siberian"
+    ]
+  },
+  "CLI": {
+    "r": 135,
+    "g": 113,
+    "b": 196,
+    "country_type": "recognized",
+    "cultures": [
+      "dixie"
+    ]
+  },
+  "CLM": {
+    "r": 255,
+    "g": 234,
+    "b": 168,
+    "country_type": "recognized",
+    "cultures": [
+      "north_andean"
+    ]
+  },
+  "CMB": {
+    "r": 140,
+    "g": 175,
+    "b": 130,
+    "country_type": "decentralized",
+    "cultures": [
+      "bedouin"
+    ]
+  },
+  "CMI": {
+    "r": 17,
+    "g": 16,
+    "b": 203,
+    "country_type": "unrecognized",
+    "cultures": [
+      "thai",
+      "shan"
+    ]
+  },
+  "CNS": {
+    "r": 183,
+    "g": 60,
+    "b": 155,
+    "country_type": "recognized",
+    "cultures": [
+      "greek"
+    ]
+  },
+  "CNW": {
+    "r": 194,
+    "g": 94,
+    "b": 63,
+    "country_type": "recognized",
+    "cultures": [
+      "british"
+    ]
+  },
+  "COB": {
+    "r": 180,
+    "g": 137,
+    "b": 148,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "COC": {
+    "r": 255,
+    "g": 188,
+    "b": 225,
+    "country_type": "unrecognized",
+    "cultures": [
+      "malayalam"
+    ]
+  },
+  "COL": {
+    "r": 198,
+    "g": 113,
+    "b": 133,
+    "country_type": "colonial",
+    "cultures": [
+      "british"
+    ]
+  },
+  "COM": {
+    "r": 96,
+    "g": 57,
+    "b": 19,
+    "country_type": "decentralized",
+    "cultures": [
+      "comanche"
+    ]
+  },
+  "CON": {
+    "r": 228,
+    "g": 3,
+    "b": 16,
+    "country_type": "unrecognized",
+    "cultures": [
+      "maghrebi",
+      "berber"
+    ]
+  },
+  "COO": {
+    "r": 220,
+    "g": 20,
+    "b": 60,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bengali"
+    ]
+  },
+  "COR": {
+    "r": 68,
+    "g": 242,
+    "b": 236,
+    "country_type": "recognized",
+    "cultures": [
+      "corsican"
+    ]
+  },
+  "COS": {
+    "r": 207,
+    "g": 72,
+    "b": 60,
+    "country_type": "recognized",
+    "cultures": [
+      "central_american"
+    ]
+  },
+  "CPT": {
+    "r": 255,
+    "g": 205,
+    "b": 155,
+    "country_type": "recognized",
+    "cultures": [
+      "coptic"
+    ]
+  },
+  "CRE": {
+    "r": 165,
+    "g": 111,
+    "b": 159,
+    "country_type": "recognized",
+    "cultures": [
+      "greek"
+    ]
+  },
+  "CRI": {
+    "r": 61,
+    "g": 8,
+    "b": 81,
+    "country_type": "recognized",
+    "cultures": [
+      "gothic"
+    ]
+  },
+  "CRO": {
+    "r": 122,
+    "g": 46,
+    "b": 58,
+    "country_type": "recognized",
+    "cultures": [
+      "croat"
+    ]
+  },
+  "CSA": {
+    "r": 190,
+    "g": 186,
+    "b": 202,
+    "country_type": "recognized",
+    "cultures": [
+      "dixie"
+    ]
+  },
+  "CSC": {
+    "r": 105,
+    "g": 152,
+    "b": 73,
+    "country_type": "decentralized",
+    "cultures": [
+      "salish"
+    ]
+  },
+  "CTF": {
+    "r": 220,
+    "g": 147,
+    "b": 37,
+    "country_type": "decentralized",
+    "cultures": [
+      "algonquian"
+    ]
+  },
+  "CTR": {
+    "r": 223,
+    "g": 249,
+    "b": 104,
+    "country_type": "recognized",
+    "cultures": [
+      "sulista"
+    ]
+  },
+  "CUB": {
+    "r": 87,
+    "g": 192,
+    "b": 204,
+    "country_type": "colonial",
+    "cultures": [
+      "caribeno"
+    ]
+  },
+  "CUM": {
+    "r": 131,
+    "g": 84,
+    "b": 50,
+    "country_type": "recognized",
+    "cultures": [
+      "cuman"
+    ]
+  },
+  "CYP": {
+    "r": 78,
+    "g": 75,
+    "b": 39,
+    "country_type": "recognized",
+    "cultures": [
+      "greek"
+    ]
+  },
+  "CYR": {
+    "r": 30,
+    "g": 55,
+    "b": 80,
+    "country_type": "unrecognized",
+    "cultures": [
+      "maghrebi"
+    ]
+  },
+  "CZH": {
+    "r": 158,
+    "g": 102,
+    "b": 36,
+    "country_type": "recognized",
+    "cultures": [
+      "czech",
+      "slovak"
+    ]
+  },
+  "DAG": {
+    "r": 68,
+    "g": 110,
+    "b": 35,
+    "country_type": "unrecognized",
+    "cultures": [
+      "azerbaijani",
+      "north_caucasian"
+    ]
+  },
+  "DAH": {
+    "r": 11,
+    "g": 84,
+    "b": 179,
+    "country_type": "unrecognized",
+    "cultures": [
+      "fon"
+    ]
+  },
+  "DAI": {
+    "r": 136,
+    "g": 117,
+    "b": 90,
+    "country_type": "unrecognized",
+    "cultures": [
+      "vietnamese"
+    ]
+  },
+  "DAK": {
+    "r": 123,
+    "g": 134,
+    "b": 74,
+    "country_type": "decentralized",
+    "cultures": [
+      "fur",
+      "equatorial_bantu"
+    ]
+  },
+  "DEC": {
+    "r": 190,
+    "g": 20,
+    "b": 50,
+    "country_type": "recognized",
+    "cultures": [
+      "kannada",
+      "malayalam",
+      "tamil",
+      "gondi",
+      "telegu"
+    ]
+  },
+  "DEI": {
+    "r": 20,
+    "g": 80,
+    "b": 80,
+    "country_type": "colonial",
+    "cultures": [
+      "slavic_insulindian"
+    ]
+  },
+  "DEN": {
+    "r": 128,
+    "g": 32,
+    "b": 25,
+    "country_type": "recognized",
+    "cultures": [
+      "danish"
+    ]
+  },
+  "DES": {
+    "r": 125,
+    "g": 92,
+    "b": 110,
+    "country_type": "decentralized",
+    "cultures": [
+      "paiute"
+    ]
+  },
+  "DFR": {
+    "r": 44,
+    "g": 160,
+    "b": 70,
+    "country_type": "unrecognized",
+    "cultures": [
+      "fur",
+      "bedouin"
+    ]
+  },
+  "DFT": {
+    "r": 167,
+    "g": 92,
+    "b": 56,
+    "country_type": "decentralized",
+    "cultures": [
+      "equatorial_bantu",
+      "azande"
+    ]
+  },
+  "DGR": {
+    "r": 235,
+    "g": 222,
+    "b": 52,
+    "country_type": "decentralized",
+    "cultures": [
+      "champa"
+    ]
+  },
+  "DHA": {
+    "r": 23,
+    "g": 121,
+    "b": 23,
+    "country_type": "unrecognized",
+    "cultures": [
+      "gujarati"
+    ]
+  },
+  "DIN": {
+    "r": 143,
+    "g": 55,
+    "b": 56,
+    "country_type": "decentralized",
+    "cultures": [
+      "tuareg"
+    ]
+  },
+  "DIO": {
+    "r": 123,
+    "g": 111,
+    "b": 111,
+    "country_type": "decentralized",
+    "cultures": [
+      "fulbe"
+    ]
+  },
+  "DIR": {
+    "r": 1,
+    "g": 65,
+    "b": 28,
+    "country_type": "unrecognized",
+    "cultures": [
+      "pashtun"
+    ]
+  },
+  "DKT": {
+    "r": 68,
+    "g": 14,
+    "b": 98,
+    "country_type": "decentralized",
+    "cultures": [
+      "dakota"
+    ]
+  },
+  "DLA": {
+    "r": 22,
+    "g": 121,
+    "b": 17,
+    "country_type": "decentralized",
+    "cultures": [
+      "equatorial_bantu"
+    ]
+  },
+  "DLM": {
+    "r": 43,
+    "g": 221,
+    "b": 159,
+    "country_type": "decentralized",
+    "cultures": [
+      "bidan"
+    ]
+  },
+  "DLY": {
+    "r": 178,
+    "g": 121,
+    "b": 123,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "DNK": {
+    "r": 78,
+    "g": 99,
+    "b": 75,
+    "country_type": "decentralized",
+    "cultures": [
+      "dinka"
+    ]
+  },
+  "DOM": {
+    "r": 93,
+    "g": 194,
+    "b": 122,
+    "country_type": "recognized",
+    "cultures": [
+      "caribeno",
+      "afro_caribeno"
+    ]
+  },
+  "DON": {
+    "r": 37,
+    "g": 168,
+    "b": 217,
+    "country_type": "recognized",
+    "cultures": [
+      "russian",
+      "ukrainian"
+    ]
+  },
+  "DRA": {
+    "r": 255,
+    "g": 245,
+    "b": 238,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tamil",
+      "telegu",
+      "malayalam",
+      "kannada"
+    ]
+  },
+  "DYB": {
+    "r": 238,
+    "g": 39,
+    "b": 2,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "DZG": {
+    "r": 78,
+    "g": 129,
+    "b": 151,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "ECU": {
+    "r": 196,
+    "g": 126,
+    "b": 126,
+    "country_type": "unrecognized",
+    "cultures": [
+      "quechua"
+    ]
+  },
+  "EDE": {
+    "r": 226,
+    "g": 194,
+    "b": 106,
+    "country_type": "unrecognized",
+    "cultures": []
+  },
+  "EGY": {
+    "r": 255,
+    "g": 205,
+    "b": 155,
+    "country_type": "recognized",
+    "cultures": [
+      "misri"
+    ]
+  },
+  "ELS": {
+    "r": 0,
+    "g": 47,
+    "b": 94,
+    "country_type": "recognized",
+    "cultures": [
+      "central_american"
+    ]
+  },
+  "ENG": {
+    "r": 202,
+    "g": 26,
+    "b": 26,
+    "country_type": "recognized",
+    "cultures": [
+      "british"
+    ]
+  },
+  "EOT": {
+    "r": 212,
+    "g": 11,
+    "b": 27,
+    "country_type": "unrecognized",
+    "cultures": [
+      "mashriqi",
+      "bedouin"
+    ]
+  },
+  "EPH": {
+    "r": 132,
+    "g": 50,
+    "b": 173,
+    "country_type": "recognized",
+    "cultures": [
+      "greek"
+    ]
+  },
+  "EPI": {
+    "r": 139,
+    "g": 68,
+    "b": 114,
+    "country_type": "recognized",
+    "cultures": [
+      "greek"
+    ]
+  },
+  "EQT": {
+    "r": 168,
+    "g": 193,
+    "b": 183,
+    "country_type": "colonial",
+    "cultures": [
+      "nordestino"
+    ]
+  },
+  "EQU": {
+    "r": 236,
+    "g": 173,
+    "b": 104,
+    "country_type": "decentralized",
+    "cultures": [
+      "nilotic"
+    ]
+  },
+  "EST": {
+    "r": 99,
+    "g": 137,
+    "b": 153,
+    "country_type": "recognized",
+    "cultures": [
+      "estonian"
+    ]
+  },
+  "ETH": {
+    "r": 56,
+    "g": 120,
+    "b": 191,
+    "country_type": "unrecognized",
+    "cultures": [
+      "amhara",
+      "oromo",
+      "tigray"
+    ]
+  },
+  "EWE": {
+    "r": 210,
+    "g": 34,
+    "b": 131,
+    "country_type": "decentralized",
+    "cultures": [
+      "ewe"
+    ]
+  },
+  "EZO": {
+    "r": 129,
+    "g": 40,
+    "b": 147,
+    "country_type": "colonial",
+    "cultures": [
+      "north_italian"
+    ]
+  },
+  "FER": {
+    "r": 32,
+    "g": 119,
+    "b": 115,
+    "country_type": "unrecognized",
+    "cultures": [
+      "manchu",
+      "buryat"
+    ]
+  },
+  "FIN": {
+    "r": 180,
+    "g": 110,
+    "b": 0,
+    "country_type": "recognized",
+    "cultures": [
+      "finnish"
+    ]
+  },
+  "FJI": {
+    "r": 159,
+    "g": 173,
+    "b": 219,
+    "country_type": "decentralized",
+    "cultures": [
+      "melanesian"
+    ]
+  },
+  "FLA": {
+    "r": 65,
+    "g": 95,
+    "b": 180,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish"
+    ]
+  },
+  "FLR": {
+    "r": 255,
+    "g": 198,
+    "b": 142,
+    "country_type": "recognized",
+    "cultures": [
+      "dixie"
+    ]
+  },
+  "FND": {
+    "r": 220,
+    "g": 220,
+    "b": 245,
+    "country_type": "recognized",
+    "cultures": [
+      "north_andean",
+      "south_andean"
+    ]
+  },
+  "FNG": {
+    "r": 193,
+    "g": 170,
+    "b": 57,
+    "country_type": "decentralized",
+    "cultures": [
+      "fang"
+    ]
+  },
+  "FON": {
+    "r": 25,
+    "g": 80,
+    "b": 225,
+    "country_type": "recognized",
+    "cultures": [
+      "french"
+    ]
+  },
+  "FRA": {
+    "r": 15,
+    "g": 27,
+    "b": 187,
+    "country_type": "recognized",
+    "cultures": [
+      "french",
+      "flemish"
+    ]
+  },
+  "FRC": {
+    "r": 159,
+    "g": 20,
+    "b": 58,
+    "country_type": "recognized",
+    "cultures": [
+      "francoprovencal",
+      "flemish"
+    ]
+  },
+  "FRM": {
+    "r": 243,
+    "g": 201,
+    "b": 33,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "FRS": {
+    "r": 218,
+    "g": 234,
+    "b": 15,
+    "country_type": "unrecognized",
+    "cultures": [
+      "min"
+    ]
+  },
+  "FSA": {
+    "r": 106,
+    "g": 124,
+    "b": 243,
+    "country_type": "colonial",
+    "cultures": [
+      "irish"
+    ]
+  },
+  "FTJ": {
+    "r": 230,
+    "g": 125,
+    "b": 127,
+    "country_type": "unrecognized",
+    "cultures": [
+      "fulbe"
+    ]
+  },
+  "FTR": {
+    "r": 115,
+    "g": 204,
+    "b": 102,
+    "country_type": "unrecognized",
+    "cultures": [
+      "fulbe",
+      "wolof"
+    ]
+  },
+  "FZN": {
+    "r": 231,
+    "g": 0,
+    "b": 19,
+    "country_type": "unrecognized",
+    "cultures": [
+      "maghrebi"
+    ]
+  },
+  "GAL": {
+    "r": 50,
+    "g": 150,
+    "b": 130,
+    "country_type": "recognized",
+    "cultures": [
+      "ukrainian",
+      "polish"
+    ]
+  },
+  "GAO": {
+    "r": 62,
+    "g": 175,
+    "b": 151,
+    "country_type": "unrecognized",
+    "cultures": [
+      "songhai"
+    ]
+  },
+  "GAR": {
+    "r": 60,
+    "g": 154,
+    "b": 135,
+    "country_type": "unrecognized",
+    "cultures": [
+      "pahari"
+    ]
+  },
+  "GBR": {
+    "r": 230,
+    "g": 69,
+    "b": 78,
+    "country_type": "recognized",
+    "cultures": [
+      "british",
+      "anglish",
+      "scottish",
+      "irish",
+      "welsh"
+    ]
+  },
+  "GCO": {
+    "r": 255,
+    "g": 244,
+    "b": 100,
+    "country_type": "recognized",
+    "cultures": [
+      "north_andean"
+    ]
+  },
+  "GEN": {
+    "r": 175,
+    "g": 40,
+    "b": 65,
+    "country_type": "recognized",
+    "cultures": [
+      "francoprovencal",
+      "flemish"
+    ]
+  },
+  "GEO": {
+    "r": 210,
+    "g": 45,
+    "b": 45,
+    "country_type": "recognized",
+    "cultures": [
+      "georgian"
+    ]
+  },
+  "GER": {
+    "r": 160,
+    "g": 160,
+    "b": 160,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german",
+      "franconia",
+      "south_german",
+      "alemannic"
+    ]
+  },
+  "GGO": {
+    "r": 244,
+    "g": 228,
+    "b": 166,
+    "country_type": "decentralized",
+    "cultures": [
+      "lacustrine_bantu"
+    ]
+  },
+  "GJM": {
+    "r": 191,
+    "g": 147,
+    "b": 79,
+    "country_type": "unrecognized",
+    "cultures": [
+      "amhara",
+      "oromo"
+    ]
+  },
+  "GLD": {
+    "r": 38,
+    "g": 160,
+    "b": 67,
+    "country_type": "unrecognized",
+    "cultures": [
+      "somali"
+    ]
+  },
+  "GLI": {
+    "r": 255,
+    "g": 224,
+    "b": 94,
+    "country_type": "recognized",
+    "cultures": [
+      "galician"
+    ]
+  },
+  "GML": {
+    "r": 91,
+    "g": 191,
+    "b": 83,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "GNG": {
+    "r": 133,
+    "g": 56,
+    "b": 8,
+    "country_type": "unrecognized",
+    "cultures": [
+      "han",
+      "yue",
+      "zhuang"
+    ]
+  },
+  "GNI": {
+    "r": 73,
+    "g": 139,
+    "b": 166,
+    "country_type": "decentralized",
+    "cultures": [
+      "guarani"
+    ]
+  },
+  "GOT": {
+    "r": 153,
+    "g": 126,
+    "b": 0,
+    "country_type": "recognized",
+    "cultures": [
+      "gotland"
+    ]
+  },
+  "GRE": {
+    "r": 210,
+    "g": 70,
+    "b": 165,
+    "country_type": "recognized",
+    "cultures": [
+      "greek"
+    ]
+  },
+  "GRG": {
+    "r": 181,
+    "g": 0,
+    "b": 39,
+    "country_type": "recognized",
+    "cultures": [
+      "dixie"
+    ]
+  },
+  "GRI": {
+    "r": 203,
+    "g": 32,
+    "b": 83,
+    "country_type": "decentralized",
+    "cultures": [
+      "guarani"
+    ]
+  },
+  "GRN": {
+    "r": 27,
+    "g": 133,
+    "b": 44,
+    "country_type": "decentralized",
+    "cultures": [
+      "danish",
+      "inuit"
+    ]
+  },
+  "GRW": {
+    "r": 190,
+    "g": 16,
+    "b": 32,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "GSL": {
+    "r": 39,
+    "g": 27,
+    "b": 27,
+    "country_type": "recognized",
+    "cultures": [
+      "croat",
+      "serb",
+      "bulgarian",
+      "slovene",
+      "bosniak",
+      "polish",
+      "slovak",
+      "russian",
+      "byelorussian",
+      "ukrainian",
+      "severian",
+      "sorb",
+      "wendish",
+      "czech"
+    ]
+  },
+  "GUA": {
+    "r": 115,
+    "g": 194,
+    "b": 251,
+    "country_type": "recognized",
+    "cultures": [
+      "central_american"
+    ]
+  },
+  "GUG": {
+    "r": 50,
+    "g": 37,
+    "b": 125,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tibetan"
+    ]
+  },
+  "GUI": {
+    "r": 37,
+    "g": 102,
+    "b": 37,
+    "country_type": "unrecognized",
+    "cultures": [
+      "han"
+    ]
+  },
+  "GUJ": {
+    "r": 231,
+    "g": 224,
+    "b": 107,
+    "country_type": "unrecognized",
+    "cultures": [
+      "gujarati"
+    ]
+  },
+  "GWA": {
+    "r": 157,
+    "g": 200,
+    "b": 42,
+    "country_type": "unrecognized",
+    "cultures": [
+      "marathi"
+    ]
+  },
+  "GZA": {
+    "r": 191,
+    "g": 154,
+    "b": 108,
+    "country_type": "unrecognized",
+    "cultures": [
+      "nguni"
+    ]
+  },
+  "HAI": {
+    "r": 139,
+    "g": 179,
+    "b": 207,
+    "country_type": "colonial",
+    "cultures": [
+      "afro_caribbean"
+    ]
+  },
+  "HAM": {
+    "r": 104,
+    "g": 148,
+    "b": 71,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "HAN": {
+    "r": 164,
+    "g": 217,
+    "b": 127,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "HAR": {
+    "r": 175,
+    "g": 75,
+    "b": 15,
+    "country_type": "unrecognized",
+    "cultures": [
+      "somali",
+      "amhara"
+    ]
+  },
+  "HAU": {
+    "r": 225,
+    "g": 185,
+    "b": 85,
+    "country_type": "unrecognized",
+    "cultures": [
+      "hausa"
+    ]
+  },
+  "HAW": {
+    "r": 48,
+    "g": 169,
+    "b": 96,
+    "country_type": "unrecognized",
+    "cultures": [
+      "hawaiian"
+    ]
+  },
+  "HBC": {
+    "r": 99,
+    "g": 91,
+    "b": 69,
+    "country_type": "company",
+    "cultures": [
+      "anglo_canadian"
+    ]
+  },
+  "HDJ": {
+    "r": 121,
+    "g": 229,
+    "b": 215,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bedouin"
+    ]
+  },
+  "HDY": {
+    "r": 34,
+    "g": 128,
+    "b": 89,
+    "country_type": "unrecognized",
+    "cultures": [
+      "oromo"
+    ]
+  },
+  "HEK": {
+    "r": 150,
+    "g": 55,
+    "b": 75,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "HER": {
+    "r": 80,
+    "g": 135,
+    "b": 113,
+    "country_type": "unrecognized",
+    "cultures": [
+      "pashtun",
+      "persian"
+    ]
+  },
+  "HES": {
+    "r": 146,
+    "g": 108,
+    "b": 146,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "HHE": {
+    "r": 126,
+    "g": 84,
+    "b": 131,
+    "country_type": "decentralized",
+    "cultures": [
+      "lacustrine_bantu"
+    ]
+  },
+  "HLA": {
+    "r": 210,
+    "g": 184,
+    "b": 220,
+    "country_type": "decentralized",
+    "cultures": [
+      "melanesian"
+    ]
+  },
+  "HMB": {
+    "r": 180,
+    "g": 146,
+    "b": 150,
+    "country_type": "decentralized",
+    "cultures": [
+      "fluvian_bantu"
+    ]
+  },
+  "HNA": {
+    "r": 251,
+    "g": 168,
+    "b": 196,
+    "country_type": "unrecognized",
+    "cultures": [
+      "xiang"
+    ]
+  },
+  "HND": {
+    "r": 150,
+    "g": 77,
+    "b": 240,
+    "country_type": "unrecognized",
+    "cultures": [
+      "marathi",
+      "bihari",
+      "tamil",
+      "oriya",
+      "gujarati"
+    ]
+  },
+  "HOB": {
+    "r": 255,
+    "g": 73,
+    "b": 7,
+    "country_type": "unrecognized",
+    "cultures": [
+      "somali"
+    ]
+  },
+  "HOH": {
+    "r": 48,
+    "g": 169,
+    "b": 96,
+    "country_type": "recognized",
+    "cultures": [
+      "south_german"
+    ]
+  },
+  "HOL": {
+    "r": 220,
+    "g": 150,
+    "b": 158,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "HON": {
+    "r": 255,
+    "g": 255,
+    "b": 185,
+    "country_type": "unrecognized",
+    "cultures": [
+      "american_fulbe"
+    ]
+  },
+  "HRE": {
+    "r": 250,
+    "g": 250,
+    "b": 245,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german",
+      "franconia",
+      "wendish",
+      "sorb"
+    ]
+  },
+  "HRO": {
+    "r": 221,
+    "g": 140,
+    "b": 40,
+    "country_type": "decentralized",
+    "cultures": [
+      "herero",
+      "khoisan"
+    ]
+  },
+  "HTH": {
+    "r": 140,
+    "g": 210,
+    "b": 160,
+    "country_type": "colonial",
+    "cultures": [
+      "occitanic_burmese"
+    ]
+  },
+  "HUB": {
+    "r": 150,
+    "g": 70,
+    "b": 15,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish",
+      "alemannic"
+    ]
+  },
+  "HUN": {
+    "r": 250,
+    "g": 120,
+    "b": 90,
+    "country_type": "recognized",
+    "cultures": [
+      "hungarian"
+    ]
+  },
+  "HYD": {
+    "r": 89,
+    "g": 141,
+    "b": 140,
+    "country_type": "unrecognized",
+    "cultures": [
+      "avadhi"
+    ]
+  },
+  "HYP": {
+    "r": 205,
+    "g": 212,
+    "b": 250,
+    "country_type": "recognized",
+    "cultures": [
+      "buryat",
+      "manul",
+      "mongol",
+      "siberian",
+      "yakut",
+      "manchu",
+      "ainu",
+      "tuvan",
+      "khitan",
+      "karelian",
+      "mordvin",
+      "mari",
+      "udmurt",
+      "finnish",
+      "sami",
+      "ugrian",
+      "perm",
+      "estonian",
+      "russian",
+      "severian",
+      "kazak",
+      "tatar"
+    ]
+  },
+  "HZJ": {
+    "r": 236,
+    "g": 159,
+    "b": 90,
+    "country_type": "unrecognized",
+    "cultures": [
+      "hazara"
+    ]
+  },
+  "IBE": {
+    "r": 233,
+    "g": 200,
+    "b": 20,
+    "country_type": "recognized",
+    "cultures": [
+      "galician",
+      "spanish",
+      "asturleonese",
+      "toledo",
+      "andalusian",
+      "basque"
+    ]
+  },
+  "IBL": {
+    "r": 142,
+    "g": 134,
+    "b": 187,
+    "country_type": "decentralized",
+    "cultures": [
+      "ibibio"
+    ]
+  },
+  "IBO": {
+    "r": 119,
+    "g": 24,
+    "b": 85,
+    "country_type": "decentralized",
+    "cultures": [
+      "ibo"
+    ]
+  },
+  "ICL": {
+    "r": 62,
+    "g": 129,
+    "b": 155,
+    "country_type": "recognized",
+    "cultures": [
+      "icelandic"
+    ]
+  },
+  "IDA": {
+    "r": 31,
+    "g": 102,
+    "b": 187,
+    "country_type": "unrecognized",
+    "cultures": [
+      "gujarati"
+    ]
+  },
+  "IDN": {
+    "r": 0,
+    "g": 128,
+    "b": 128,
+    "country_type": "recognized",
+    "cultures": [
+      "balinese",
+      "batak",
+      "bornean",
+      "dayak",
+      "javan",
+      "malay",
+      "moluccan",
+      "sumatran"
+    ]
+  },
+  "IDS": {
+    "r": 45,
+    "g": 120,
+    "b": 45,
+    "country_type": "recognized",
+    "cultures": [
+      "panjabi",
+      "sindi"
+    ]
+  },
+  "IND": {
+    "r": 128,
+    "g": 170,
+    "b": 63,
+    "country_type": "unrecognized",
+    "cultures": [
+      "marathi"
+    ]
+  },
+  "ION": {
+    "r": 153,
+    "g": 141,
+    "b": 117,
+    "country_type": "recognized",
+    "cultures": [
+      "greek"
+    ]
+  },
+  "IQU": {
+    "r": 126,
+    "g": 147,
+    "b": 196,
+    "country_type": "unrecognized",
+    "cultures": [
+      "quechua"
+    ]
+  },
+  "IRC": {
+    "r": 61,
+    "g": 158,
+    "b": 124,
+    "country_type": "decentralized",
+    "cultures": [
+      "cree",
+      "siouan"
+    ]
+  },
+  "IRE": {
+    "r": 112,
+    "g": 150,
+    "b": 105,
+    "country_type": "recognized",
+    "cultures": [
+      "irish"
+    ]
+  },
+  "IRO": {
+    "r": 87,
+    "g": 182,
+    "b": 80,
+    "country_type": "unrecognized",
+    "cultures": [
+      "iroquoian"
+    ]
+  },
+  "IRQ": {
+    "r": 122,
+    "g": 132,
+    "b": 110,
+    "country_type": "unrecognized",
+    "cultures": [
+      "mashriqi"
+    ]
+  },
+  "ISQ": {
+    "r": 224,
+    "g": 255,
+    "b": 182,
+    "country_type": "unrecognized",
+    "cultures": [
+      "somali"
+    ]
+  },
+  "ISR": {
+    "r": 150,
+    "g": 212,
+    "b": 214,
+    "country_type": "colonial",
+    "cultures": [
+      "ashkenazi",
+      "sephardic"
+    ]
+  },
+  "ITA": {
+    "r": 234,
+    "g": 217,
+    "b": 110,
+    "country_type": "recognized",
+    "cultures": [
+      "middle_italian",
+      "south_italian",
+      "north_italian"
+    ]
+  },
+  "IUS": {
+    "r": 97,
+    "g": 102,
+    "b": 135,
+    "country_type": "recognized",
+    "cultures": [
+      "tatar"
+    ]
+  },
+  "JAB": {
+    "r": 183,
+    "g": 62,
+    "b": 62,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bedouin"
+    ]
+  },
+  "JAI": {
+    "r": 79,
+    "g": 89,
+    "b": 182,
+    "country_type": "unrecognized",
+    "cultures": [
+      "rajput"
+    ]
+  },
+  "JAM": {
+    "r": 50,
+    "g": 84,
+    "b": 11,
+    "country_type": "recognized",
+    "cultures": [
+      "afro_caribbean"
+    ]
+  },
+  "JAN": {
+    "r": 17,
+    "g": 225,
+    "b": 48,
+    "country_type": "unrecognized",
+    "cultures": [
+      "polar_bear"
+    ]
+  },
+  "JAP": {
+    "r": 194,
+    "g": 53,
+    "b": 60,
+    "country_type": "unrecognized",
+    "cultures": [
+      "japanese"
+    ]
+  },
+  "JAS": {
+    "r": 99,
+    "g": 137,
+    "b": 153,
+    "country_type": "unrecognized",
+    "cultures": [
+      "rajput"
+    ]
+  },
+  "JAV": {
+    "r": 164,
+    "g": 217,
+    "b": 127,
+    "country_type": "unrecognized",
+    "cultures": [
+      "javan"
+    ]
+  },
+  "JEY": {
+    "r": 237,
+    "g": 174,
+    "b": 221,
+    "country_type": "unrecognized",
+    "cultures": [
+      "oriya"
+    ]
+  },
+  "JHN": {
+    "r": 255,
+    "g": 140,
+    "b": 0,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bundeli"
+    ]
+  },
+  "JLF": {
+    "r": 215,
+    "g": 215,
+    "b": 125,
+    "country_type": "decentralized",
+    "cultures": [
+      "wolof"
+    ]
+  },
+  "JMB": {
+    "r": 223,
+    "g": 228,
+    "b": 192,
+    "country_type": "unrecognized",
+    "cultures": [
+      "sumatran"
+    ]
+  },
+  "JOD": {
+    "r": 104,
+    "g": 207,
+    "b": 140,
+    "country_type": "unrecognized",
+    "cultures": [
+      "rajput"
+    ]
+  },
+  "JOH": {
+    "r": 165,
+    "g": 151,
+    "b": 80,
+    "country_type": "unrecognized",
+    "cultures": [
+      "malay"
+    ]
+  },
+  "JRR": {
+    "r": 113,
+    "g": 111,
+    "b": 2,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "JUN": {
+    "r": 200,
+    "g": 229,
+    "b": 237,
+    "country_type": "unrecognized",
+    "cultures": [
+      "gujarati",
+      "pathan"
+    ]
+  },
+  "KAB": {
+    "r": 95,
+    "g": 95,
+    "b": 109,
+    "country_type": "unrecognized",
+    "cultures": [
+      "pashtun",
+      "tajik"
+    ]
+  },
+  "KAF": {
+    "r": 195,
+    "g": 82,
+    "b": 20,
+    "country_type": "unrecognized",
+    "cultures": [
+      "kho",
+      "pashtun"
+    ]
+  },
+  "KAL": {
+    "r": 97,
+    "g": 98,
+    "b": 195,
+    "country_type": "unrecognized",
+    "cultures": [
+      "baluchi"
+    ]
+  },
+  "KAM": {
+    "r": 33,
+    "g": 168,
+    "b": 103,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tibetan"
+    ]
+  },
+  "KAN": {
+    "r": 71,
+    "g": 113,
+    "b": 193,
+    "country_type": "unrecognized",
+    "cultures": [
+      "pashtun",
+      "tajik"
+    ]
+  },
+  "KAS": {
+    "r": 63,
+    "g": 150,
+    "b": 30,
+    "country_type": "unrecognized",
+    "cultures": [
+      "kashmiri"
+    ]
+  },
+  "KAT": {
+    "r": 79,
+    "g": 152,
+    "b": 64,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bedouin",
+      "yemenite"
+    ]
+  },
+  "KAU": {
+    "r": 245,
+    "g": 212,
+    "b": 134,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "KAZ": {
+    "r": 110,
+    "g": 150,
+    "b": 190,
+    "country_type": "unrecognized",
+    "cultures": [
+      "kazak"
+    ]
+  },
+  "KBA": {
+    "r": 159,
+    "g": 60,
+    "b": 189,
+    "country_type": "decentralized",
+    "cultures": [
+      "fluvian_bantu"
+    ]
+  },
+  "KBD": {
+    "r": 117,
+    "g": 36,
+    "b": 54,
+    "country_type": "decentralized",
+    "cultures": [
+      "mande"
+    ]
+  },
+  "KBU": {
+    "r": 101,
+    "g": 63,
+    "b": 41,
+    "country_type": "decentralized",
+    "cultures": [
+      "mande"
+    ]
+  },
+  "KFA": {
+    "r": 150,
+    "g": 0,
+    "b": 25,
+    "country_type": "unrecognized",
+    "cultures": [
+      "sidama",
+      "oromo"
+    ]
+  },
+  "KHI": {
+    "r": 188,
+    "g": 123,
+    "b": 103,
+    "country_type": "unrecognized",
+    "cultures": [
+      "uzbek"
+    ]
+  },
+  "KHM": {
+    "r": 244,
+    "g": 237,
+    "b": 202,
+    "country_type": "unrecognized",
+    "cultures": [
+      "khmu"
+    ]
+  },
+  "KHN": {
+    "r": 130,
+    "g": 186,
+    "b": 198,
+    "country_type": "unrecognized",
+    "cultures": [
+      "kachin"
+    ]
+  },
+  "KHP": {
+    "r": 188,
+    "g": 21,
+    "b": 64,
+    "country_type": "unrecognized",
+    "cultures": [
+      "marathi"
+    ]
+  },
+  "KHR": {
+    "r": 106,
+    "g": 145,
+    "b": 255,
+    "country_type": "unrecognized",
+    "cultures": [
+      "baluchi"
+    ]
+  },
+  "KHT": {
+    "r": 20,
+    "g": 65,
+    "b": 25,
+    "country_type": "unrecognized",
+    "cultures": [
+      "khitan"
+    ]
+  },
+  "KKI": {
+    "r": 190,
+    "g": 190,
+    "b": 190,
+    "country_type": "decentralized",
+    "cultures": [
+      "lushai"
+    ]
+  },
+  "KKT": {
+    "r": 132,
+    "g": 219,
+    "b": 205,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "KKY": {
+    "r": 169,
+    "g": 52,
+    "b": 90,
+    "country_type": "unrecognized",
+    "cultures": [
+      "kikuyu"
+    ]
+  },
+  "KLM": {
+    "r": 58,
+    "g": 65,
+    "b": 73,
+    "country_type": "unrecognized",
+    "cultures": [
+      "mongol",
+      "tatar"
+    ]
+  },
+  "KLN": {
+    "r": 27,
+    "g": 1,
+    "b": 230,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "KLO": {
+    "r": 3,
+    "g": 165,
+    "b": 252,
+    "country_type": "decentralized",
+    "cultures": [
+      "khmer"
+    ]
+  },
+  "KLT": {
+    "r": 193,
+    "g": 164,
+    "b": 142,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bornean",
+      "dayak"
+    ]
+  },
+  "KMC": {
+    "r": 25,
+    "g": 47,
+    "b": 119,
+    "country_type": "decentralized",
+    "cultures": [
+      "siberian"
+    ]
+  },
+  "KNC": {
+    "r": 236,
+    "g": 232,
+    "b": 85,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "KNG": {
+    "r": 137,
+    "g": 98,
+    "b": 195,
+    "country_type": "decentralized",
+    "cultures": [
+      "dyula",
+      "senufo"
+    ]
+  },
+  "KNK": {
+    "r": 190,
+    "g": 173,
+    "b": 103,
+    "country_type": "decentralized",
+    "cultures": [
+      "melanesian"
+    ]
+  },
+  "KNO": {
+    "r": 187,
+    "g": 1,
+    "b": 99,
+    "country_type": "unrecognized",
+    "cultures": [
+      "pathan",
+      "deccani",
+      "telegu"
+    ]
+  },
+  "KNT": {
+    "r": 156,
+    "g": 190,
+    "b": 196,
+    "country_type": "decentralized",
+    "cultures": [
+      "ugrian"
+    ]
+  },
+  "KOK": {
+    "r": 119,
+    "g": 130,
+    "b": 145,
+    "country_type": "unrecognized",
+    "cultures": [
+      "kirgiz"
+    ]
+  },
+  "KON": {
+    "r": 199,
+    "g": 160,
+    "b": 139,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bakongo"
+    ]
+  },
+  "KOR": {
+    "r": 157,
+    "g": 144,
+    "b": 97,
+    "country_type": "unrecognized",
+    "cultures": [
+      "korean"
+    ]
+  },
+  "KOT": {
+    "r": 123,
+    "g": 44,
+    "b": 0,
+    "country_type": "unrecognized",
+    "cultures": [
+      "rajput"
+    ]
+  },
+  "KPR": {
+    "r": 20,
+    "g": 146,
+    "b": 1,
+    "country_type": "unrecognized",
+    "cultures": [
+      "baluchi"
+    ]
+  },
+  "KRA": {
+    "r": 137,
+    "g": 6,
+    "b": 20,
+    "country_type": "recognized",
+    "cultures": [
+      "polish"
+    ]
+  },
+  "KRG": {
+    "r": 48,
+    "g": 177,
+    "b": 169,
+    "country_type": "unrecognized",
+    "cultures": [
+      "lacustrine_bantu",
+      "baganda"
+    ]
+  },
+  "KRI": {
+    "r": 132,
+    "g": 202,
+    "b": 127,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "KRL": {
+    "r": 22,
+    "g": 63,
+    "b": 26,
+    "country_type": "recognized",
+    "cultures": [
+      "karelian"
+    ]
+  },
+  "KRN": {
+    "r": 72,
+    "g": 153,
+    "b": 99,
+    "country_type": "unrecognized",
+    "cultures": [
+      "karen"
+    ]
+  },
+  "KRT": {
+    "r": 127,
+    "g": 28,
+    "b": 45,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bambara"
+    ]
+  },
+  "KRU": {
+    "r": 94,
+    "g": 168,
+    "b": 142,
+    "country_type": "decentralized",
+    "cultures": [
+      "kru"
+    ]
+  },
+  "KSN": {
+    "r": 102,
+    "g": 105,
+    "b": 101,
+    "country_type": "decentralized",
+    "cultures": [
+      "lunda",
+      "ovimbundu"
+    ]
+  },
+  "KSS": {
+    "r": 61,
+    "g": 75,
+    "b": 109,
+    "country_type": "decentralized",
+    "cultures": [
+      "kissi"
+    ]
+  },
+  "KTI": {
+    "r": 137,
+    "g": 88,
+    "b": 58,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bornean"
+    ]
+  },
+  "KTU": {
+    "r": 244,
+    "g": 126,
+    "b": 55,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "KUK": {
+    "r": 210,
+    "g": 115,
+    "b": 35,
+    "country_type": "recognized",
+    "cultures": [
+      "hungarian",
+      "romanian",
+      "croat",
+      "slovak",
+      "slovene",
+      "cuman",
+      "east_german"
+    ]
+  },
+  "KUN": {
+    "r": 153,
+    "g": 76,
+    "b": 0,
+    "country_type": "unrecognized",
+    "cultures": [
+      "uzbek",
+      "tajik"
+    ]
+  },
+  "KUR": {
+    "r": 192,
+    "g": 245,
+    "b": 71,
+    "country_type": "recognized",
+    "cultures": [
+      "kurdish"
+    ]
+  },
+  "KUS": {
+    "r": 123,
+    "g": 71,
+    "b": 65,
+    "country_type": "unrecognized",
+    "cultures": [
+      "japanese"
+    ]
+  },
+  "KUT": {
+    "r": 199,
+    "g": 160,
+    "b": 139,
+    "country_type": "unrecognized",
+    "cultures": [
+      "gujarati"
+    ]
+  },
+  "KYN": {
+    "r": 73,
+    "g": 229,
+    "b": 248,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "KYR": {
+    "r": 161,
+    "g": 87,
+    "b": 87,
+    "country_type": "recognized",
+    "cultures": [
+      "kirgiz"
+    ]
+  },
+  "KZH": {
+    "r": 90,
+    "g": 120,
+    "b": 120,
+    "country_type": "unrecognized",
+    "cultures": [
+      "kazak"
+    ]
+  },
+  "KZM": {
+    "r": 202,
+    "g": 217,
+    "b": 170,
+    "country_type": "decentralized",
+    "cultures": [
+      "lunda"
+    ]
+  },
+  "LAD": {
+    "r": 49,
+    "g": 175,
+    "b": 191,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tibetan"
+    ]
+  },
+  "LAH": {
+    "r": 233,
+    "g": 155,
+    "b": 81,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bedouin",
+      "yemenite"
+    ]
+  },
+  "LAN": {
+    "r": 141,
+    "g": 89,
+    "b": 174,
+    "country_type": "unrecognized",
+    "cultures": [
+      "hakka"
+    ]
+  },
+  "LAO": {
+    "r": 188,
+    "g": 15,
+    "b": 45,
+    "country_type": "unrecognized",
+    "cultures": [
+      "lao"
+    ]
+  },
+  "LAT": {
+    "r": 109,
+    "g": 29,
+    "b": 80,
+    "country_type": "recognized",
+    "cultures": [
+      "latvian"
+    ]
+  },
+  "LAU": {
+    "r": 159,
+    "g": 40,
+    "b": 10,
+    "country_type": "recognized",
+    "cultures": [
+      "francoprovencal",
+      "flemish"
+    ]
+  },
+  "LBA": {
+    "r": 42,
+    "g": 63,
+    "b": 153,
+    "country_type": "decentralized",
+    "cultures": [
+      "luba"
+    ]
+  },
+  "LBL": {
+    "r": 188,
+    "g": 192,
+    "b": 188,
+    "country_type": "unrecognized",
+    "cultures": [
+      "baluchi"
+    ]
+  },
+  "LBY": {
+    "r": 82,
+    "g": 137,
+    "b": 118,
+    "country_type": "unrecognized",
+    "cultures": [
+      "maghrebi"
+    ]
+  },
+  "LEB": {
+    "r": 18,
+    "g": 201,
+    "b": 27,
+    "country_type": "unrecognized",
+    "cultures": [
+      "mashriqi"
+    ]
+  },
+  "LEO": {
+    "r": 99,
+    "g": 14,
+    "b": 87,
+    "country_type": "recognized",
+    "cultures": [
+      "asturleonese"
+    ]
+  },
+  "LGA": {
+    "r": 175,
+    "g": 103,
+    "b": 31,
+    "country_type": "decentralized",
+    "cultures": [
+      "fluvian_bantu"
+    ]
+  },
+  "LIB": {
+    "r": 193,
+    "g": 138,
+    "b": 83,
+    "country_type": "colonial",
+    "cultures": [
+      "toledo"
+    ]
+  },
+  "LIM": {
+    "r": 35,
+    "g": 10,
+    "b": 255,
+    "country_type": "recognized",
+    "cultures": [
+      "occitan",
+      "french"
+    ]
+  },
+  "LIP": {
+    "r": 203,
+    "g": 62,
+    "b": 185,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "LIS": {
+    "r": 10,
+    "g": 10,
+    "b": 160,
+    "country_type": "recognized",
+    "cultures": [
+      "french"
+    ]
+  },
+  "LIT": {
+    "r": 154,
+    "g": 69,
+    "b": 116,
+    "country_type": "recognized",
+    "cultures": [
+      "lithuanian"
+    ]
+  },
+  "LKT": {
+    "r": 198,
+    "g": 114,
+    "b": 168,
+    "country_type": "unrecognized",
+    "cultures": [
+      "dakota"
+    ]
+  },
+  "LMW": {
+    "r": 201,
+    "g": 10,
+    "b": 48,
+    "country_type": "decentralized",
+    "cultures": [
+      "lomwe"
+    ]
+  },
+  "LND": {
+    "r": 199,
+    "g": 60,
+    "b": 39,
+    "country_type": "decentralized",
+    "cultures": [
+      "lunda",
+      "ovimbundu"
+    ]
+  },
+  "LNG": {
+    "r": 200,
+    "g": 202,
+    "b": 85,
+    "country_type": "decentralized",
+    "cultures": [
+      "bakongo"
+    ]
+  },
+  "LOM": {
+    "r": 180,
+    "g": 115,
+    "b": 200,
+    "country_type": "recognized",
+    "cultures": [
+      "north_italian"
+    ]
+  },
+  "LOR": {
+    "r": 85,
+    "g": 85,
+    "b": 140,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish"
+    ]
+  },
+  "LOU": {
+    "r": 53,
+    "g": 52,
+    "b": 144,
+    "country_type": "recognized",
+    "cultures": [
+      "cajun",
+      "afro_antillean"
+    ]
+  },
+  "LRR": {
+    "r": 238,
+    "g": 127,
+    "b": 130,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "LSB": {
+    "r": 156,
+    "g": 212,
+    "b": 68,
+    "country_type": "recognized",
+    "cultures": [
+      "galician"
+    ]
+  },
+  "LUA": {
+    "r": 93,
+    "g": 147,
+    "b": 88,
+    "country_type": "unrecognized",
+    "cultures": [
+      "lao"
+    ]
+  },
+  "LUB": {
+    "r": 48,
+    "g": 164,
+    "b": 51,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "LUC": {
+    "r": 196,
+    "g": 192,
+    "b": 140,
+    "country_type": "recognized",
+    "cultures": [
+      "north_italian"
+    ]
+  },
+  "LUO": {
+    "r": 153,
+    "g": 153,
+    "b": 168,
+    "country_type": "decentralized",
+    "cultures": [
+      "luo"
+    ]
+  },
+  "LUR": {
+    "r": 207,
+    "g": 213,
+    "b": 47,
+    "country_type": "unrecognized",
+    "cultures": [
+      "luri"
+    ]
+  },
+  "LUX": {
+    "r": 53,
+    "g": 140,
+    "b": 73,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish"
+    ]
+  },
+  "LZO": {
+    "r": 176,
+    "g": 106,
+    "b": 168,
+    "country_type": "decentralized",
+    "cultures": [
+      "kavango_bantu"
+    ]
+  },
+  "MAD": {
+    "r": 51,
+    "g": 183,
+    "b": 51,
+    "country_type": "unrecognized",
+    "cultures": [
+      "malagasy"
+    ]
+  },
+  "MAH": {
+    "r": 0,
+    "g": 153,
+    "b": 76,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bedouin",
+      "yemenite"
+    ]
+  },
+  "MAI": {
+    "r": 204,
+    "g": 210,
+    "b": 3,
+    "country_type": "unrecognized",
+    "cultures": [
+      "uzbek",
+      "turkmen"
+    ]
+  },
+  "MAK": {
+    "r": 219,
+    "g": 146,
+    "b": 162,
+    "country_type": "unrecognized",
+    "cultures": [
+      "baluchi"
+    ]
+  },
+  "MAL": {
+    "r": 75,
+    "g": 179,
+    "b": 27,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bambara",
+      "fulbe",
+      "wolof",
+      "mande",
+      "american_fulbe"
+    ]
+  },
+  "MAS": {
+    "r": 0,
+    "g": 129,
+    "b": 48,
+    "country_type": "unrecognized",
+    "cultures": [
+      "maghrebi",
+      "berber"
+    ]
+  },
+  "MAY": {
+    "r": 98,
+    "g": 88,
+    "b": 142,
+    "country_type": "unrecognized",
+    "cultures": [
+      "mayan"
+    ]
+  },
+  "MAZ": {
+    "r": 217,
+    "g": 144,
+    "b": 88,
+    "country_type": "unrecognized",
+    "cultures": [
+      "mazanderani"
+    ]
+  },
+  "MBS": {
+    "r": 127,
+    "g": 177,
+    "b": 72,
+    "country_type": "unrecognized",
+    "cultures": [
+      "swahili"
+    ]
+  },
+  "MCH": {
+    "r": 165,
+    "g": 132,
+    "b": 57,
+    "country_type": "unrecognized",
+    "cultures": [
+      "manchu"
+    ]
+  },
+  "MCO": {
+    "r": 158,
+    "g": 18,
+    "b": 20,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tarascan"
+    ]
+  },
+  "MCR": {
+    "r": 248,
+    "g": 218,
+    "b": 99,
+    "country_type": "decentralized",
+    "cultures": [
+      "micronesian"
+    ]
+  },
+  "MDI": {
+    "r": 147,
+    "g": 72,
+    "b": 6,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "MDK": {
+    "r": 191,
+    "g": 83,
+    "b": 53,
+    "country_type": "decentralized",
+    "cultures": [
+      "mande"
+    ]
+  },
+  "MEA": {
+    "r": 12,
+    "g": 48,
+    "b": 170,
+    "country_type": "recognized",
+    "cultures": [
+      "french"
+    ]
+  },
+  "MEC": {
+    "r": 207,
+    "g": 111,
+    "b": 64,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "MEI": {
+    "r": 144,
+    "g": 181,
+    "b": 106,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "MEW": {
+    "r": 209,
+    "g": 251,
+    "b": 255,
+    "country_type": "unrecognized",
+    "cultures": [
+      "rajput"
+    ]
+  },
+  "MEX": {
+    "r": 56,
+    "g": 143,
+    "b": 53,
+    "country_type": "recognized",
+    "cultures": [
+      "mexican"
+    ]
+  },
+  "MGB": {
+    "r": 209,
+    "g": 63,
+    "b": 44,
+    "country_type": "unrecognized",
+    "cultures": [
+      "maghrebi",
+      "berber",
+      "bidan"
+    ]
+  },
+  "MGD": {
+    "r": 119,
+    "g": 32,
+    "b": 29,
+    "country_type": "unrecognized",
+    "cultures": [
+      "moro"
+    ]
+  },
+  "MGH": {
+    "r": 255,
+    "g": 222,
+    "b": 173,
+    "country_type": "decentralized",
+    "cultures": [
+      "naga"
+    ]
+  },
+  "MGL": {
+    "r": 45,
+    "g": 112,
+    "b": 100,
+    "country_type": "unrecognized",
+    "cultures": [
+      "mongol"
+    ]
+  },
+  "MHR": {
+    "r": 49,
+    "g": 13,
+    "b": 22,
+    "country_type": "unrecognized",
+    "cultures": [
+      "marathi"
+    ]
+  },
+  "MJK": {
+    "r": 144,
+    "g": 33,
+    "b": 155,
+    "country_type": "decentralized",
+    "cultures": [
+      "lacustrine_bantu"
+    ]
+  },
+  "MJT": {
+    "r": 220,
+    "g": 200,
+    "b": 100,
+    "country_type": "unrecognized",
+    "cultures": [
+      "somali"
+    ]
+  },
+  "MKT": {
+    "r": 61,
+    "g": 153,
+    "b": 153,
+    "country_type": "decentralized",
+    "cultures": [
+      "miskito",
+      "afro_caribbean"
+    ]
+  },
+  "MKU": {
+    "r": 38,
+    "g": 140,
+    "b": 40,
+    "country_type": "decentralized",
+    "cultures": [
+      "makua"
+    ]
+  },
+  "MLD": {
+    "r": 0,
+    "g": 132,
+    "b": 61,
+    "country_type": "unrecognized",
+    "cultures": [
+      "sinhala"
+    ]
+  },
+  "MLT": {
+    "r": 28,
+    "g": 146,
+    "b": 136,
+    "country_type": "recognized",
+    "cultures": [
+      "maltese"
+    ]
+  },
+  "MNB": {
+    "r": 75,
+    "g": 129,
+    "b": 182,
+    "country_type": "decentralized",
+    "cultures": [
+      "fluvian_bantu"
+    ]
+  },
+  "MNC": {
+    "r": 60,
+    "g": 147,
+    "b": 140,
+    "country_type": "decentralized",
+    "cultures": [
+      "shona"
+    ]
+  },
+  "MND": {
+    "r": 255,
+    "g": 255,
+    "b": 204,
+    "country_type": "decentralized",
+    "cultures": []
+  },
+  "MNG": {
+    "r": 45,
+    "g": 49,
+    "b": 107,
+    "country_type": "recognized",
+    "cultures": [
+      "nordestino"
+    ]
+  },
+  "MNP": {
+    "r": 149,
+    "g": 191,
+    "b": 117,
+    "country_type": "unrecognized",
+    "cultures": [
+      "manipuri"
+    ]
+  },
+  "MOD": {
+    "r": 241,
+    "g": 252,
+    "b": 151,
+    "country_type": "recognized",
+    "cultures": [
+      "north_italian"
+    ]
+  },
+  "MOL": {
+    "r": 136,
+    "g": 157,
+    "b": 23,
+    "country_type": "recognized",
+    "cultures": [
+      "romanian"
+    ]
+  },
+  "MON": {
+    "r": 39,
+    "g": 108,
+    "b": 140,
+    "country_type": "recognized",
+    "cultures": [
+      "serb"
+    ]
+  },
+  "MOR": {
+    "r": 196,
+    "g": 36,
+    "b": 18,
+    "country_type": "unrecognized",
+    "cultures": [
+      "maghrebi",
+      "berber"
+    ]
+  },
+  "MOS": {
+    "r": 27,
+    "g": 128,
+    "b": 45,
+    "country_type": "decentralized",
+    "cultures": [
+      "mossi"
+    ]
+  },
+  "MPH": {
+    "r": 111,
+    "g": 3,
+    "b": 252,
+    "country_type": "unrecognized",
+    "cultures": [
+      "lao"
+    ]
+  },
+  "MRA": {
+    "r": 55,
+    "g": 24,
+    "b": 41,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "MRD": {
+    "r": 222,
+    "g": 147,
+    "b": 226,
+    "country_type": "recognized",
+    "cultures": [
+      "mordvin"
+    ]
+  },
+  "MRI": {
+    "r": 139,
+    "g": 98,
+    "b": 193,
+    "country_type": "recognized",
+    "cultures": [
+      "mari"
+    ]
+  },
+  "MRN": {
+    "r": 3,
+    "g": 113,
+    "b": 211,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "MRV": {
+    "r": 220,
+    "g": 220,
+    "b": 75,
+    "country_type": "decentralized",
+    "cultures": [
+      "chewa"
+    ]
+  },
+  "MSC": {
+    "r": 108,
+    "g": 139,
+    "b": 208,
+    "country_type": "unrecognized",
+    "cultures": [
+      "muskogean"
+    ]
+  },
+  "MSH": {
+    "r": 193,
+    "g": 189,
+    "b": 151,
+    "country_type": "decentralized",
+    "cultures": [
+      "shona"
+    ]
+  },
+  "MSI": {
+    "r": 190,
+    "g": 103,
+    "b": 84,
+    "country_type": "unrecognized",
+    "cultures": [
+      "maasai"
+    ]
+  },
+  "MSK": {
+    "r": 75,
+    "g": 75,
+    "b": 148,
+    "country_type": "decentralized",
+    "cultures": [
+      "shona"
+    ]
+  },
+  "MSN": {
+    "r": 230,
+    "g": 231,
+    "b": 62,
+    "country_type": "unrecognized",
+    "cultures": [
+      "fulbe"
+    ]
+  },
+  "MST": {
+    "r": 239,
+    "g": 232,
+    "b": 106,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "MSW": {
+    "r": 206,
+    "g": 181,
+    "b": 97,
+    "country_type": "recognized",
+    "cultures": [
+      "russian"
+    ]
+  },
+  "MTB": {
+    "r": 142,
+    "g": 80,
+    "b": 55,
+    "country_type": "decentralized",
+    "cultures": [
+      "nguni",
+      "shona"
+    ]
+  },
+  "MTC": {
+    "r": 221,
+    "g": 186,
+    "b": 163,
+    "country_type": "unrecognized",
+    "cultures": [
+      "cree"
+    ]
+  },
+  "MTP": {
+    "r": 204,
+    "g": 121,
+    "b": 68,
+    "country_type": "decentralized",
+    "cultures": [
+      "shona"
+    ]
+  },
+  "MUG": {
+    "r": 230,
+    "g": 65,
+    "b": 12,
+    "country_type": "unrecognized",
+    "cultures": [
+      "hindustani"
+    ]
+  },
+  "MUI": {
+    "r": 162,
+    "g": 182,
+    "b": 64,
+    "country_type": "decentralized",
+    "cultures": [
+      "muisca"
+    ]
+  },
+  "MYB": {
+    "r": 237,
+    "g": 204,
+    "b": 3,
+    "country_type": "unrecognized",
+    "cultures": [
+      "oriya"
+    ]
+  },
+  "MYI": {
+    "r": 78,
+    "g": 146,
+    "b": 22,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "MYS": {
+    "r": 184,
+    "g": 193,
+    "b": 89,
+    "country_type": "colonial",
+    "cultures": [
+      "italic_deccani"
+    ]
+  },
+  "MZB": {
+    "r": 203,
+    "g": 105,
+    "b": 237,
+    "country_type": "decentralized",
+    "cultures": [
+      "berber"
+    ]
+  },
+  "NAG": {
+    "r": 120,
+    "g": 148,
+    "b": 140,
+    "country_type": "unrecognized",
+    "cultures": [
+      "marathi"
+    ]
+  },
+  "NAH": {
+    "r": 0,
+    "g": 133,
+    "b": 22,
+    "country_type": "unrecognized",
+    "cultures": [
+      "nahua",
+      "mixtec",
+      "zapotec",
+      "tarascan"
+    ]
+  },
+  "NAL": {
+    "r": 106,
+    "g": 178,
+    "b": 46,
+    "country_type": "recognized",
+    "cultures": [
+      "boer"
+    ]
+  },
+  "NAM": {
+    "r": 49,
+    "g": 119,
+    "b": 34,
+    "country_type": "decentralized",
+    "cultures": [
+      "khoisan"
+    ]
+  },
+  "NAR": {
+    "r": 31,
+    "g": 145,
+    "b": 217,
+    "country_type": "unrecognized",
+    "cultures": [
+      "oriya"
+    ]
+  },
+  "NAS": {
+    "r": 107,
+    "g": 94,
+    "b": 169,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "NAT": {
+    "r": 131,
+    "g": 145,
+    "b": 145,
+    "country_type": "recognized",
+    "cultures": [
+      "french",
+      "breton"
+    ]
+  },
+  "NAV": {
+    "r": 185,
+    "g": 112,
+    "b": 55,
+    "country_type": "recognized",
+    "cultures": [
+      "basque"
+    ]
+  },
+  "NAW": {
+    "r": 222,
+    "g": 222,
+    "b": 0,
+    "country_type": "unrecognized",
+    "cultures": [
+      "gujarati"
+    ]
+  },
+  "NBA": {
+    "r": 138,
+    "g": 187,
+    "b": 72,
+    "country_type": "decentralized",
+    "cultures": [
+      "nuba"
+    ]
+  },
+  "NBS": {
+    "r": 235,
+    "g": 196,
+    "b": 128,
+    "country_type": "colonial",
+    "cultures": [
+      "franconia"
+    ]
+  },
+  "NCA": {
+    "r": 97,
+    "g": 162,
+    "b": 242,
+    "country_type": "recognized",
+    "cultures": [
+      "north_caucasian"
+    ]
+  },
+  "NCR": {
+    "r": 123,
+    "g": 175,
+    "b": 212,
+    "country_type": "recognized",
+    "cultures": [
+      "dixie"
+    ]
+  },
+  "NEJ": {
+    "r": 209,
+    "g": 219,
+    "b": 116,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bedouin"
+    ]
+  },
+  "NEM": {
+    "r": 65,
+    "g": 95,
+    "b": 155,
+    "country_type": "recognized",
+    "cultures": [
+      "french"
+    ]
+  },
+  "NEN": {
+    "r": 166,
+    "g": 224,
+    "b": 85,
+    "country_type": "recognized",
+    "cultures": [
+      "yankee"
+    ]
+  },
+  "NEP": {
+    "r": 137,
+    "g": 183,
+    "b": 124,
+    "country_type": "unrecognized",
+    "cultures": [
+      "nepali"
+    ]
+  },
+  "NET": {
+    "r": 190,
+    "g": 90,
+    "b": 10,
+    "country_type": "recognized",
+    "cultures": [
+      "dutch"
+    ]
+  },
+  "NEV": {
+    "r": 30,
+    "g": 75,
+    "b": 165,
+    "country_type": "recognized",
+    "cultures": [
+      "francoprovencal",
+      "french"
+    ]
+  },
+  "NEW": {
+    "r": 255,
+    "g": 211,
+    "b": 56,
+    "country_type": "colonial",
+    "cultures": [
+      "anglo_canadian"
+    ]
+  },
+  "NGA": {
+    "r": 204,
+    "g": 250,
+    "b": 204,
+    "country_type": "decentralized",
+    "cultures": [
+      "naga"
+    ]
+  },
+  "NGF": {
+    "r": 50,
+    "g": 50,
+    "b": 50,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german",
+      "franconia"
+    ]
+  },
+  "NGU": {
+    "r": 92,
+    "g": 142,
+    "b": 220,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "NIC": {
+    "r": 34,
+    "g": 88,
+    "b": 186,
+    "country_type": "recognized",
+    "cultures": [
+      "central_american"
+    ]
+  },
+  "NNG": {
+    "r": 209,
+    "g": 160,
+    "b": 107,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "NNV": {
+    "r": 205,
+    "g": 214,
+    "b": 216,
+    "country_type": "decentralized",
+    "cultures": [
+      "inuit"
+    ]
+  },
+  "NOR": {
+    "r": 130,
+    "g": 4,
+    "b": 40,
+    "country_type": "recognized",
+    "cultures": [
+      "norwegian"
+    ]
+  },
+  "NOV": {
+    "r": 97,
+    "g": 126,
+    "b": 37,
+    "country_type": "recognized",
+    "cultures": [
+      "russian"
+    ]
+  },
+  "NPU": {
+    "r": 165,
+    "g": 10,
+    "b": 35,
+    "country_type": "unrecognized",
+    "cultures": [
+      "quechua"
+    ]
+  },
+  "NRM": {
+    "r": 7,
+    "g": 7,
+    "b": 145,
+    "country_type": "recognized",
+    "cultures": [
+      "french",
+      "british"
+    ]
+  },
+  "NRU": {
+    "r": 231,
+    "g": 131,
+    "b": 17,
+    "country_type": "decentralized",
+    "cultures": [
+      "melanesian"
+    ]
+  },
+  "NSE": {
+    "r": 0,
+    "g": 0,
+    "b": 60,
+    "country_type": "recognized",
+    "cultures": [
+      "british",
+      "anglish",
+      "scottish",
+      "irish",
+      "welsh",
+      "swedish",
+      "gotaland",
+      "gotland",
+      "norwegian",
+      "danish",
+      "icelandic",
+      "polar_bear"
+    ]
+  },
+  "NSW": {
+    "r": 114,
+    "g": 165,
+    "b": 203,
+    "country_type": "colonial",
+    "cultures": [
+      "mashriq_sahara"
+    ]
+  },
+  "NTO": {
+    "r": 148,
+    "g": 185,
+    "b": 190,
+    "country_type": "decentralized",
+    "cultures": [
+      "maori"
+    ]
+  },
+  "NTU": {
+    "r": 62,
+    "g": 92,
+    "b": 54,
+    "country_type": "decentralized",
+    "cultures": [
+      "maori"
+    ]
+  },
+  "NUE": {
+    "r": 230,
+    "g": 227,
+    "b": 240,
+    "country_type": "decentralized",
+    "cultures": [
+      "nuer"
+    ]
+  },
+  "NVJ": {
+    "r": 126,
+    "g": 180,
+    "b": 154,
+    "country_type": "decentralized",
+    "cultures": [
+      "navajo"
+    ]
+  },
+  "NVL": {
+    "r": 126,
+    "g": 180,
+    "b": 154,
+    "country_type": "decentralized",
+    "cultures": [
+      "navajo"
+    ]
+  },
+  "NVS": {
+    "r": 148,
+    "g": 205,
+    "b": 135,
+    "country_type": "colonial",
+    "cultures": [
+      "franconia"
+    ]
+  },
+  "NYL": {
+    "r": 167,
+    "g": 238,
+    "b": 241,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "NYM": {
+    "r": 164,
+    "g": 125,
+    "b": 26,
+    "country_type": "decentralized",
+    "cultures": []
+  },
+  "NYP": {
+    "r": 18,
+    "g": 141,
+    "b": 110,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "NYR": {
+    "r": 70,
+    "g": 16,
+    "b": 219,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "NZL": {
+    "r": 90,
+    "g": 250,
+    "b": 127,
+    "country_type": "colonial",
+    "cultures": [
+      "mashriq_sahara"
+    ]
+  },
+  "NZP": {
+    "r": 220,
+    "g": 190,
+    "b": 50,
+    "country_type": "decentralized",
+    "cultures": [
+      "nez_perce"
+    ]
+  },
+  "OAX": {
+    "r": 158,
+    "g": 118,
+    "b": 120,
+    "country_type": "unrecognized",
+    "cultures": [
+      "zapotec",
+      "mixtec"
+    ]
+  },
+  "OCC": {
+    "r": 101,
+    "g": 50,
+    "b": 253,
+    "country_type": "recognized",
+    "cultures": [
+      "occitan"
+    ]
+  },
+  "OGD": {
+    "r": 155,
+    "g": 188,
+    "b": 99,
+    "country_type": "decentralized",
+    "cultures": [
+      "somali"
+    ]
+  },
+  "OLD": {
+    "r": 147,
+    "g": 130,
+    "b": 118,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "OMA": {
+    "r": 98,
+    "g": 134,
+    "b": 153,
+    "country_type": "unrecognized",
+    "cultures": [
+      "oman"
+    ]
+  },
+  "OMO": {
+    "r": 71,
+    "g": 121,
+    "b": 128,
+    "country_type": "decentralized",
+    "cultures": [
+      "sidama"
+    ]
+  },
+  "ONT": {
+    "r": 136,
+    "g": 72,
+    "b": 91,
+    "country_type": "colonial",
+    "cultures": [
+      "anglo_canadian"
+    ]
+  },
+  "ORA": {
+    "r": 224,
+    "g": 139,
+    "b": 47,
+    "country_type": "unrecognized",
+    "cultures": [
+      "boer"
+    ]
+  },
+  "ORG": {
+    "r": 65,
+    "g": 32,
+    "b": 57,
+    "country_type": "unrecognized",
+    "cultures": [
+      "manchu"
+    ]
+  },
+  "ORI": {
+    "r": 210,
+    "g": 106,
+    "b": 47,
+    "country_type": "colonial",
+    "cultures": [
+      "italic_oriya"
+    ]
+  },
+  "ORL": {
+    "r": 10,
+    "g": 16,
+    "b": 243,
+    "country_type": "recognized",
+    "cultures": [
+      "french"
+    ]
+  },
+  "ORM": {
+    "r": 101,
+    "g": 95,
+    "b": 188,
+    "country_type": "decentralized",
+    "cultures": [
+      "oromo"
+    ]
+  },
+  "ORN": {
+    "r": 55,
+    "g": 120,
+    "b": 25,
+    "country_type": "decentralized",
+    "cultures": [
+      "cariban"
+    ]
+  },
+  "OTR": {
+    "r": 180,
+    "g": 180,
+    "b": 180,
+    "country_type": "recognized",
+    "cultures": [
+      "outremer"
+    ]
+  },
+  "OUA": {
+    "r": 113,
+    "g": 95,
+    "b": 122,
+    "country_type": "decentralized",
+    "cultures": [
+      "bidan"
+    ]
+  },
+  "OVB": {
+    "r": 240,
+    "g": 40,
+    "b": 121,
+    "country_type": "decentralized",
+    "cultures": [
+      "kavango_bantu"
+    ]
+  },
+  "OVM": {
+    "r": 107,
+    "g": 94,
+    "b": 52,
+    "country_type": "decentralized",
+    "cultures": [
+      "ovimbundu"
+    ]
+  },
+  "OYO": {
+    "r": 211,
+    "g": 184,
+    "b": 179,
+    "country_type": "unrecognized",
+    "cultures": [
+      "yoruba"
+    ]
+  },
+  "OZH": {
+    "r": 80,
+    "g": 80,
+    "b": 100,
+    "country_type": "unrecognized",
+    "cultures": [
+      "kazak"
+    ]
+  },
+  "PAA": {
+    "r": 77,
+    "g": 68,
+    "b": 204,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "PAK": {
+    "r": 164,
+    "g": 157,
+    "b": 96,
+    "country_type": "unrecognized",
+    "cultures": [
+      "kashmiri",
+      "panjabi",
+      "sindi",
+      "baluchi",
+      "pashtun"
+    ]
+  },
+  "PAL": {
+    "r": 0,
+    "g": 142,
+    "b": 76,
+    "country_type": "unrecognized",
+    "cultures": [
+      "mashriqi"
+    ]
+  },
+  "PAN": {
+    "r": 255,
+    "g": 87,
+    "b": 127,
+    "country_type": "unrecognized",
+    "cultures": [
+      "panjabi"
+    ]
+  },
+  "PAP": {
+    "r": 255,
+    "g": 249,
+    "b": 198,
+    "country_type": "recognized",
+    "cultures": [
+      "middle_italian"
+    ]
+  },
+  "PAR": {
+    "r": 128,
+    "g": 202,
+    "b": 129,
+    "country_type": "recognized",
+    "cultures": [
+      "north_italian"
+    ]
+  },
+  "PAT": {
+    "r": 196,
+    "g": 25,
+    "b": 10,
+    "country_type": "unrecognized",
+    "cultures": [
+      "patagonian"
+    ]
+  },
+  "PAU": {
+    "r": 69,
+    "g": 103,
+    "b": 77,
+    "country_type": "colonial",
+    "cultures": [
+      "paulista"
+    ]
+  },
+  "PBC": {
+    "r": 188,
+    "g": 234,
+    "b": 158,
+    "country_type": "unrecognized",
+    "cultures": [
+      "quechua",
+      "aimara"
+    ]
+  },
+  "PCO": {
+    "r": 104,
+    "g": 92,
+    "b": 87,
+    "country_type": "colonial",
+    "cultures": [
+      "caribeno"
+    ]
+  },
+  "PDI": {
+    "r": 237,
+    "g": 107,
+    "b": 116,
+    "country_type": "decentralized",
+    "cultures": [
+      "sotho"
+    ]
+  },
+  "PER": {
+    "r": 30,
+    "g": 240,
+    "b": 230,
+    "country_type": "recognized",
+    "cultures": [
+      "persian",
+      "luri",
+      "mazanderani",
+      "baluchi",
+      "azerbaijani"
+    ]
+  },
+  "PEU": {
+    "r": 39,
+    "g": 123,
+    "b": 126,
+    "country_type": "unrecognized",
+    "cultures": [
+      "quechua"
+    ]
+  },
+  "PFA": {
+    "r": 140,
+    "g": 140,
+    "b": 170,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish"
+    ]
+  },
+  "PHA": {
+    "r": 93,
+    "g": 102,
+    "b": 151,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tibetan"
+    ]
+  },
+  "PHI": {
+    "r": 92,
+    "g": 87,
+    "b": 122,
+    "country_type": "colonial",
+    "cultures": [
+      "italic_insulindian"
+    ]
+  },
+  "PHL": {
+    "r": 176,
+    "g": 176,
+    "b": 131,
+    "country_type": "unrecognized",
+    "cultures": [
+      "griqua"
+    ]
+  },
+  "PIC": {
+    "r": 78,
+    "g": 103,
+    "b": 165,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish"
+    ]
+  },
+  "PLC": {
+    "r": 130,
+    "g": 20,
+    "b": 50,
+    "country_type": "recognized",
+    "cultures": [
+      "polish",
+      "sorb",
+      "wendish",
+      "czech",
+      "slovak"
+    ]
+  },
+  "PLP": {
+    "r": 222,
+    "g": 222,
+    "b": 222,
+    "country_type": "unrecognized",
+    "cultures": [
+      "gujarati",
+      "pathan"
+    ]
+  },
+  "PLT": {
+    "r": 130,
+    "g": 135,
+    "b": 240,
+    "country_type": "recognized",
+    "cultures": [
+      "platinean"
+    ]
+  },
+  "PLY": {
+    "r": 176,
+    "g": 62,
+    "b": 136,
+    "country_type": "unrecognized",
+    "cultures": [
+      "polynesian"
+    ]
+  },
+  "PMA": {
+    "r": 207,
+    "g": 182,
+    "b": 66,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "PNI": {
+    "r": 39,
+    "g": 156,
+    "b": 39,
+    "country_type": "colonial",
+    "cultures": [
+      "sulista"
+    ]
+  },
+  "PNM": {
+    "r": 150,
+    "g": 85,
+    "b": 61,
+    "country_type": "recognized",
+    "cultures": [
+      "central_american"
+    ]
+  },
+  "PNS": {
+    "r": 244,
+    "g": 140,
+    "b": 30,
+    "country_type": "unrecognized",
+    "cultures": [
+      "hawaiian",
+      "maori",
+      "melanesian",
+      "polynesian",
+      "micronesian",
+      "yuanzhumin"
+    ]
+  },
+  "POI": {
+    "r": 50,
+    "g": 50,
+    "b": 130,
+    "country_type": "recognized",
+    "cultures": [
+      "occitan",
+      "french"
+    ]
+  },
+  "POL": {
+    "r": 197,
+    "g": 92,
+    "b": 106,
+    "country_type": "recognized",
+    "cultures": [
+      "polish"
+    ]
+  },
+  "POM": {
+    "r": 130,
+    "g": 10,
+    "b": 0,
+    "country_type": "recognized",
+    "cultures": [
+      "wendish",
+      "sorb"
+    ]
+  },
+  "PON": {
+    "r": 255,
+    "g": 102,
+    "b": 102,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bornean"
+    ]
+  },
+  "POR": {
+    "r": 182,
+    "g": 78,
+    "b": 15,
+    "country_type": "recognized",
+    "cultures": [
+      "galician"
+    ]
+  },
+  "PPU": {
+    "r": 81,
+    "g": 97,
+    "b": 170,
+    "country_type": "unrecognized",
+    "cultures": [
+      "melanesian"
+    ]
+  },
+  "PRA": {
+    "r": 128,
+    "g": 202,
+    "b": 129,
+    "country_type": "decentralized",
+    "cultures": [
+      "amazonian"
+    ]
+  },
+  "PRC": {
+    "r": 237,
+    "g": 41,
+    "b": 57,
+    "country_type": "recognized",
+    "cultures": [
+      "occitan"
+    ]
+  },
+  "PRG": {
+    "r": 177,
+    "g": 44,
+    "b": 29,
+    "country_type": "recognized",
+    "cultures": [
+      "platinean",
+      "guarani"
+    ]
+  },
+  "PRK": {
+    "r": 76,
+    "g": 122,
+    "b": 117,
+    "country_type": "unrecognized",
+    "cultures": [
+      "malay"
+    ]
+  },
+  "PRM": {
+    "r": 236,
+    "g": 159,
+    "b": 90,
+    "country_type": "recognized",
+    "cultures": [
+      "perm"
+    ]
+  },
+  "PRS": {
+    "r": 24,
+    "g": 52,
+    "b": 226,
+    "country_type": "recognized",
+    "cultures": [
+      "french"
+    ]
+  },
+  "PRU": {
+    "r": 200,
+    "g": 100,
+    "b": 100,
+    "country_type": "recognized",
+    "cultures": [
+      "prussian"
+    ]
+  },
+  "PSK": {
+    "r": 82,
+    "g": 123,
+    "b": 95,
+    "country_type": "recognized",
+    "cultures": [
+      "russian"
+    ]
+  },
+  "PTA": {
+    "r": 229,
+    "g": 231,
+    "b": 26,
+    "country_type": "unrecognized",
+    "cultures": [
+      "panjabi"
+    ]
+  },
+  "PTN": {
+    "r": 114,
+    "g": 25,
+    "b": 100,
+    "country_type": "unrecognized",
+    "cultures": [
+      "oriya"
+    ]
+  },
+  "PUD": {
+    "r": 34,
+    "g": 139,
+    "b": 34,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tamil"
+    ]
+  },
+  "PUE": {
+    "r": 162,
+    "g": 128,
+    "b": 8,
+    "country_type": "decentralized",
+    "cultures": [
+      "pueblo"
+    ]
+  },
+  "PWN": {
+    "r": 252,
+    "g": 84,
+    "b": 118,
+    "country_type": "decentralized",
+    "cultures": [
+      "caddoan"
+    ]
+  },
+  "QIA": {
+    "r": 0,
+    "g": 103,
+    "b": 165,
+    "country_type": "unrecognized",
+    "cultures": [
+      "miao"
+    ]
+  },
+  "QUE": {
+    "r": 194,
+    "g": 140,
+    "b": 86,
+    "country_type": "colonial",
+    "cultures": [
+      "wendish"
+    ]
+  },
+  "QWR": {
+    "r": 112,
+    "g": 169,
+    "b": 199,
+    "country_type": "unrecognized",
+    "cultures": [
+      "amhara"
+    ]
+  },
+  "RAJ": {
+    "r": 49,
+    "g": 13,
+    "b": 22,
+    "country_type": "unrecognized",
+    "cultures": [
+      "rajput"
+    ]
+  },
+  "REI": {
+    "r": 7,
+    "g": 60,
+    "b": 160,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish"
+    ]
+  },
+  "RET": {
+    "r": 4,
+    "g": 70,
+    "b": 170,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish"
+    ]
+  },
+  "RGB": {
+    "r": 231,
+    "g": 134,
+    "b": 43,
+    "country_type": "decentralized",
+    "cultures": [
+      "bidan"
+    ]
+  },
+  "RHE": {
+    "r": 5,
+    "g": 85,
+    "b": 5,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "RHN": {
+    "r": 77,
+    "g": 165,
+    "b": 128,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german",
+      "south_german"
+    ]
+  },
+  "RIO": {
+    "r": 20,
+    "g": 20,
+    "b": 20,
+    "country_type": "colonial",
+    "cultures": [
+      "occitan"
+    ]
+  },
+  "RME": {
+    "r": 167,
+    "g": 10,
+    "b": 0,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish",
+      "north_italian",
+      "south_italian",
+      "maltese",
+      "french",
+      "occitan",
+      "corsican",
+      "francoprovencal",
+      "galician",
+      "spanish",
+      "aragonese",
+      "asturleonese",
+      "toledo",
+      "middle_italian",
+      "dutch",
+      "british",
+      "african"
+    ]
+  },
+  "ROM": {
+    "r": 21,
+    "g": 96,
+    "b": 178,
+    "country_type": "recognized",
+    "cultures": [
+      "romanian"
+    ]
+  },
+  "RSM": {
+    "r": 145,
+    "g": 240,
+    "b": 205,
+    "country_type": "recognized",
+    "cultures": [
+      "north_italian"
+    ]
+  },
+  "RUS": {
+    "r": 47,
+    "g": 91,
+    "b": 18,
+    "country_type": "recognized",
+    "cultures": [
+      "russian",
+      "severian"
+    ]
+  },
+  "RWD": {
+    "r": 213,
+    "g": 160,
+    "b": 18,
+    "country_type": "unrecognized",
+    "cultures": [
+      "ruanda"
+    ]
+  },
+  "RYA": {
+    "r": 146,
+    "g": 134,
+    "b": 77,
+    "country_type": "recognized",
+    "cultures": [
+      "russian"
+    ]
+  },
+  "RYU": {
+    "r": 90,
+    "g": 138,
+    "b": 133,
+    "country_type": "unrecognized",
+    "cultures": []
+  },
+  "SAF": {
+    "r": 180,
+    "g": 158,
+    "b": 127,
+    "country_type": "colonial",
+    "cultures": [
+      "andalusian"
+    ]
+  },
+  "SAH": {
+    "r": 220,
+    "g": 202,
+    "b": 96,
+    "country_type": "decentralized",
+    "cultures": [
+      "berber"
+    ]
+  },
+  "SAK": {
+    "r": 21,
+    "g": 196,
+    "b": 68,
+    "country_type": "unrecognized",
+    "cultures": [
+      "sumatran"
+    ]
+  },
+  "SAN": {
+    "r": 110,
+    "g": 130,
+    "b": 37,
+    "country_type": "decentralized",
+    "cultures": [
+      "khoisan"
+    ]
+  },
+  "SAR": {
+    "r": 117,
+    "g": 146,
+    "b": 167,
+    "country_type": "recognized",
+    "cultures": [
+      "south_italian"
+    ]
+  },
+  "SAS": {
+    "r": 170,
+    "g": 90,
+    "b": 128,
+    "country_type": "colonial",
+    "cultures": [
+      "mashriq_sahara"
+    ]
+  },
+  "SAT": {
+    "r": 255,
+    "g": 153,
+    "b": 51,
+    "country_type": "unrecognized",
+    "cultures": [
+      "marathi"
+    ]
+  },
+  "SAV": {
+    "r": 235,
+    "g": 196,
+    "b": 231,
+    "country_type": "recognized",
+    "cultures": [
+      "francoprovencal",
+      "north_italian"
+    ]
+  },
+  "SAX": {
+    "r": 155,
+    "g": 147,
+    "b": 180,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "SC1": {
+    "r": 247,
+    "g": 231,
+    "b": 124,
+    "country_type": "colonial",
+    "cultures": [
+      "spanish"
+    ]
+  },
+  "SC2": {
+    "r": 199,
+    "g": 184,
+    "b": 84,
+    "country_type": "colonial",
+    "cultures": [
+      "spanish"
+    ]
+  },
+  "SC3": {
+    "r": 235,
+    "g": 207,
+    "b": 23,
+    "country_type": "colonial",
+    "cultures": [
+      "spanish"
+    ]
+  },
+  "SC4": {
+    "r": 195,
+    "g": 179,
+    "b": 75,
+    "country_type": "colonial",
+    "cultures": [
+      "spanish"
+    ]
+  },
+  "SCA": {
+    "r": 62,
+    "g": 122,
+    "b": 189,
+    "country_type": "recognized",
+    "cultures": [
+      "swedish",
+      "gotaland",
+      "gotland",
+      "norwegian",
+      "danish",
+      "icelandic",
+      "polar_bear"
+    ]
+  },
+  "SCH": {
+    "r": 235,
+    "g": 225,
+    "b": 95,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german",
+      "danish"
+    ]
+  },
+  "SCM": {
+    "r": 25,
+    "g": 155,
+    "b": 155,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "SCN": {
+    "r": 251,
+    "g": 161,
+    "b": 22,
+    "country_type": "recognized",
+    "cultures": [
+      "danish",
+      "gotaland"
+    ]
+  },
+  "SCO": {
+    "r": 230,
+    "g": 140,
+    "b": 0,
+    "country_type": "recognized",
+    "cultures": [
+      "scottish"
+    ]
+  },
+  "SCR": {
+    "r": 245,
+    "g": 102,
+    "b": 0,
+    "country_type": "recognized",
+    "cultures": [
+      "dixie"
+    ]
+  },
+  "SCT": {
+    "r": 50,
+    "g": 162,
+    "b": 210,
+    "country_type": "decentralized",
+    "cultures": [
+      "lao"
+    ]
+  },
+  "SCW": {
+    "r": 98,
+    "g": 92,
+    "b": 94,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "SDM": {
+    "r": 83,
+    "g": 65,
+    "b": 167,
+    "country_type": "unrecognized",
+    "cultures": [
+      "sidama",
+      "oromo"
+    ]
+  },
+  "SEL": {
+    "r": 249,
+    "g": 215,
+    "b": 61,
+    "country_type": "unrecognized",
+    "cultures": [
+      "malay"
+    ]
+  },
+  "SEQ": {
+    "r": 86,
+    "g": 120,
+    "b": 117,
+    "country_type": "decentralized",
+    "cultures": [
+      "cherokee",
+      "siouan"
+    ]
+  },
+  "SER": {
+    "r": 129,
+    "g": 94,
+    "b": 13,
+    "country_type": "recognized",
+    "cultures": [
+      "serb"
+    ]
+  },
+  "SGF": {
+    "r": 102,
+    "g": 105,
+    "b": 104,
+    "country_type": "recognized",
+    "cultures": [
+      "south_german",
+      "alemannic"
+    ]
+  },
+  "SGU": {
+    "r": 27,
+    "g": 28,
+    "b": 145,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bambara"
+    ]
+  },
+  "SHA": {
+    "r": 189,
+    "g": 113,
+    "b": 42,
+    "country_type": "unrecognized",
+    "cultures": [
+      "han"
+    ]
+  },
+  "SHN": {
+    "r": 94,
+    "g": 209,
+    "b": 94,
+    "country_type": "unrecognized",
+    "cultures": [
+      "jin"
+    ]
+  },
+  "SHS": {
+    "r": 204,
+    "g": 229,
+    "b": 255,
+    "country_type": "unrecognized",
+    "cultures": [
+      "shan"
+    ]
+  },
+  "SHW": {
+    "r": 1,
+    "g": 200,
+    "b": 200,
+    "country_type": "unrecognized",
+    "cultures": [
+      "amhara",
+      "oromo"
+    ]
+  },
+  "SIA": {
+    "r": 88,
+    "g": 137,
+    "b": 172,
+    "country_type": "unrecognized",
+    "cultures": [
+      "thai"
+    ]
+  },
+  "SIB": {
+    "r": 139,
+    "g": 138,
+    "b": 160,
+    "country_type": "decentralized",
+    "cultures": [
+      "siberian"
+    ]
+  },
+  "SIC": {
+    "r": 73,
+    "g": 152,
+    "b": 76,
+    "country_type": "recognized",
+    "cultures": [
+      "south_italian"
+    ]
+  },
+  "SIH": {
+    "r": 167,
+    "g": 33,
+    "b": 62,
+    "country_type": "unrecognized",
+    "cultures": [
+      "shu"
+    ]
+  },
+  "SIK": {
+    "r": 139,
+    "g": 138,
+    "b": 160,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tibetan"
+    ]
+  },
+  "SIL": {
+    "r": 123,
+    "g": 206,
+    "b": 101,
+    "country_type": "unrecognized",
+    "cultures": [
+      "afro_caribbean"
+    ]
+  },
+  "SIN": {
+    "r": 135,
+    "g": 104,
+    "b": 85,
+    "country_type": "unrecognized",
+    "cultures": [
+      "sindi"
+    ]
+  },
+  "SKH": {
+    "r": 54,
+    "g": 102,
+    "b": 190,
+    "country_type": "decentralized",
+    "cultures": [
+      "ainu",
+      "siberian"
+    ]
+  },
+  "SKM": {
+    "r": 101,
+    "g": 122,
+    "b": 158,
+    "country_type": "decentralized",
+    "cultures": [
+      "sukuma"
+    ]
+  },
+  "SKY": {
+    "r": 122,
+    "g": 131,
+    "b": 130,
+    "country_type": "decentralized",
+    "cultures": [
+      "oromo"
+    ]
+  },
+  "SLK": {
+    "r": 122,
+    "g": 14,
+    "b": 52,
+    "country_type": "decentralized",
+    "cultures": [
+      "patagonian"
+    ]
+  },
+  "SLO": {
+    "r": 100,
+    "g": 105,
+    "b": 120,
+    "country_type": "recognized",
+    "cultures": [
+      "slovene"
+    ]
+  },
+  "SLS": {
+    "r": 50,
+    "g": 152,
+    "b": 173,
+    "country_type": "decentralized",
+    "cultures": [
+      "salish"
+    ]
+  },
+  "SLV": {
+    "r": 158,
+    "g": 161,
+    "b": 188,
+    "country_type": "recognized",
+    "cultures": [
+      "slovak"
+    ]
+  },
+  "SLW": {
+    "r": 153,
+    "g": 0,
+    "b": 0,
+    "country_type": "decentralized",
+    "cultures": [
+      "moluccan"
+    ]
+  },
+  "SMB": {
+    "r": 102,
+    "g": 102,
+    "b": 255,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bornean"
+    ]
+  },
+  "SMI": {
+    "r": 28,
+    "g": 146,
+    "b": 136,
+    "country_type": "decentralized",
+    "cultures": [
+      "sami"
+    ]
+  },
+  "SML": {
+    "r": 146,
+    "g": 95,
+    "b": 107,
+    "country_type": "decentralized",
+    "cultures": [
+      "muskogean"
+    ]
+  },
+  "SMN": {
+    "r": 232,
+    "g": 121,
+    "b": 145,
+    "country_type": "unrecognized",
+    "cultures": [
+      "amhara"
+    ]
+  },
+  "SMO": {
+    "r": 106,
+    "g": 160,
+    "b": 43,
+    "country_type": "recognized",
+    "cultures": [
+      "severian"
+    ]
+  },
+  "SNA": {
+    "r": 91,
+    "g": 132,
+    "b": 128,
+    "country_type": "decentralized",
+    "cultures": [
+      "sena"
+    ]
+  },
+  "SNG": {
+    "r": 203,
+    "g": 54,
+    "b": 66,
+    "country_type": "decentralized",
+    "cultures": [
+      "lacustrine_bantu"
+    ]
+  },
+  "SOK": {
+    "r": 0,
+    "g": 135,
+    "b": 81,
+    "country_type": "unrecognized",
+    "cultures": [
+      "hausa",
+      "fulbe"
+    ]
+  },
+  "SOO": {
+    "r": 231,
+    "g": 96,
+    "b": 158,
+    "country_type": "unrecognized",
+    "cultures": [
+      "japanese"
+    ]
+  },
+  "SPA": {
+    "r": 253,
+    "g": 158,
+    "b": 51,
+    "country_type": "recognized",
+    "cultures": [
+      "asturleonese"
+    ]
+  },
+  "SPC": {
+    "r": 217,
+    "g": 23,
+    "b": 26,
+    "country_type": "recognized",
+    "cultures": [
+      "spanish"
+    ]
+  },
+  "SPU": {
+    "r": 229,
+    "g": 64,
+    "b": 64,
+    "country_type": "unrecognized",
+    "cultures": [
+      "quechua"
+    ]
+  },
+  "SRA": {
+    "r": 179,
+    "g": 236,
+    "b": 217,
+    "country_type": "decentralized",
+    "cultures": [
+      "sara"
+    ]
+  },
+  "SRB": {
+    "r": 67,
+    "g": 80,
+    "b": 128,
+    "country_type": "recognized",
+    "cultures": [
+      "sorb"
+    ]
+  },
+  "SRK": {
+    "r": 239,
+    "g": 51,
+    "b": 64,
+    "country_type": "unrecognized",
+    "cultures": [
+      "javan"
+    ]
+  },
+  "SRR": {
+    "r": 57,
+    "g": 121,
+    "b": 111,
+    "country_type": "decentralized",
+    "cultures": [
+      "mande"
+    ]
+  },
+  "SSU": {
+    "r": 69,
+    "g": 109,
+    "b": 142,
+    "country_type": "decentralized",
+    "cultures": [
+      "mande"
+    ]
+  },
+  "STG": {
+    "r": 255,
+    "g": 255,
+    "b": 0,
+    "country_type": "unrecognized",
+    "cultures": [
+      "bornean"
+    ]
+  },
+  "STT": {
+    "r": 49,
+    "g": 103,
+    "b": 69,
+    "country_type": "unrecognized",
+    "cultures": [
+      "japanese"
+    ]
+  },
+  "SUD": {
+    "r": 189,
+    "g": 159,
+    "b": 69,
+    "country_type": "unrecognized",
+    "cultures": [
+      "sudanese",
+      "beja",
+      "bedouin"
+    ]
+  },
+  "SUL": {
+    "r": 89,
+    "g": 164,
+    "b": 144,
+    "country_type": "unrecognized",
+    "cultures": [
+      "moro"
+    ]
+  },
+  "SUR": {
+    "r": 60,
+    "g": 222,
+    "b": 75,
+    "country_type": "unrecognized",
+    "cultures": [
+      "chhattisgarhi"
+    ]
+  },
+  "SWE": {
+    "r": 50,
+    "g": 110,
+    "b": 165,
+    "country_type": "recognized",
+    "cultures": [
+      "swedish",
+      "gotaland"
+    ]
+  },
+  "SWI": {
+    "r": 210,
+    "g": 210,
+    "b": 210,
+    "country_type": "recognized",
+    "cultures": [
+      "alemannic"
+    ]
+  },
+  "SWT": {
+    "r": 244,
+    "g": 196,
+    "b": 22,
+    "country_type": "unrecognized",
+    "cultures": [
+      "pashtun"
+    ]
+  },
+  "SWZ": {
+    "r": 255,
+    "g": 217,
+    "b": 0,
+    "country_type": "unrecognized",
+    "cultures": [
+      "nguni"
+    ]
+  },
+  "SYR": {
+    "r": 241,
+    "g": 245,
+    "b": 240,
+    "country_type": "recognized",
+    "cultures": [
+      "mashriqi"
+    ]
+  },
+  "TAR": {
+    "r": 129,
+    "g": 97,
+    "b": 62,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tatar"
+    ]
+  },
+  "TAS": {
+    "r": 224,
+    "g": 194,
+    "b": 152,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "TBI": {
+    "r": 220,
+    "g": 210,
+    "b": 97,
+    "country_type": "decentralized",
+    "cultures": [
+      "teda"
+    ]
+  },
+  "TEK": {
+    "r": 93,
+    "g": 64,
+    "b": 156,
+    "country_type": "decentralized",
+    "cultures": [
+      "bidan"
+    ]
+  },
+  "TEU": {
+    "r": 102,
+    "g": 105,
+    "b": 104,
+    "country_type": "recognized",
+    "cultures": [
+      "east_german"
+    ]
+  },
+  "TEX": {
+    "r": 4,
+    "g": 39,
+    "b": 104,
+    "country_type": "recognized",
+    "cultures": [
+      "dixie"
+    ]
+  },
+  "TFL": {
+    "r": 250,
+    "g": 130,
+    "b": 130,
+    "country_type": "unrecognized",
+    "cultures": [
+      "berber"
+    ]
+  },
+  "TGI": {
+    "r": 72,
+    "g": 92,
+    "b": 12,
+    "country_type": "unrecognized",
+    "cultures": [
+      "swahili"
+    ]
+  },
+  "TGR": {
+    "r": 167,
+    "g": 218,
+    "b": 207,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tigray",
+      "amhara"
+    ]
+  },
+  "THL": {
+    "r": 57,
+    "g": 124,
+    "b": 138,
+    "country_type": "decentralized",
+    "cultures": [
+      "patagonian"
+    ]
+  },
+  "THS": {
+    "r": 175,
+    "g": 30,
+    "b": 130,
+    "country_type": "recognized",
+    "cultures": [
+      "greek"
+    ]
+  },
+  "TIB": {
+    "r": 250,
+    "g": 40,
+    "b": 0,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tibetan"
+    ]
+  },
+  "TID": {
+    "r": 176,
+    "g": 232,
+    "b": 64,
+    "country_type": "unrecognized",
+    "cultures": [
+      "moluccan"
+    ]
+  },
+  "TIP": {
+    "r": 255,
+    "g": 204,
+    "b": 204,
+    "country_type": "decentralized",
+    "cultures": [
+      "lushai"
+    ]
+  },
+  "TIR": {
+    "r": 106,
+    "g": 95,
+    "b": 79,
+    "country_type": "decentralized",
+    "cultures": [
+      "haratin"
+    ]
+  },
+  "TIS": {
+    "r": 190,
+    "g": 133,
+    "b": 82,
+    "country_type": "unrecognized",
+    "cultures": [
+      "zapotec",
+      "mayan",
+      "nahua",
+      "tarascan",
+      "quechua",
+      "guarani",
+      "aimara",
+      "amazonian",
+      "patagonian",
+      "guajiro",
+      "tupinamba",
+      "dakota",
+      "cherokee",
+      "muskogean",
+      "pueblo",
+      "inuit",
+      "cree",
+      "navajo",
+      "athabaskan",
+      "salish",
+      "nez_perce",
+      "siouan",
+      "comanche",
+      "algonquian",
+      "iroquoian",
+      "caddoan",
+      "paiute",
+      "hokan",
+      "apache",
+      "oodham",
+      "mixtec",
+      "muisca",
+      "miskito",
+      "cariban",
+      "tomorin",
+      "east_algonquian"
+    ]
+  },
+  "TIV": {
+    "r": 240,
+    "g": 213,
+    "b": 100,
+    "country_type": "decentralized",
+    "cultures": [
+      "tiv"
+    ]
+  },
+  "TJI": {
+    "r": 45,
+    "g": 85,
+    "b": 45,
+    "country_type": "recognized",
+    "cultures": [
+      "tajik"
+    ]
+  },
+  "TKE": {
+    "r": 99,
+    "g": 160,
+    "b": 139,
+    "country_type": "decentralized",
+    "cultures": [
+      "bakongo"
+    ]
+  },
+  "TMN": {
+    "r": 71,
+    "g": 121,
+    "b": 24,
+    "country_type": "decentralized",
+    "cultures": [
+      "kissi"
+    ]
+  },
+  "TNG": {
+    "r": 225,
+    "g": 200,
+    "b": 95,
+    "country_type": "unrecognized",
+    "cultures": [
+      "polynesian"
+    ]
+  },
+  "TNS": {
+    "r": 11,
+    "g": 115,
+    "b": 39,
+    "country_type": "decentralized",
+    "cultures": [
+      "siberian"
+    ]
+  },
+  "TOB": {
+    "r": 183,
+    "g": 141,
+    "b": 1,
+    "country_type": "unrecognized",
+    "cultures": [
+      "batak"
+    ]
+  },
+  "TOL": {
+    "r": 99,
+    "g": 163,
+    "b": 182,
+    "country_type": "recognized",
+    "cultures": [
+      "toledo"
+    ]
+  },
+  "TOU": {
+    "r": 25,
+    "g": 65,
+    "b": 225,
+    "country_type": "recognized",
+    "cultures": [
+      "french"
+    ]
+  },
+  "TPG": {
+    "r": 100,
+    "g": 150,
+    "b": 20,
+    "country_type": "unrecognized",
+    "cultures": [
+      "han",
+      "hakka"
+    ]
+  },
+  "TPI": {
+    "r": 157,
+    "g": 209,
+    "b": 192,
+    "country_type": "decentralized",
+    "cultures": [
+      "tupinamba"
+    ]
+  },
+  "TPS": {
+    "r": 232,
+    "g": 101,
+    "b": 68,
+    "country_type": "decentralized",
+    "cultures": [
+      "nilotic"
+    ]
+  },
+  "TRA": {
+    "r": 134,
+    "g": 166,
+    "b": 117,
+    "country_type": "unrecognized",
+    "cultures": [
+      "malayalam"
+    ]
+  },
+  "TRB": {
+    "r": 205,
+    "g": 130,
+    "b": 85,
+    "country_type": "recognized",
+    "cultures": [
+      "azerbaijani",
+      "turkish"
+    ]
+  },
+  "TRC": {
+    "r": 165,
+    "g": 117,
+    "b": 208,
+    "country_type": "recognized",
+    "cultures": [
+      "turkmen"
+    ]
+  },
+  "TRE": {
+    "r": 208,
+    "g": 104,
+    "b": 44,
+    "country_type": "recognized",
+    "cultures": [
+      "north_italian"
+    ]
+  },
+  "TRH": {
+    "r": 213,
+    "g": 0,
+    "b": 39,
+    "country_type": "unrecognized",
+    "cultures": [
+      "uzbek",
+      "kirgiz",
+      "kazak",
+      "turkmen",
+      "tajik",
+      "uighur",
+      "bashkir",
+      "chuvash",
+      "turkish",
+      "azerbaijani",
+      "tatar",
+      "tuvan",
+      "cuman"
+    ]
+  },
+  "TRI": {
+    "r": 180,
+    "g": 137,
+    "b": 148,
+    "country_type": "unrecognized",
+    "cultures": [
+      "maghrebi"
+    ]
+  },
+  "TRK": {
+    "r": 103,
+    "g": 84,
+    "b": 190,
+    "country_type": "unrecognized",
+    "cultures": [
+      "nilotic",
+      "maasai"
+    ]
+  },
+  "TRM": {
+    "r": 156,
+    "g": 74,
+    "b": 74,
+    "country_type": "decentralized",
+    "cultures": [
+      "turkmen"
+    ]
+  },
+  "TRN": {
+    "r": 140,
+    "g": 183,
+    "b": 154,
+    "country_type": "unrecognized",
+    "cultures": [
+      "boer"
+    ]
+  },
+  "TRO": {
+    "r": 15,
+    "g": 55,
+    "b": 145,
+    "country_type": "recognized",
+    "cultures": [
+      "french"
+    ]
+  },
+  "TRS": {
+    "r": 211,
+    "g": 207,
+    "b": 173,
+    "country_type": "recognized",
+    "cultures": [
+      "szekely",
+      "romanian"
+    ]
+  },
+  "TRZ": {
+    "r": 230,
+    "g": 123,
+    "b": 17,
+    "country_type": "decentralized",
+    "cultures": [
+      "bidan"
+    ]
+  },
+  "TSW": {
+    "r": 117,
+    "g": 170,
+    "b": 219,
+    "country_type": "decentralized",
+    "cultures": [
+      "tswana"
+    ]
+  },
+  "TUA": {
+    "r": 142,
+    "g": 88,
+    "b": 74,
+    "country_type": "decentralized",
+    "cultures": [
+      "tuareg"
+    ]
+  },
+  "TUG": {
+    "r": 90,
+    "g": 140,
+    "b": 190,
+    "country_type": "unrecognized",
+    "cultures": [
+      "berber"
+    ]
+  },
+  "TUN": {
+    "r": 131,
+    "g": 101,
+    "b": 85,
+    "country_type": "unrecognized",
+    "cultures": [
+      "maghrebi"
+    ]
+  },
+  "TUR": {
+    "r": 146,
+    "g": 209,
+    "b": 205,
+    "country_type": "recognized",
+    "cultures": [
+      "turkish"
+    ]
+  },
+  "TUS": {
+    "r": 232,
+    "g": 190,
+    "b": 25,
+    "country_type": "recognized",
+    "cultures": [
+      "middle_italian"
+    ]
+  },
+  "TUV": {
+    "r": 68,
+    "g": 242,
+    "b": 236,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tuvan"
+    ]
+  },
+  "TVE": {
+    "r": 136,
+    "g": 158,
+    "b": 183,
+    "country_type": "recognized",
+    "cultures": [
+      "russian"
+    ]
+  },
+  "TWT": {
+    "r": 125,
+    "g": 92,
+    "b": 110,
+    "country_type": "unrecognized",
+    "cultures": [
+      "quechua",
+      "aimara"
+    ]
+  },
+  "UBD": {
+    "r": 110,
+    "g": 80,
+    "b": 168,
+    "country_type": "recognized",
+    "cultures": [
+      "latvian",
+      "estonian"
+    ]
+  },
+  "UCA": {
+    "r": 90,
+    "g": 175,
+    "b": 255,
+    "country_type": "recognized",
+    "cultures": [
+      "central_american"
+    ]
+  },
+  "UDM": {
+    "r": 82,
+    "g": 12,
+    "b": 12,
+    "country_type": "recognized",
+    "cultures": [
+      "udmurt"
+    ]
+  },
+  "UGR": {
+    "r": 94,
+    "g": 83,
+    "b": 70,
+    "country_type": "recognized",
+    "cultures": [
+      "karelian",
+      "mordvin",
+      "mari",
+      "udmurt",
+      "finnish",
+      "sami",
+      "ugrian",
+      "perm",
+      "estonian",
+      "hungarian"
+    ]
+  },
+  "UKR": {
+    "r": 62,
+    "g": 90,
+    "b": 240,
+    "country_type": "recognized",
+    "cultures": [
+      "ukrainian"
+    ]
+  },
+  "ULR": {
+    "r": 112,
+    "g": 54,
+    "b": 16,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "ULS": {
+    "r": 204,
+    "g": 84,
+    "b": 41,
+    "country_type": "recognized",
+    "cultures": [
+      "scottish",
+      "irish"
+    ]
+  },
+  "ULT": {
+    "r": 122,
+    "g": 229,
+    "b": 255,
+    "country_type": "decentralized",
+    "cultures": [
+      "siberian"
+    ]
+  },
+  "UNL": {
+    "r": 110,
+    "g": 110,
+    "b": 160,
+    "country_type": "recognized",
+    "cultures": [
+      "dutch",
+      "flemish"
+    ]
+  },
+  "UNT": {
+    "r": 170,
+    "g": 167,
+    "b": 151,
+    "country_type": "unrecognized",
+    "cultures": [
+      "maori"
+    ]
+  },
+  "UOM": {
+    "r": 0,
+    "g": 39,
+    "b": 76,
+    "country_type": "recognized",
+    "cultures": [
+      "yankee"
+    ]
+  },
+  "URL": {
+    "r": 55,
+    "g": 89,
+    "b": 88,
+    "country_type": "decentralized",
+    "cultures": [
+      "ugrian"
+    ]
+  },
+  "URU": {
+    "r": 131,
+    "g": 101,
+    "b": 85,
+    "country_type": "recognized",
+    "cultures": [
+      "platinean"
+    ]
+  },
+  "USA": {
+    "r": 66,
+    "g": 94,
+    "b": 193,
+    "country_type": "recognized",
+    "cultures": [
+      "yankee",
+      "dixie"
+    ]
+  },
+  "UTE": {
+    "r": 235,
+    "g": 126,
+    "b": 175,
+    "country_type": "decentralized",
+    "cultures": [
+      "paiute"
+    ]
+  },
+  "UTR": {
+    "r": 1,
+    "g": 140,
+    "b": 80,
+    "country_type": "unrecognized",
+    "cultures": [
+      "swahili"
+    ]
+  },
+  "UTS": {
+    "r": 38,
+    "g": 101,
+    "b": 255,
+    "country_type": "unrecognized",
+    "cultures": [
+      "tibetan"
+    ]
+  },
+  "UYA": {
+    "r": 192,
+    "g": 204,
+    "b": 111,
+    "country_type": "decentralized",
+    "cultures": [
+      "yao"
+    ]
+  },
+  "UZB": {
+    "r": 199,
+    "g": 199,
+    "b": 170,
+    "country_type": "recognized",
+    "cultures": [
+      "uzbek"
+    ]
+  },
+  "UZH": {
+    "r": 70,
+    "g": 100,
+    "b": 80,
+    "country_type": "unrecognized",
+    "cultures": [
+      "kazak"
+    ]
+  },
+  "VAL": {
+    "r": 24,
+    "g": 52,
+    "b": 226,
+    "country_type": "recognized",
+    "cultures": [
+      "flemish"
+    ]
+  },
+  "VEN": {
+    "r": 180,
+    "g": 12,
+    "b": 1,
+    "country_type": "recognized",
+    "cultures": [
+      "north_italian"
+    ]
+  },
+  "VER": {
+    "r": 35,
+    "g": 65,
+    "b": 230,
+    "country_type": "recognized",
+    "cultures": [
+      "french"
+    ]
+  },
+  "VIE": {
+    "r": 151,
+    "g": 174,
+    "b": 28,
+    "country_type": "unrecognized",
+    "cultures": [
+      "lao"
+    ]
+  },
+  "VND": {
+    "r": 235,
+    "g": 122,
+    "b": 83,
+    "country_type": "decentralized",
+    "cultures": [
+      "sotho"
+    ]
+  },
+  "VNT": {
+    "r": 37,
+    "g": 214,
+    "b": 50,
+    "country_type": "decentralized",
+    "cultures": [
+      "melanesian"
+    ]
+  },
+  "VNZ": {
+    "r": 255,
+    "g": 176,
+    "b": 140,
+    "country_type": "recognized",
+    "cultures": [
+      "north_andean"
+    ]
+  },
+  "WAD": {
+    "r": 194,
+    "g": 66,
+    "b": 41,
+    "country_type": "unrecognized",
+    "cultures": [
+      "fur"
+    ]
+  },
+  "WAL": {
+    "r": 237,
+    "g": 147,
+    "b": 52,
+    "country_type": "recognized",
+    "cultures": [
+      "romanian"
+    ]
+  },
+  "WAS": {
+    "r": 118,
+    "g": 115,
+    "b": 97,
+    "country_type": "unrecognized",
+    "cultures": [
+      "mashriq_sahara"
+    ]
+  },
+  "WBL": {
+    "r": 176,
+    "g": 206,
+    "b": 177,
+    "country_type": "decentralized",
+    "cultures": [
+      "khoisan",
+      "tswana"
+    ]
+  },
+  "WDJ": {
+    "r": 140,
+    "g": 70,
+    "b": 67,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "WEI": {
+    "r": 69,
+    "g": 188,
+    "b": 45,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "WES": {
+    "r": 5,
+    "g": 85,
+    "b": 5,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "WIN": {
+    "r": 50,
+    "g": 150,
+    "b": 50,
+    "country_type": "recognized",
+    "cultures": [
+      "afro_caribbean"
+    ]
+  },
+  "WKB": {
+    "r": 252,
+    "g": 112,
+    "b": 227,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "WLD": {
+    "r": 169,
+    "g": 194,
+    "b": 107,
+    "country_type": "recognized",
+    "cultures": [
+      "north_german"
+    ]
+  },
+  "WLG": {
+    "r": 126,
+    "g": 208,
+    "b": 222,
+    "country_type": "unrecognized",
+    "cultures": [
+      "oromo"
+    ]
+  },
+  "WLL": {
+    "r": 131,
+    "g": 141,
+    "b": 142,
+    "country_type": "recognized",
+    "cultures": [
+      "wallonian"
+    ]
+  },
+  "WLO": {
+    "r": 222,
+    "g": 199,
+    "b": 163,
+    "country_type": "unrecognized",
+    "cultures": [
+      "amhara"
+    ]
+  },
+  "WLS": {
+    "r": 100,
+    "g": 0,
+    "b": 0,
+    "country_type": "recognized",
+    "cultures": [
+      "welsh"
+    ]
+  },
+  "WLT": {
+    "r": 212,
+    "g": 230,
+    "b": 54,
+    "country_type": "unrecognized",
+    "cultures": [
+      "sidama"
+    ]
+  },
+  "WRD": {
+    "r": 178,
+    "g": 188,
+    "b": 126,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "WRR": {
+    "r": 206,
+    "g": 205,
+    "b": 45,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "WSG": {
+    "r": 18,
+    "g": 97,
+    "b": 128,
+    "country_type": "unrecognized",
+    "cultures": [
+      "somali"
+    ]
+  },
+  "WTI": {
+    "r": 54,
+    "g": 112,
+    "b": 16,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "WTU": {
+    "r": 255,
+    "g": 164,
+    "b": 7,
+    "country_type": "unrecognized",
+    "cultures": [
+      "swahili"
+    ]
+  },
+  "WUR": {
+    "r": 111,
+    "g": 162,
+    "b": 128,
+    "country_type": "recognized",
+    "cultures": [
+      "south_german"
+    ]
+  },
+  "WYU": {
+    "r": 40,
+    "g": 96,
+    "b": 65,
+    "country_type": "decentralized",
+    "cultures": [
+      "guajiro"
+    ]
+  },
+  "XHO": {
+    "r": 88,
+    "g": 80,
+    "b": 163,
+    "country_type": "unrecognized",
+    "cultures": [
+      "xhosa"
+    ]
+  },
+  "XIB": {
+    "r": 181,
+    "g": 135,
+    "b": 55,
+    "country_type": "unrecognized",
+    "cultures": [
+      "han"
+    ]
+  },
+  "XIN": {
+    "r": 87,
+    "g": 92,
+    "b": 104,
+    "country_type": "unrecognized",
+    "cultures": [
+      "mongol",
+      "uighur"
+    ]
+  },
+  "YAK": {
+    "r": 131,
+    "g": 176,
+    "b": 131,
+    "country_type": "decentralized",
+    "cultures": [
+      "yakut"
+    ]
+  },
+  "YAR": {
+    "r": 131,
+    "g": 141,
+    "b": 142,
+    "country_type": "recognized",
+    "cultures": [
+      "russian"
+    ]
+  },
+  "YEM": {
+    "r": 255,
+    "g": 191,
+    "b": 191,
+    "country_type": "unrecognized",
+    "cultures": [
+      "yemenite",
+      "bedouin"
+    ]
+  },
+  "YGU": {
+    "r": 78,
+    "g": 11,
+    "b": 105,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "YKA": {
+    "r": 99,
+    "g": 160,
+    "b": 239,
+    "country_type": "decentralized",
+    "cultures": [
+      "bakongo",
+      "lunda"
+    ]
+  },
+  "YOG": {
+    "r": 201,
+    "g": 28,
+    "b": 54,
+    "country_type": "unrecognized",
+    "cultures": [
+      "javan"
+    ]
+  },
+  "YOR": {
+    "r": 255,
+    "g": 90,
+    "b": 15,
+    "country_type": "recognized",
+    "cultures": [
+      "anglish"
+    ]
+  },
+  "YUC": {
+    "r": 20,
+    "g": 142,
+    "b": 20,
+    "country_type": "recognized",
+    "cultures": [
+      "mexican"
+    ]
+  },
+  "YUE": {
+    "r": 89,
+    "g": 113,
+    "b": 223,
+    "country_type": "unrecognized",
+    "cultures": [
+      "yue"
+    ]
+  },
+  "YUG": {
+    "r": 113,
+    "g": 88,
+    "b": 101,
+    "country_type": "recognized",
+    "cultures": [
+      "serb",
+      "croat",
+      "slovene",
+      "bosniak",
+      "bulgarian"
+    ]
+  },
+  "YUN": {
+    "r": 245,
+    "g": 245,
+    "b": 220,
+    "country_type": "unrecognized",
+    "cultures": [
+      "yi"
+    ]
+  },
+  "YUR": {
+    "r": 218,
+    "g": 76,
+    "b": 144,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "YUZ": {
+    "r": 97,
+    "g": 44,
+    "b": 96,
+    "country_type": "decentralized",
+    "cultures": [
+      "yuanzhumin"
+    ]
+  },
+  "YYT": {
+    "r": 198,
+    "g": 164,
+    "b": 98,
+    "country_type": "decentralized",
+    "cultures": [
+      "aborigine"
+    ]
+  },
+  "ZAI": {
+    "r": 153,
+    "g": 76,
+    "b": 0,
+    "country_type": "unrecognized",
+    "cultures": [
+      "yemenite",
+      "bedouin"
+    ]
+  },
+  "ZAN": {
+    "r": 166,
+    "g": 189,
+    "b": 199,
+    "country_type": "colonial",
+    "cultures": [
+      "east_mauritania"
+    ]
+  },
+  "ZHI": {
+    "r": 219,
+    "g": 44,
+    "b": 21,
+    "country_type": "unrecognized",
+    "cultures": [
+      "han"
+    ]
+  },
+  "ZIM": {
+    "r": 186,
+    "g": 164,
+    "b": 78,
+    "country_type": "unrecognized",
+    "cultures": [
+      "shona",
+      "nguni"
+    ]
+  },
+  "ZND": {
+    "r": 208,
+    "g": 225,
+    "b": 57,
+    "country_type": "decentralized",
+    "cultures": [
+      "azande"
+    ]
+  },
+  "ZUL": {
+    "r": 204,
+    "g": 186,
+    "b": 201,
+    "country_type": "unrecognized",
+    "cultures": [
+      "zulu"
+    ]
+  },
+  "ZWY": {
+    "r": 221,
+    "g": 133,
+    "b": 80,
+    "country_type": "decentralized",
+    "cultures": [
+      "bedouin"
+    ]
+  }
+}

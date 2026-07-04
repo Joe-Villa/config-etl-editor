@@ -1,0 +1,905 @@
+{
+  "by_scope": {
+    "ACE::STATE_ACEH": {
+      "has_slaves": true,
+      "slave_pop": 12000
+    },
+    "AFG::STATE_KABUL": {
+      "has_slaves": true,
+      "slave_pop": 59000
+    },
+    "AFG::STATE_PASHTUNISTAN": {
+      "has_slaves": true,
+      "slave_pop": 33503
+    },
+    "AFG::STATE_QUETTA": {
+      "has_slaves": true,
+      "slave_pop": 34624
+    },
+    "ANT::STATE_ADANA": {
+      "has_slaves": true,
+      "slave_pop": 500
+    },
+    "ANT::STATE_ANKARA": {
+      "has_slaves": true,
+      "slave_pop": 1700
+    },
+    "ANT::STATE_KONYA": {
+      "has_slaves": true,
+      "slave_pop": 100
+    },
+    "ARN::STATE_LOUISIANA": {
+      "has_slaves": true,
+      "slave_pop": 118994
+    },
+    "ARN::STATE_NORTH_CAMEROON": {
+      "has_slaves": true,
+      "slave_pop": 10020
+    },
+    "ARN::STATE_SOUTH_CAMEROON": {
+      "has_slaves": true,
+      "slave_pop": 121000
+    },
+    "ARN::STATE_SOUTH_MADAGASCAR": {
+      "has_slaves": true,
+      "slave_pop": 15000
+    },
+    "ASH::STATE_TOGO": {
+      "has_slaves": true,
+      "slave_pop": 64004
+    },
+    "ASM::STATE_ASSAM": {
+      "has_slaves": true,
+      "slave_pop": 96581
+    },
+    "ASS::STATE_DEIR_EZ_ZOR": {
+      "has_slaves": true,
+      "slave_pop": 500
+    },
+    "ASS::STATE_MOSUL": {
+      "has_slaves": true,
+      "slave_pop": 4500
+    },
+    "BAL::STATE_CELEBES": {
+      "has_slaves": true,
+      "slave_pop": 15808
+    },
+    "BAL::STATE_EAST_BORNEO": {
+      "has_slaves": true,
+      "slave_pop": 40000
+    },
+    "BAL::STATE_EAST_JAVA": {
+      "has_slaves": true,
+      "slave_pop": 21000
+    },
+    "BAL::STATE_MOLUCCAS": {
+      "has_slaves": true,
+      "slave_pop": 68542
+    },
+    "BAL::STATE_NORTH_BORNEO": {
+      "has_slaves": true,
+      "slave_pop": 300
+    },
+    "BAL::STATE_SUNDA_ISLANDS": {
+      "has_slaves": true,
+      "slave_pop": 70000
+    },
+    "BAL::STATE_WESTERN_NEW_GUINEA": {
+      "has_slaves": true,
+      "slave_pop": 2000
+    },
+    "BAL::STATE_WEST_BORNEO": {
+      "has_slaves": true,
+      "slave_pop": 19600
+    },
+    "BEN::STATE_BENIN": {
+      "has_slaves": true,
+      "slave_pop": 186000
+    },
+    "BHI::STATE_MARANHAO": {
+      "has_slaves": true,
+      "slave_pop": 37276
+    },
+    "BHI::STATE_PIAUI": {
+      "has_slaves": true,
+      "slave_pop": 23547
+    },
+    "BHW::STATE_PUNJAB": {
+      "has_slaves": true,
+      "slave_pop": 12012
+    },
+    "BIC::STATE_SINDH": {
+      "has_slaves": true,
+      "slave_pop": 43000
+    },
+    "BIH::STATE_BIHAR": {
+      "has_slaves": true,
+      "slave_pop": 726478
+    },
+    "BRU::STATE_NORTH_BORNEO": {
+      "has_slaves": true,
+      "slave_pop": 18000
+    },
+    "BUG::STATE_UGANDA": {
+      "has_slaves": true,
+      "slave_pop": 47700
+    },
+    "BUK::STATE_BALKH": {
+      "has_slaves": true,
+      "slave_pop": 14120
+    },
+    "BUK::STATE_KHIVA": {
+      "has_slaves": true,
+      "slave_pop": 253202
+    },
+    "BUK::STATE_MERZ": {
+      "has_slaves": true,
+      "slave_pop": 19663
+    },
+    "BUK::STATE_TAJIKISTAN": {
+      "has_slaves": true,
+      "slave_pop": 35051
+    },
+    "BUK::STATE_TURKMENIA": {
+      "has_slaves": true,
+      "slave_pop": 45242
+    },
+    "BUK::STATE_UZBEKIA": {
+      "has_slaves": true,
+      "slave_pop": 122491
+    },
+    "CAU::STATE_KARS": {
+      "has_slaves": true,
+      "slave_pop": 3700
+    },
+    "CMI::STATE_CHIANG_MAI": {
+      "has_slaves": true,
+      "slave_pop": 30200
+    },
+    "CUB::STATE_CENTRAL_CUBA": {
+      "has_slaves": true,
+      "slave_pop": 110198
+    },
+    "CUB::STATE_EASTERN_CUBA": {
+      "has_slaves": true,
+      "slave_pop": 73477
+    },
+    "CUB::STATE_WESTERN_CUBA": {
+      "has_slaves": true,
+      "slave_pop": 143536
+    },
+    "CUM::STATE_MOLDAVIA": {
+      "has_slaves": true,
+      "slave_pop": 116857
+    },
+    "CYP::STATE_CYPRUS": {
+      "has_slaves": true,
+      "slave_pop": 3360
+    },
+    "DAH::STATE_DAHOMEY": {
+      "has_slaves": true,
+      "slave_pop": 43000
+    },
+    "DEI::STATE_CENTRAL_JAVA": {
+      "has_slaves": true,
+      "slave_pop": 19000
+    },
+    "DEI::STATE_NORTH_SUMATRA": {
+      "has_slaves": true,
+      "slave_pop": 38422
+    },
+    "DEI::STATE_SOUTH_SUMATRA": {
+      "has_slaves": true,
+      "slave_pop": 12212
+    },
+    "DEI::STATE_WEST_JAVA": {
+      "has_slaves": true,
+      "slave_pop": 41000
+    },
+    "DFR::STATE_DARFUR": {
+      "has_slaves": true,
+      "slave_pop": 14400
+    },
+    "DFR::STATE_KORDOFAN": {
+      "has_slaves": true,
+      "slave_pop": 100800
+    },
+    "DFT::STATE_EQUATORIA": {
+      "has_slaves": true,
+      "slave_pop": 53000
+    },
+    "DFT::STATE_UBANGI_SHARI": {
+      "has_slaves": true,
+      "slave_pop": 22000
+    },
+    "EPH::STATE_AYDIN": {
+      "has_slaves": true,
+      "slave_pop": 8500
+    },
+    "EPH::STATE_HUDAVENDIGAR": {
+      "has_slaves": true,
+      "slave_pop": 5000
+    },
+    "EQT::STATE_CEARA": {
+      "has_slaves": true,
+      "slave_pop": 25402
+    },
+    "EQT::STATE_PARAIBA": {
+      "has_slaves": true,
+      "slave_pop": 21960
+    },
+    "EQT::STATE_PERNAMBUCO": {
+      "has_slaves": true,
+      "slave_pop": 164812
+    },
+    "EQT::STATE_RIO_GRANDE_DO_NORTE": {
+      "has_slaves": true,
+      "slave_pop": 10242
+    },
+    "FTJ::STATE_GUINEA": {
+      "has_slaves": true,
+      "slave_pop": 25000
+    },
+    "FTR::STATE_SENEGAL": {
+      "has_slaves": true,
+      "slave_pop": 14000
+    },
+    "GAO::STATE_TIMBUKTU": {
+      "has_slaves": true,
+      "slave_pop": 16000
+    },
+    "HAI::STATE_PANAMA": {
+      "has_slaves": true,
+      "slave_pop": 4100
+    },
+    "HAU::STATE_OUTER_HAUSALAND": {
+      "has_slaves": true,
+      "slave_pop": 28500
+    },
+    "HDJ::STATE_HAIL": {
+      "has_slaves": true,
+      "slave_pop": 2400
+    },
+    "HDJ::STATE_HEDJAZ": {
+      "has_slaves": true,
+      "slave_pop": 31000
+    },
+    "HDJ::STATE_NEJD": {
+      "has_slaves": true,
+      "slave_pop": 7000
+    },
+    "HRE::STATE_SENEGAL": {
+      "has_slaves": true,
+      "slave_pop": 345
+    },
+    "HRO::STATE_HEREROLAND": {
+      "has_slaves": true,
+      "slave_pop": 22000
+    },
+    "HRO::STATE_NAMAQUALAND": {
+      "has_slaves": true,
+      "slave_pop": 4000
+    },
+    "HTH::STATE_ARAKAN": {
+      "has_slaves": true,
+      "slave_pop": 19000
+    },
+    "HTH::STATE_CAMBODIA": {
+      "has_slaves": true,
+      "slave_pop": 40204
+    },
+    "HTH::STATE_EAST_BENGAL": {
+      "has_slaves": true,
+      "slave_pop": 1070000
+    },
+    "HTH::STATE_MANDALAY": {
+      "has_slaves": true,
+      "slave_pop": 50200
+    },
+    "HTH::STATE_NAKHON_RATCHASIMA": {
+      "has_slaves": true,
+      "slave_pop": 28000
+    },
+    "HTH::STATE_TENASSERIM": {
+      "has_slaves": true,
+      "slave_pop": 144300
+    },
+    "HYD::STATE_HYDERABAD": {
+      "has_slaves": true,
+      "slave_pop": 342637
+    },
+    "ITA::STATE_DONGOLA": {
+      "has_slaves": true,
+      "slave_pop": 86000
+    },
+    "ITA::STATE_SISTAN": {
+      "has_slaves": true,
+      "slave_pop": 313
+    },
+    "KBA::STATE_CONGO_ORIENTALE": {
+      "has_slaves": true,
+      "slave_pop": 102006
+    },
+    "KBA::STATE_EQUATEUR": {
+      "has_slaves": true,
+      "slave_pop": 42000
+    },
+    "KBA::STATE_KASAI": {
+      "has_slaves": true,
+      "slave_pop": 108000
+    },
+    "KHN::STATE_KACHIN": {
+      "has_slaves": true,
+      "slave_pop": 21000
+    },
+    "KKY::STATE_KENYA": {
+      "has_slaves": true,
+      "slave_pop": 30000
+    },
+    "KON::STATE_BAS_CONGO": {
+      "has_slaves": true,
+      "slave_pop": 75500
+    },
+    "KON::STATE_CONGO": {
+      "has_slaves": true,
+      "slave_pop": 16400
+    },
+    "KON::STATE_GABON": {
+      "has_slaves": true,
+      "slave_pop": 53000
+    },
+    "KRT::STATE_WESTERN_MALI": {
+      "has_slaves": true,
+      "slave_pop": 14000
+    },
+    "KUR::STATE_DIYARBAKIR": {
+      "has_slaves": true,
+      "slave_pop": 6000
+    },
+    "KUR::STATE_ERZURUM": {
+      "has_slaves": true,
+      "slave_pop": 5500
+    },
+    "LAH::STATE_YEMEN": {
+      "has_slaves": true,
+      "slave_pop": 8100
+    },
+    "LBA::STATE_KATANGA": {
+      "has_slaves": true,
+      "slave_pop": 42004
+    },
+    "LBA::STATE_ZAMBIA": {
+      "has_slaves": true,
+      "slave_pop": 10000
+    },
+    "LIB::STATE_DAHOMEY": {
+      "has_slaves": true,
+      "slave_pop": 7000
+    },
+    "LIB::STATE_GOLD_COAST": {
+      "has_slaves": true,
+      "slave_pop": 15000
+    },
+    "LIB::STATE_GUINEA": {
+      "has_slaves": true,
+      "slave_pop": 173836
+    },
+    "LIB::STATE_INNER_MAURITANIA": {
+      "has_slaves": true,
+      "slave_pop": 4400
+    },
+    "LIB::STATE_IVORY_COAST": {
+      "has_slaves": true,
+      "slave_pop": 20004
+    },
+    "LIB::STATE_LIBERIA": {
+      "has_slaves": true,
+      "slave_pop": 22100
+    },
+    "LIB::STATE_MAURITANIA": {
+      "has_slaves": true,
+      "slave_pop": 23000
+    },
+    "LIB::STATE_OUTER_HAUSALAND": {
+      "has_slaves": true,
+      "slave_pop": 21500
+    },
+    "LIB::STATE_SENEGAL": {
+      "has_slaves": true,
+      "slave_pop": 8000
+    },
+    "LIB::STATE_TIMBUKTU": {
+      "has_slaves": true,
+      "slave_pop": 7000
+    },
+    "LIB::STATE_TOGO": {
+      "has_slaves": true,
+      "slave_pop": 28000
+    },
+    "LIB::STATE_VOLTA": {
+      "has_slaves": true,
+      "slave_pop": 33000
+    },
+    "LIB::STATE_WINDWARD_COAST": {
+      "has_slaves": true,
+      "slave_pop": 29800
+    },
+    "LND::STATE_EAST_ANGOLA": {
+      "has_slaves": true,
+      "slave_pop": 33000
+    },
+    "LND::STATE_SOUTH_ANGOLA": {
+      "has_slaves": true,
+      "slave_pop": 6000
+    },
+    "LUC::STATE_BALUCHISTAN": {
+      "has_slaves": true,
+      "slave_pop": 300
+    },
+    "LUC::STATE_CEYLON": {
+      "has_slaves": true,
+      "slave_pop": 27400
+    },
+    "LUC::STATE_CONSTANTINE": {
+      "has_slaves": true,
+      "slave_pop": 32020
+    },
+    "LUC::STATE_ERITREA": {
+      "has_slaves": true,
+      "slave_pop": 3000
+    },
+    "LUC::STATE_TUNISIA": {
+      "has_slaves": true,
+      "slave_pop": 24000
+    },
+    "MGD::STATE_MINDANAO": {
+      "has_slaves": true,
+      "slave_pop": 30208
+    },
+    "MOR::STATE_FEZ": {
+      "has_slaves": true,
+      "slave_pop": 62000
+    },
+    "MOR::STATE_INNER_MOROCCO": {
+      "has_slaves": true,
+      "slave_pop": 24000
+    },
+    "MOR::STATE_MARRAKECH": {
+      "has_slaves": true,
+      "slave_pop": 56000
+    },
+    "MOR::STATE_ORAN": {
+      "has_slaves": true,
+      "slave_pop": 18401
+    },
+    "MOR::STATE_SAHARA": {
+      "has_slaves": true,
+      "slave_pop": 4000
+    },
+    "MSN::STATE_EASTERN_MALI": {
+      "has_slaves": true,
+      "slave_pop": 25000
+    },
+    "MYS::STATE_MADRAS": {
+      "has_slaves": true,
+      "slave_pop": 244323
+    },
+    "OMA::STATE_ABU_DHABI": {
+      "has_slaves": true,
+      "slave_pop": 3200
+    },
+    "OMA::STATE_AMHARA": {
+      "has_slaves": true,
+      "slave_pop": 89056
+    },
+    "OMA::STATE_CEYLON": {
+      "has_slaves": true,
+      "slave_pop": 2301
+    },
+    "OMA::STATE_NORTH_MADAGASCAR": {
+      "has_slaves": true,
+      "slave_pop": 30000
+    },
+    "OMA::STATE_OMAN": {
+      "has_slaves": true,
+      "slave_pop": 16000
+    },
+    "OMA::STATE_OROMIA": {
+      "has_slaves": true,
+      "slave_pop": 300723
+    },
+    "OMA::STATE_SOMALILAND": {
+      "has_slaves": true,
+      "slave_pop": 74280
+    },
+    "OMA::STATE_YEMEN": {
+      "has_slaves": true,
+      "slave_pop": 4900
+    },
+    "ORI::STATE_CENTRAL_PROVINCES": {
+      "has_slaves": true,
+      "slave_pop": 124405
+    },
+    "ORI::STATE_WEST_BENGAL": {
+      "has_slaves": true,
+      "slave_pop": 630102
+    },
+    "OTR::STATE_EGYPTIAN_DESERT": {
+      "has_slaves": true,
+      "slave_pop": 1589
+    },
+    "OTR::STATE_PALESTINE": {
+      "has_slaves": true,
+      "slave_pop": 3500
+    },
+    "OTR::STATE_SINAI": {
+      "has_slaves": true,
+      "slave_pop": 101
+    },
+    "OTR::STATE_TRANSJORDAN": {
+      "has_slaves": true,
+      "slave_pop": 400
+    },
+    "OTR::STATE_UPPER_EGYPT": {
+      "has_slaves": true,
+      "slave_pop": 4102
+    },
+    "OTR::STATE_YEMEN": {
+      "has_slaves": true,
+      "slave_pop": 41000
+    },
+    "OYO::STATE_YORUBA_STATES": {
+      "has_slaves": true,
+      "slave_pop": 27996
+    },
+    "PAU::STATE_PARANA": {
+      "has_slaves": true,
+      "slave_pop": 6125
+    },
+    "PAU::STATE_SAO_PAULO": {
+      "has_slaves": true,
+      "slave_pop": 86933
+    },
+    "PER::STATE_ABU_DHABI": {
+      "has_slaves": true,
+      "slave_pop": 2530
+    },
+    "PER::STATE_BAGHDAD": {
+      "has_slaves": true,
+      "slave_pop": 15000
+    },
+    "PER::STATE_BALUCHISTAN": {
+      "has_slaves": true,
+      "slave_pop": 53100
+    },
+    "PER::STATE_BASRA": {
+      "has_slaves": true,
+      "slave_pop": 15000
+    },
+    "PER::STATE_CENTRAL_HIGHLANDS": {
+      "has_slaves": true,
+      "slave_pop": 45500
+    },
+    "PER::STATE_FARS": {
+      "has_slaves": true,
+      "slave_pop": 12200
+    },
+    "PER::STATE_HAIL": {
+      "has_slaves": true,
+      "slave_pop": 3600
+    },
+    "PER::STATE_HERAT": {
+      "has_slaves": true,
+      "slave_pop": 40030
+    },
+    "PER::STATE_IRAKAJEMI": {
+      "has_slaves": true,
+      "slave_pop": 11400
+    },
+    "PER::STATE_ISFAHAN": {
+      "has_slaves": true,
+      "slave_pop": 14400
+    },
+    "PER::STATE_KANDAHAR": {
+      "has_slaves": true,
+      "slave_pop": 26000
+    },
+    "PER::STATE_KERMAN": {
+      "has_slaves": true,
+      "slave_pop": 10400
+    },
+    "PER::STATE_KHORASAN": {
+      "has_slaves": true,
+      "slave_pop": 6400
+    },
+    "PER::STATE_KHUZESTAN": {
+      "has_slaves": true,
+      "slave_pop": 8200
+    },
+    "PER::STATE_LARISTAN": {
+      "has_slaves": true,
+      "slave_pop": 11630
+    },
+    "PER::STATE_LURISTAN": {
+      "has_slaves": true,
+      "slave_pop": 12400
+    },
+    "PER::STATE_MAZANDARAN": {
+      "has_slaves": true,
+      "slave_pop": 6200
+    },
+    "PER::STATE_NORTHERN_BALUCHISTAN": {
+      "has_slaves": true,
+      "slave_pop": 1404
+    },
+    "PER::STATE_PERSIAN_KURDISTAN": {
+      "has_slaves": true,
+      "slave_pop": 5400
+    },
+    "PER::STATE_SEMNAN": {
+      "has_slaves": true,
+      "slave_pop": 300
+    },
+    "PER::STATE_SISTAN": {
+      "has_slaves": true,
+      "slave_pop": 14200
+    },
+    "PER::STATE_TABRIZ": {
+      "has_slaves": true,
+      "slave_pop": 8200
+    },
+    "PER::STATE_URMIA": {
+      "has_slaves": true,
+      "slave_pop": 4200
+    },
+    "PHI::STATE_LUZON": {
+      "has_slaves": true,
+      "slave_pop": 50000
+    },
+    "PHI::STATE_MEKONG": {
+      "has_slaves": true,
+      "slave_pop": 70000
+    },
+    "PHI::STATE_VISAYAS": {
+      "has_slaves": true,
+      "slave_pop": 30000
+    },
+    "PNI::STATE_RIO_GRANDE_DO_SUL": {
+      "has_slaves": true,
+      "slave_pop": 40000
+    },
+    "PNI::STATE_SANTA_CATARINA": {
+      "has_slaves": true,
+      "slave_pop": 13012
+    },
+    "PNI::STATE_URUGUAY": {
+      "has_slaves": true,
+      "slave_pop": 16000
+    },
+    "RWD::STATE_TANGANYIKA": {
+      "has_slaves": true,
+      "slave_pop": 33000
+    },
+    "SAF::STATE_NORTHERN_CAPE": {
+      "has_slaves": true,
+      "slave_pop": 18000
+    },
+    "SAF::STATE_TRANSVAAL": {
+      "has_slaves": true,
+      "slave_pop": 10000
+    },
+    "SAF::STATE_VRYSTAAT": {
+      "has_slaves": true,
+      "slave_pop": 10000
+    },
+    "SER::STATE_MALAYA": {
+      "has_slaves": true,
+      "slave_pop": 24000
+    },
+    "SGU::STATE_WESTERN_MALI": {
+      "has_slaves": true,
+      "slave_pop": 140000
+    },
+    "SMN::STATE_BLUE_NILE": {
+      "has_slaves": true,
+      "slave_pop": 228000
+    },
+    "SMN::STATE_GONDER": {
+      "has_slaves": true,
+      "slave_pop": 294421
+    },
+    "SOK::STATE_HAUSALAND": {
+      "has_slaves": true,
+      "slave_pop": 143169
+    },
+    "SYR::STATE_ALEPPO": {
+      "has_slaves": true,
+      "slave_pop": 13000
+    },
+    "SYR::STATE_LEBANON": {
+      "has_slaves": true,
+      "slave_pop": 5000
+    },
+    "SYR::STATE_SYRIA": {
+      "has_slaves": true,
+      "slave_pop": 7000
+    },
+    "TAR::STATE_KHIVA": {
+      "has_slaves": true,
+      "slave_pop": 2395
+    },
+    "TOL::STATE_BAHIA": {
+      "has_slaves": true,
+      "slave_pop": 147263
+    },
+    "TOL::STATE_BUENOS_AIRES": {
+      "has_slaves": true,
+      "slave_pop": 13200
+    },
+    "TOL::STATE_CAPE_VERDE": {
+      "has_slaves": true,
+      "slave_pop": 12012
+    },
+    "TOL::STATE_NIGER_DELTA": {
+      "has_slaves": true,
+      "slave_pop": 150000
+    },
+    "TOL::STATE_PATAGONIA": {
+      "has_slaves": true,
+      "slave_pop": 13200
+    },
+    "TOL::STATE_RIO_DE_JANEIRO": {
+      "has_slaves": true,
+      "slave_pop": 205392
+    },
+    "TRB::STATE_KASTAMONU": {
+      "has_slaves": true,
+      "slave_pop": 1200
+    },
+    "TRB::STATE_TRABZON": {
+      "has_slaves": true,
+      "slave_pop": 13364
+    },
+    "TRK::STATE_RIFT_VALLEY": {
+      "has_slaves": true,
+      "slave_pop": 26000
+    },
+    "TSW::STATE_BOTSWANA": {
+      "has_slaves": true,
+      "slave_pop": 8000
+    },
+    "TSW::STATE_ZAMBEZI": {
+      "has_slaves": true,
+      "slave_pop": 33000
+    },
+    "TUG::STATE_EAST_SAHARA": {
+      "has_slaves": true,
+      "slave_pop": 2400
+    },
+    "VIE::STATE_LAOS": {
+      "has_slaves": true,
+      "slave_pop": 86720
+    },
+    "WAD::STATE_BORNU": {
+      "has_slaves": true,
+      "slave_pop": 13000
+    },
+    "WAD::STATE_CHAD": {
+      "has_slaves": true,
+      "slave_pop": 26000
+    },
+    "WAD::STATE_EAST_HAUSALAND": {
+      "has_slaves": true,
+      "slave_pop": 420430
+    },
+    "WAD::STATE_NIGER": {
+      "has_slaves": true,
+      "slave_pop": 8200
+    },
+    "WAD::STATE_NIGERIA": {
+      "has_slaves": true,
+      "slave_pop": 59000
+    },
+    "WAD::STATE_NORTH_CAMEROON": {
+      "has_slaves": true,
+      "slave_pop": 100180
+    },
+    "WAD::STATE_OUTER_HAUSALAND": {
+      "has_slaves": true,
+      "slave_pop": 3302
+    },
+    "WAD::STATE_WADDAI": {
+      "has_slaves": true,
+      "slave_pop": 23000
+    },
+    "XHO::STATE_ZULULAND": {
+      "has_slaves": true,
+      "slave_pop": 25904
+    },
+    "XIN::STATE_FERGANA": {
+      "has_slaves": true,
+      "slave_pop": 12221
+    },
+    "XIN::STATE_KIRGHIZIA": {
+      "has_slaves": true,
+      "slave_pop": 23500
+    },
+    "YUE::STATE_LAOS": {
+      "has_slaves": true,
+      "slave_pop": 15004
+    },
+    "YUE::STATE_SHAN_STATES": {
+      "has_slaves": true,
+      "slave_pop": 30200
+    },
+    "YUE::STATE_TONKIN": {
+      "has_slaves": true,
+      "slave_pop": 20100
+    },
+    "ZAN::STATE_KAZEMBE": {
+      "has_slaves": true,
+      "slave_pop": 21000
+    },
+    "ZAN::STATE_LINDI": {
+      "has_slaves": true,
+      "slave_pop": 29000
+    },
+    "ZAN::STATE_TANGANYIKA": {
+      "has_slaves": true,
+      "slave_pop": 52000
+    },
+    "ZAN::STATE_ZAMBEZIA": {
+      "has_slaves": true,
+      "slave_pop": 15000
+    },
+    "ZAN::STATE_ZANZIBAR": {
+      "has_slaves": true,
+      "slave_pop": 75000
+    }
+  },
+  "max_slave_pop": 1070000,
+  "total_slave_pop": 11510133,
+  "scopes_with_slaves": 8660,
+  "legend": [
+    {
+      "slave_pop": 0,
+      "rgb": [
+        210,
+        220,
+        210
+      ]
+    },
+    {
+      "slave_pop": 1,
+      "rgb": [
+        255,
+        210,
+        230
+      ]
+    },
+    {
+      "slave_pop": 267500,
+      "rgb": [
+        223,
+        168,
+        196
+      ]
+    },
+    {
+      "slave_pop": 535000,
+      "rgb": [
+        192,
+        127,
+        162
+      ]
+    },
+    {
+      "slave_pop": 1070000,
+      "rgb": [
+        130,
+        45,
+        95
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "by_scope": {
+    "BIC::STATE_BOMBAY": 3,
+    "BOS::STATE_BOSNIA": 6,
+    "CUM::STATE_BESSARABIA": 1,
+    "DEI::STATE_CENTRAL_JAVA": 10,
+    "DEI::STATE_NORTH_SUMATRA": 1,
+    "DEI::STATE_SOUTH_SUMATRA": 2,
+    "DEI::STATE_WEST_JAVA": 42,
+    "DFR::STATE_DARFUR": 5,
+    "EZO::STATE_KAMCHATKA": 1,
+    "HTH::STATE_CAMBODIA": 1,
+    "HUN::STATE_TRANSDANUBIA": 3,
+    "MYS::STATE_CIRCARS": 9,
+    "MYS::STATE_MADRAS": 18,
+    "TOL::STATE_PARA": 1
+  },
+  "max_level": 42,
+  "scopes_with_foreign": 14,
+  "total_foreign_level": 103,
+  "legend": [
+    {
+      "level": 0,
+      "rgb": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "level": 1,
+      "rgb": [
+        255,
+        200,
+        140
+      ]
+    },
+    {
+      "level": 14,
+      "rgb": [
+        218,
+        150,
+        100
+      ]
+    },
+    {
+      "level": 28,
+      "rgb": [
+        179,
+        97,
+        57
+      ]
+    },
+    {
+      "level": 42,
+      "rgb": [
+        140,
+        45,
+        15
+      ]
+    }
+  ]
+}

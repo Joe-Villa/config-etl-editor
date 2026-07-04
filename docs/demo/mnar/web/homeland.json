@@ -1,0 +1,2597 @@
+{
+  "state_homelands": {
+    "STATE_ABRUZZO": [
+      "south_italian"
+    ],
+    "STATE_ABU_DHABI": [
+      "bedouin",
+      "oman"
+    ],
+    "STATE_ACEH": [
+      "sumatran"
+    ],
+    "STATE_ACRE": [
+      "amazonian",
+      "quechua"
+    ],
+    "STATE_ADANA": [
+      "armenian",
+      "kurdish",
+      "turkish"
+    ],
+    "STATE_AGRA": [
+      "hindustani",
+      "pathan"
+    ],
+    "STATE_AKMOLINSK": [
+      "kazak",
+      "uzbek"
+    ],
+    "STATE_AKTOBE": [
+      "kazak"
+    ],
+    "STATE_ALABAMA": [
+      "cherokee",
+      "muskogean"
+    ],
+    "STATE_ALAND": [
+      "gotland"
+    ],
+    "STATE_ALASKA": [
+      "athabaskan",
+      "inuit",
+      "salish"
+    ],
+    "STATE_ALBANIA": [
+      "albanian"
+    ],
+    "STATE_ALBERTA": [
+      "athabaskan",
+      "cree"
+    ],
+    "STATE_ALENTEJO": [
+      "toledo"
+    ],
+    "STATE_ALEPPO": [
+      "kurdish",
+      "mashriqi"
+    ],
+    "STATE_ALGIERS": [
+      "african",
+      "berber",
+      "maghrebi"
+    ],
+    "STATE_ALSACE_LORRAINE": [
+      "alemannic",
+      "flemish"
+    ],
+    "STATE_ALTAI": [
+      "mongol"
+    ],
+    "STATE_ALTO_PARAGUAY": [
+      "guarani"
+    ],
+    "STATE_ALXA": [
+      "khitan",
+      "mongol"
+    ],
+    "STATE_AL_RIF": [
+      "berber",
+      "maghrebi"
+    ],
+    "STATE_AMAZONAS": [
+      "amazonian",
+      "guarani"
+    ],
+    "STATE_AMHARA": [
+      "amhara",
+      "oromo",
+      "sidama"
+    ],
+    "STATE_AMUR": [
+      "manchu",
+      "siberian"
+    ],
+    "STATE_ANHALT": [
+      "north_german"
+    ],
+    "STATE_ANKARA": [
+      "turkish"
+    ],
+    "STATE_ANNAM": [
+      "vietnamese"
+    ],
+    "STATE_ANTIOQUIA": [
+      "cariban",
+      "guajiro"
+    ],
+    "STATE_ANTOFAGASTA": [
+      "aimara"
+    ],
+    "STATE_APULIA": [
+      "south_italian"
+    ],
+    "STATE_AQUITAINE": [
+      "occitan"
+    ],
+    "STATE_ARAGON": [
+      "aragonese",
+      "spanish",
+      "toledo"
+    ],
+    "STATE_ARAKAN": [
+      "burmese",
+      "lushai",
+      "occitanic_burmese"
+    ],
+    "STATE_ARAUCANIA": [
+      "patagonian"
+    ],
+    "STATE_AREQUIPA": [
+      "aimara",
+      "quechua"
+    ],
+    "STATE_ARIZONA": [
+      "apache",
+      "navajo",
+      "pueblo"
+    ],
+    "STATE_ARKANSAS": [
+      "cherokee",
+      "muskogean"
+    ],
+    "STATE_ARKHANGELSK": [
+      "perm"
+    ],
+    "STATE_ARMENIA": [
+      "armenian",
+      "azerbaijani"
+    ],
+    "STATE_ASSAM": [
+      "assamese",
+      "bengali",
+      "manipuri",
+      "naga"
+    ],
+    "STATE_ASTRAKHAN": [
+      "tatar"
+    ],
+    "STATE_ASTURIAS": [
+      "asturleonese"
+    ],
+    "STATE_ATTICA": [
+      "greek"
+    ],
+    "STATE_AUSTRIA": [
+      "south_german"
+    ],
+    "STATE_AUVERGNE_LIMOUSIN": [
+      "occitan"
+    ],
+    "STATE_AWADH": [
+      "avadhi"
+    ],
+    "STATE_AYDIN": [
+      "greek",
+      "turkish"
+    ],
+    "STATE_AZERBAIJAN": [
+      "armenian",
+      "azerbaijani"
+    ],
+    "STATE_AZORES": [
+      "toledo"
+    ],
+    "STATE_BADEN": [
+      "alemannic"
+    ],
+    "STATE_BAGHDAD": [
+      "bedouin",
+      "mashriqi"
+    ],
+    "STATE_BAHAMAS": [
+      "caribeno"
+    ],
+    "STATE_BAHIA": [
+      "afro_brazilian",
+      "tupinamba"
+    ],
+    "STATE_BAJA_CALIFORNIA": [
+      "oodham"
+    ],
+    "STATE_BAJIO": [
+      "nahua"
+    ],
+    "STATE_BAJO_PARAGUAY": [
+      "guarani"
+    ],
+    "STATE_BALEARIC_ISLANDS": [
+      "occitan"
+    ],
+    "STATE_BALKH": [
+      "hazara",
+      "pashtun",
+      "tajik",
+      "turkmen",
+      "uzbek"
+    ],
+    "STATE_BALUCHISTAN": [
+      "baluchi",
+      "pashtun"
+    ],
+    "STATE_BANAT": [
+      "hungarian",
+      "romanian",
+      "serb"
+    ],
+    "STATE_BANGKOK": [
+      "occitanic_burmese",
+      "thai"
+    ],
+    "STATE_BASQUE_COUNTRY": [
+      "aragonese",
+      "basque"
+    ],
+    "STATE_BASRA": [
+      "bedouin",
+      "mashriqi"
+    ],
+    "STATE_BAS_CONGO": [
+      "bakongo",
+      "fluvian_bantu",
+      "lunda"
+    ],
+    "STATE_BAVARIA": [
+      "south_german"
+    ],
+    "STATE_BEIJING": [
+      "han",
+      "khitan"
+    ],
+    "STATE_BEIRA": [
+      "galician"
+    ],
+    "STATE_BEKES": [
+      "east_german",
+      "hungarian",
+      "romanian"
+    ],
+    "STATE_BENIN": [
+      "edo",
+      "fulbe",
+      "ibo",
+      "tiv",
+      "yoruba"
+    ],
+    "STATE_BERMUDA": [
+      "afro_caribeno"
+    ],
+    "STATE_BESSARABIA": [
+      "cuman",
+      "romanian"
+    ],
+    "STATE_BIHAR": [
+      "bihari"
+    ],
+    "STATE_BLUE_NILE": [
+      "bedouin",
+      "dinka",
+      "nuer",
+      "sudanese"
+    ],
+    "STATE_BOHEMIA": [
+      "czech"
+    ],
+    "STATE_BOLIVAR": [
+      "amazonian",
+      "cariban"
+    ],
+    "STATE_BOMBAY": [
+      "deccani",
+      "italic_deccani",
+      "kannada",
+      "marathi"
+    ],
+    "STATE_BORNU": [
+      "fulbe",
+      "kanuri"
+    ],
+    "STATE_BOSNIA": [
+      "bosniak",
+      "croat"
+    ],
+    "STATE_BOTSWANA": [
+      "herero",
+      "khoisan",
+      "nguni",
+      "tswana"
+    ],
+    "STATE_BOUGAINVILLE": [
+      "melanesian"
+    ],
+    "STATE_BRANDENBURG": [
+      "north_german",
+      "sorb",
+      "wendish"
+    ],
+    "STATE_BREST": [
+      "byelorussian"
+    ],
+    "STATE_BRITISH_COLUMBIA": [
+      "athabaskan",
+      "salish"
+    ],
+    "STATE_BRITTANY": [
+      "breton",
+      "french"
+    ],
+    "STATE_BRUNSWICK": [
+      "north_german"
+    ],
+    "STATE_BUENOS_AIRES": [
+      "patagonian"
+    ],
+    "STATE_BUKOVINA": [
+      "romanian",
+      "ukrainian"
+    ],
+    "STATE_BULGARIA": [
+      "bulgarian"
+    ],
+    "STATE_BUNDELKHAND": [
+      "bageli",
+      "bundeli",
+      "chhattisgarhi"
+    ],
+    "STATE_BURGUNDY": [
+      "francoprovencal",
+      "french"
+    ],
+    "STATE_BURYATIA": [
+      "buryat"
+    ],
+    "STATE_BUSAN": [
+      "korean"
+    ],
+    "STATE_CAJAMARCA": [
+      "quechua"
+    ],
+    "STATE_CALABRIA": [
+      "south_italian"
+    ],
+    "STATE_CALIFORNIA": [
+      "hokan"
+    ],
+    "STATE_CAMBODIA": [
+      "champa",
+      "khmer",
+      "occitanic_burmese"
+    ],
+    "STATE_CAMPANIA": [
+      "south_italian"
+    ],
+    "STATE_CANARY_ISLANDS": [
+      "toledo"
+    ],
+    "STATE_CAPE_COLONY": [
+      "khoisan",
+      "sotho"
+    ],
+    "STATE_CAPE_VERDE": [
+      "toledo"
+    ],
+    "STATE_CATALONIA": [
+      "aragonese",
+      "occitan"
+    ],
+    "STATE_CAUCA": [
+      "quechua"
+    ],
+    "STATE_CEARA": [
+      "afro_brazilian",
+      "nordestino",
+      "tupinamba"
+    ],
+    "STATE_CELEBES": [
+      "moluccan",
+      "occitanic_insulindian"
+    ],
+    "STATE_CENTRAL_CUBA": [
+      "caribeno"
+    ],
+    "STATE_CENTRAL_HIGHLANDS": [
+      "hazara",
+      "pashtun",
+      "tajik"
+    ],
+    "STATE_CENTRAL_HUNGARY": [
+      "east_german",
+      "hungarian"
+    ],
+    "STATE_CENTRAL_JAVA": [
+      "javan",
+      "slavic_insulindian"
+    ],
+    "STATE_CENTRAL_PROVINCES": [
+      "bageli",
+      "bundeli",
+      "chhattisgarhi",
+      "deccani",
+      "gondi",
+      "italic_oriya",
+      "marathi"
+    ],
+    "STATE_CEYLON": [
+      "sinhala",
+      "tamil"
+    ],
+    "STATE_CHACO": [
+      "guarani"
+    ],
+    "STATE_CHAD": [
+      "bedouin",
+      "equatorial_bantu",
+      "fur",
+      "teda"
+    ],
+    "STATE_CHAMPAGNE": [
+      "flemish"
+    ],
+    "STATE_CHELYABINSK": [
+      "bashkir",
+      "kazak"
+    ],
+    "STATE_CHERNIHIV": [
+      "severian",
+      "ukrainian"
+    ],
+    "STATE_CHERSON": [
+      "tatar"
+    ],
+    "STATE_CHIANG_MAI": [
+      "shan",
+      "thai"
+    ],
+    "STATE_CHIAPAS": [
+      "mayan"
+    ],
+    "STATE_CHIHUAHUA": [
+      "apache",
+      "oodham"
+    ],
+    "STATE_CHONGQING": [
+      "shu"
+    ],
+    "STATE_CHUGOKU": [
+      "japanese"
+    ],
+    "STATE_CHUKOTKA": [
+      "inuit",
+      "siberian"
+    ],
+    "STATE_CHUVASHIA": [
+      "chuvash",
+      "mari",
+      "tatar"
+    ],
+    "STATE_CIRCARS": [
+      "italic_oriya",
+      "telegu"
+    ],
+    "STATE_COLORADO": [
+      "paiute",
+      "siouan"
+    ],
+    "STATE_CONGO": [
+      "bakongo",
+      "fluvian_bantu"
+    ],
+    "STATE_CONGO_ORIENTALE": [
+      "azande",
+      "fluvian_bantu",
+      "luba"
+    ],
+    "STATE_CONNAUGHT": [
+      "irish"
+    ],
+    "STATE_CONNECTICUT": [
+      "east_algonquian"
+    ],
+    "STATE_CONSTANTINE": [
+      "african",
+      "berber",
+      "maghrebi"
+    ],
+    "STATE_CORRIENTES": [
+      "guarani"
+    ],
+    "STATE_CORSICA": [
+      "corsican"
+    ],
+    "STATE_COSTA_RICA": [
+      "miskito"
+    ],
+    "STATE_COURLAND": [
+      "latvian"
+    ],
+    "STATE_CRETE": [
+      "greek"
+    ],
+    "STATE_CRIMEA": [
+      "gothic",
+      "tatar"
+    ],
+    "STATE_CROATIA": [
+      "croat",
+      "serb"
+    ],
+    "STATE_CUNDINAMARCA": [
+      "muisca"
+    ],
+    "STATE_CYPRUS": [
+      "greek"
+    ],
+    "STATE_DAGESTAN": [
+      "north_caucasian"
+    ],
+    "STATE_DAHOMEY": [
+      "akan",
+      "fon",
+      "fulbe",
+      "songhai",
+      "yoruba"
+    ],
+    "STATE_DALMATIA": [
+      "croat",
+      "serb"
+    ],
+    "STATE_DARFUR": [
+      "dinka",
+      "fur"
+    ],
+    "STATE_DEIR_EZ_ZOR": [
+      "assyrian",
+      "kurdish",
+      "mashriqi"
+    ],
+    "STATE_DELAWARE": [
+      "east_algonquian"
+    ],
+    "STATE_DELHI": [
+      "hindustani"
+    ],
+    "STATE_DELVIDEK": [
+      "hungarian",
+      "serb"
+    ],
+    "STATE_DISTRICT_OF_COLUMBIA": [
+      "east_algonquian"
+    ],
+    "STATE_DIYARBAKIR": [
+      "armenian",
+      "assyrian",
+      "kurdish",
+      "mashriqi"
+    ],
+    "STATE_DOBRUDJA": [
+      "bulgarian",
+      "romanian"
+    ],
+    "STATE_DONGOLA": [
+      "bedouin",
+      "beja",
+      "sudanese"
+    ],
+    "STATE_DURANGO": [
+      "oodham"
+    ],
+    "STATE_DZUNGARIA": [
+      "mongol",
+      "uighur"
+    ],
+    "STATE_EASTERN_CAPE": [
+      "khoisan",
+      "xhosa"
+    ],
+    "STATE_EASTERN_CUBA": [
+      "caribeno"
+    ],
+    "STATE_EASTERN_HIMALAYAS": [
+      "tibetan"
+    ],
+    "STATE_EASTERN_HUBEI": [
+      "han",
+      "xiang"
+    ],
+    "STATE_EASTERN_MALI": [
+      "bambara",
+      "fulbe",
+      "mande",
+      "senufo"
+    ],
+    "STATE_EASTERN_NEW_GUINEA": [
+      "melanesian"
+    ],
+    "STATE_EASTERN_NORWAY": [
+      "norwegian"
+    ],
+    "STATE_EASTERN_SERBIA": [
+      "serb"
+    ],
+    "STATE_EASTERN_THRACE": [
+      "bulgarian",
+      "greek"
+    ],
+    "STATE_EAST_AEGEAN_ISLANDS": [
+      "greek"
+    ],
+    "STATE_EAST_ANGLIA": [
+      "anglish",
+      "british"
+    ],
+    "STATE_EAST_ANGOLA": [
+      "kavango_bantu",
+      "lunda",
+      "ovimbundu"
+    ],
+    "STATE_EAST_BENGAL": [
+      "bengali"
+    ],
+    "STATE_EAST_BORNEO": [
+      "bornean",
+      "dayak",
+      "occitanic_insulindian"
+    ],
+    "STATE_EAST_GALICIA": [
+      "polish",
+      "ukrainian"
+    ],
+    "STATE_EAST_HAUSALAND": [
+      "fulbe",
+      "hausa"
+    ],
+    "STATE_EAST_JAVA": [
+      "javan",
+      "occitanic_insulindian"
+    ],
+    "STATE_EAST_KARELIA": [
+      "finnish",
+      "karelian"
+    ],
+    "STATE_EAST_MICRONESIA": [
+      "micronesian"
+    ],
+    "STATE_EAST_PRUSSIA": [
+      "prussian"
+    ],
+    "STATE_EAST_SAHARA": [
+      "berber",
+      "tuareg"
+    ],
+    "STATE_EAST_SWITZERLAND": [
+      "alemannic"
+    ],
+    "STATE_ECUADOR": [
+      "quechua"
+    ],
+    "STATE_EGYPTIAN_DESERT": [
+      "bedouin",
+      "coptic",
+      "misri"
+    ],
+    "STATE_ELBE": [
+      "north_german"
+    ],
+    "STATE_ELIZAVETPOL": [
+      "armenian",
+      "azerbaijani"
+    ],
+    "STATE_EMILIA": [
+      "north_italian"
+    ],
+    "STATE_ENTRE_DOURO_E_MINHO": [
+      "galician"
+    ],
+    "STATE_EQUATEUR": [
+      "fluvian_bantu",
+      "mongo"
+    ],
+    "STATE_EQUATORIA": [
+      "azande",
+      "dinka",
+      "fur",
+      "luo",
+      "nilotic",
+      "nuba",
+      "nuer"
+    ],
+    "STATE_ERITREA": [
+      "afar",
+      "tigray"
+    ],
+    "STATE_ERZURUM": [
+      "armenian",
+      "azerbaijani",
+      "kurdish"
+    ],
+    "STATE_ESTREMADURA": [
+      "galician"
+    ],
+    "STATE_EXTREMADURA": [
+      "toledo"
+    ],
+    "STATE_FARS": [
+      "luri",
+      "persian"
+    ],
+    "STATE_FERGANA": [
+      "kirgiz",
+      "tajik",
+      "uzbek"
+    ],
+    "STATE_FEZ": [
+      "berber",
+      "maghrebi"
+    ],
+    "STATE_FIJI": [
+      "melanesian"
+    ],
+    "STATE_FLANDERS": [
+      "flemish"
+    ],
+    "STATE_FLORIDA": [
+      "muskogean"
+    ],
+    "STATE_FORMOSA": [
+      "yuanzhumin"
+    ],
+    "STATE_FRANCHE_COMTE": [
+      "flemish",
+      "francoprovencal"
+    ],
+    "STATE_FRANCONIA": [
+      "franconia"
+    ],
+    "STATE_FRENCH_LOW_COUNTRIES": [
+      "flemish"
+    ],
+    "STATE_FRIESLAND": [
+      "dutch"
+    ],
+    "STATE_FUJIAN": [
+      "hakka",
+      "min"
+    ],
+    "STATE_GABON": [
+      "bakongo",
+      "equatorial_bantu",
+      "fang"
+    ],
+    "STATE_GALICH": [
+      "perm"
+    ],
+    "STATE_GALICIA": [
+      "galician"
+    ],
+    "STATE_GANSU": [
+      "han",
+      "mongol"
+    ],
+    "STATE_GELRE": [
+      "dutch",
+      "flemish"
+    ],
+    "STATE_GEORGIA": [
+      "muskogean"
+    ],
+    "STATE_GOIAS": [
+      "tupinamba"
+    ],
+    "STATE_GOLD_COAST": [
+      "akan",
+      "ewe",
+      "mossi"
+    ],
+    "STATE_GONDER": [
+      "afar",
+      "amhara",
+      "kikuyu",
+      "oromo",
+      "tigray"
+    ],
+    "STATE_GOTALAND": [
+      "gotaland"
+    ],
+    "STATE_GOTLAND": [
+      "gotland"
+    ],
+    "STATE_GREATER_CAUCASUS": [
+      "azerbaijani",
+      "georgian"
+    ],
+    "STATE_GREATER_POLAND": [
+      "polish",
+      "wendish"
+    ],
+    "STATE_GREENLAND": [
+      "inuit",
+      "polar_bear"
+    ],
+    "STATE_GUANGDONG": [
+      "miao",
+      "min",
+      "yue"
+    ],
+    "STATE_GUANGXI": [
+      "shu",
+      "yue",
+      "zhuang"
+    ],
+    "STATE_GUATEMALA": [
+      "mayan"
+    ],
+    "STATE_GUAVIARE": [
+      "amazonian"
+    ],
+    "STATE_GUAYANA": [
+      "amazonian"
+    ],
+    "STATE_GUERRERO": [
+      "nahua",
+      "zapotec"
+    ],
+    "STATE_GUINEA": [
+      "dyula",
+      "fulbe",
+      "kissi",
+      "mande"
+    ],
+    "STATE_GUIZHOU": [
+      "shu",
+      "yi",
+      "zhuang"
+    ],
+    "STATE_GUJARAT": [
+      "gujarati",
+      "italic_gujarati",
+      "sindi"
+    ],
+    "STATE_GUYENNE": [
+      "occitan"
+    ],
+    "STATE_HAIL": [
+      "bedouin"
+    ],
+    "STATE_HAITI": [
+      "afro_caribbean"
+    ],
+    "STATE_HANNOVER": [
+      "north_german"
+    ],
+    "STATE_HAUSALAND": [
+      "equatorial_bantu",
+      "fulbe",
+      "hausa",
+      "songhai",
+      "yoruba"
+    ],
+    "STATE_HAWAIIAN_ISLANDS": [
+      "hawaiian"
+    ],
+    "STATE_HEDJAZ": [
+      "bedouin"
+    ],
+    "STATE_HENAN": [
+      "han"
+    ],
+    "STATE_HERAT": [
+      "pashtun"
+    ],
+    "STATE_HEREROLAND": [
+      "herero",
+      "kavango_bantu",
+      "khoisan"
+    ],
+    "STATE_HESSE": [
+      "franconia"
+    ],
+    "STATE_HIGHLANDS": [
+      "scottish"
+    ],
+    "STATE_HILL_PUNJAB": [
+      "pahari",
+      "panjabi"
+    ],
+    "STATE_HIMALAYAS": [
+      "nepali",
+      "tibetan"
+    ],
+    "STATE_HINGGAN": [
+      "khitan",
+      "mongol"
+    ],
+    "STATE_HOKKAIDO": [
+      "ainu"
+    ],
+    "STATE_HOLLAND": [
+      "dutch",
+      "flemish"
+    ],
+    "STATE_HOME_COUNTIES": [
+      "british"
+    ],
+    "STATE_HONDURAS": [
+      "american_fulbe"
+    ],
+    "STATE_HUDAVENDIGAR": [
+      "greek",
+      "turkish"
+    ],
+    "STATE_HUNAN": [
+      "xiang"
+    ],
+    "STATE_HYDERABAD": [
+      "deccani",
+      "kannada",
+      "marathi",
+      "telegu"
+    ],
+    "STATE_ICA": [
+      "quechua"
+    ],
+    "STATE_ICELAND": [
+      "icelandic"
+    ],
+    "STATE_IDAHO": [
+      "nez_perce",
+      "paiute"
+    ],
+    "STATE_ILE_DE_FRANCE": [
+      "french"
+    ],
+    "STATE_ILLINOIS": [
+      "algonquian"
+    ],
+    "STATE_INDIANA": [
+      "algonquian"
+    ],
+    "STATE_INDIAN_OCEAN_TERRITORY": [
+      "malagasy"
+    ],
+    "STATE_INGRIA": [
+      "finnish",
+      "russian"
+    ],
+    "STATE_INNER_MAURITANIA": [
+      "bedouin",
+      "bidan",
+      "haratin",
+      "mande"
+    ],
+    "STATE_INNER_MOROCCO": [
+      "berber",
+      "maghrebi"
+    ],
+    "STATE_IONIAN_ISLANDS": [
+      "greek"
+    ],
+    "STATE_IOWA": [
+      "dakota"
+    ],
+    "STATE_IRAKAJEMI": [
+      "persian"
+    ],
+    "STATE_IRKUTSK": [
+      "buryat"
+    ],
+    "STATE_ISFAHAN": [
+      "persian"
+    ],
+    "STATE_ISTRIA": [
+      "croat",
+      "north_italian",
+      "slovene"
+    ],
+    "STATE_IVORY_COAST": [
+      "akan",
+      "dyula",
+      "senufo"
+    ],
+    "STATE_JALISCO": [
+      "tarascan"
+    ],
+    "STATE_JAMAICA": [
+      "afro_caribeno"
+    ],
+    "STATE_JETISY": [
+      "kazak",
+      "kirgiz",
+      "uighur"
+    ],
+    "STATE_JIANGSU": [
+      "han"
+    ],
+    "STATE_JIANGXI": [
+      "gan",
+      "hakka"
+    ],
+    "STATE_JUJUY": [
+      "aimara",
+      "quechua"
+    ],
+    "STATE_JUTLAND": [
+      "danish"
+    ],
+    "STATE_KABUL": [
+      "hazara",
+      "pashtun",
+      "tajik"
+    ],
+    "STATE_KACHIN": [
+      "burmese",
+      "kachin",
+      "shan"
+    ],
+    "STATE_KALMYKIA": [
+      "tatar"
+    ],
+    "STATE_KAMCHATKA": [
+      "siberian"
+    ],
+    "STATE_KANAK": [
+      "melanesian"
+    ],
+    "STATE_KANDAHAR": [
+      "hazara",
+      "pashtun",
+      "tajik"
+    ],
+    "STATE_KANSAI": [
+      "japanese"
+    ],
+    "STATE_KANSAS": [
+      "siouan"
+    ],
+    "STATE_KANTO": [
+      "japanese"
+    ],
+    "STATE_KARS": [
+      "armenian",
+      "azerbaijani",
+      "georgian",
+      "kurdish"
+    ],
+    "STATE_KASAI": [
+      "fluvian_bantu",
+      "luba"
+    ],
+    "STATE_KASHMIR": [
+      "kashmiri",
+      "tibetan"
+    ],
+    "STATE_KASTAMONU": [
+      "turkish"
+    ],
+    "STATE_KATANGA": [
+      "fluvian_bantu",
+      "luba",
+      "lunda"
+    ],
+    "STATE_KAUNAS": [
+      "lithuanian"
+    ],
+    "STATE_KAZAN": [
+      "tatar"
+    ],
+    "STATE_KAZEMBE": [
+      "chewa",
+      "lacustrine_bantu",
+      "lunda"
+    ],
+    "STATE_KENTUCKY": [
+      "algonquian",
+      "cherokee",
+      "east_algonquian"
+    ],
+    "STATE_KENYA": [
+      "kikuyu",
+      "lacustrine_bantu",
+      "maasai",
+      "somali",
+      "swahili"
+    ],
+    "STATE_KERMAN": [
+      "persian"
+    ],
+    "STATE_KHARKOV": [
+      "severian",
+      "ukrainian"
+    ],
+    "STATE_KHIVA": [
+      "kazak",
+      "uzbek"
+    ],
+    "STATE_KHORASAN": [
+      "kurdish",
+      "persian",
+      "turkmen"
+    ],
+    "STATE_KHUZESTAN": [
+      "luri",
+      "mashriqi",
+      "persian"
+    ],
+    "STATE_KIEV": [
+      "ukrainian"
+    ],
+    "STATE_KIRGHIZIA": [
+      "kirgiz",
+      "uzbek"
+    ],
+    "STATE_KOLA": [
+      "finnish",
+      "sami"
+    ],
+    "STATE_KOLYMA": [
+      "yakut"
+    ],
+    "STATE_KONYA": [
+      "turkish"
+    ],
+    "STATE_KORDOFAN": [
+      "bedouin",
+      "dinka",
+      "nuba",
+      "sudanese"
+    ],
+    "STATE_KOSOVO": [
+      "albanian",
+      "serb"
+    ],
+    "STATE_KRASNOYARSK": [
+      "siberian"
+    ],
+    "STATE_KUBAN": [
+      "circassian"
+    ],
+    "STATE_KUOPIO": [
+      "finnish"
+    ],
+    "STATE_KURNOOL": [
+      "deccani",
+      "italic_deccani",
+      "kannada",
+      "telegu"
+    ],
+    "STATE_KURSK": [
+      "severian",
+      "ukrainian"
+    ],
+    "STATE_KYUSHU": [
+      "japanese"
+    ],
+    "STATE_LANCASHIRE": [
+      "anglish"
+    ],
+    "STATE_LANGUEDOC": [
+      "occitan"
+    ],
+    "STATE_LAOS": [
+      "khmu",
+      "lao"
+    ],
+    "STATE_LARISTAN": [
+      "bedouin",
+      "persian"
+    ],
+    "STATE_LAZIO": [
+      "middle_italian"
+    ],
+    "STATE_LA_PAMPA": [
+      "patagonian"
+    ],
+    "STATE_LA_PAZ": [
+      "aimara",
+      "amazonian",
+      "quechua"
+    ],
+    "STATE_LEBANON": [
+      "mashriqi"
+    ],
+    "STATE_LEINSTER": [
+      "irish"
+    ],
+    "STATE_LEON": [
+      "asturleonese",
+      "spanish"
+    ],
+    "STATE_LESSER_POLAND": [
+      "polish"
+    ],
+    "STATE_LHASA": [
+      "tibetan"
+    ],
+    "STATE_LIBERIA": [
+      "afro_american",
+      "bassa",
+      "kissi",
+      "kru",
+      "mande"
+    ],
+    "STATE_LIBYA": [
+      "bedouin",
+      "maghrebi"
+    ],
+    "STATE_LIBYAN_DESERT": [
+      "bedouin",
+      "berber",
+      "teda",
+      "tuareg"
+    ],
+    "STATE_LIMA": [
+      "quechua"
+    ],
+    "STATE_LINDI": [
+      "chewa",
+      "lacustrine_bantu",
+      "makua",
+      "yao"
+    ],
+    "STATE_LOMBARDY": [
+      "north_italian"
+    ],
+    "STATE_LORRAINE": [
+      "flemish"
+    ],
+    "STATE_LOS_RIOS": [
+      "patagonian"
+    ],
+    "STATE_LOUISIANA": [
+      "afro_american",
+      "afro_caribeno",
+      "east_algonquian"
+    ],
+    "STATE_LOURENCO_MARQUES": [
+      "nguni",
+      "shona",
+      "tonga"
+    ],
+    "STATE_LOWER_ANDALUSIA": [
+      "andalusian",
+      "toledo"
+    ],
+    "STATE_LOWER_EGYPT": [
+      "coptic",
+      "misri",
+      "outremer"
+    ],
+    "STATE_LOWER_SILESIA": [
+      "sorb",
+      "wendish"
+    ],
+    "STATE_LOWLANDS": [
+      "scottish"
+    ],
+    "STATE_LURISTAN": [
+      "luri",
+      "persian"
+    ],
+    "STATE_LUZON": [
+      "filipino",
+      "italic_insulindian",
+      "moro"
+    ],
+    "STATE_MACEDONIA": [
+      "greek"
+    ],
+    "STATE_MADEIRA": [
+      "toledo"
+    ],
+    "STATE_MADRAS": [
+      "italic_deccani",
+      "kannada",
+      "tamil"
+    ],
+    "STATE_MAINE": [
+      "east_algonquian"
+    ],
+    "STATE_MAINE_ANJOU": [
+      "french"
+    ],
+    "STATE_MALAYA": [
+      "malay"
+    ],
+    "STATE_MALTA": [
+      "maltese"
+    ],
+    "STATE_MALWA": [
+      "bundeli",
+      "marathi"
+    ],
+    "STATE_MANDALAY": [
+      "burmese",
+      "kachin"
+    ],
+    "STATE_MANITOBA": [
+      "athabaskan",
+      "cree"
+    ],
+    "STATE_MARANHAO": [
+      "afro_brazilian",
+      "nordestino",
+      "tupinamba"
+    ],
+    "STATE_MARRAKECH": [
+      "berber",
+      "maghrebi"
+    ],
+    "STATE_MARYLAND": [
+      "east_algonquian"
+    ],
+    "STATE_MASSACHUSETTS": [
+      "east_algonquian"
+    ],
+    "STATE_MATO_GROSSO": [
+      "amazonian",
+      "guarani"
+    ],
+    "STATE_MATRUH": [
+      "bedouin",
+      "berber",
+      "coptic",
+      "misri"
+    ],
+    "STATE_MAURITANIA": [
+      "bidan",
+      "haratin"
+    ],
+    "STATE_MAZANDARAN": [
+      "mazanderani",
+      "persian",
+      "turkmen"
+    ],
+    "STATE_MAZOVIA": [
+      "polish"
+    ],
+    "STATE_MECKLENBURG": [
+      "north_german",
+      "sorb"
+    ],
+    "STATE_MEKONG": [
+      "champa",
+      "khmer",
+      "vietnamese"
+    ],
+    "STATE_MERZ": [
+      "turkmen"
+    ],
+    "STATE_MEXICO": [
+      "mixtec",
+      "nahua",
+      "zapotec"
+    ],
+    "STATE_MICHIGAN": [
+      "algonquian"
+    ],
+    "STATE_MIDDLE_EGYPT": [
+      "coptic",
+      "misri",
+      "outremer"
+    ],
+    "STATE_MIDLANDS": [
+      "anglish",
+      "british"
+    ],
+    "STATE_MINAS_GERAIS": [
+      "tupinamba"
+    ],
+    "STATE_MINDANAO": [
+      "filipino",
+      "moro"
+    ],
+    "STATE_MINNESOTA": [
+      "algonquian",
+      "dakota"
+    ],
+    "STATE_MINSK": [
+      "byelorussian"
+    ],
+    "STATE_MIRANDA": [
+      "amazonian",
+      "cariban"
+    ],
+    "STATE_MISSISSIPPI": [
+      "east_algonquian",
+      "muskogean"
+    ],
+    "STATE_MISSOURI": [
+      "algonquian",
+      "cherokee",
+      "dakota"
+    ],
+    "STATE_MOCAMBIQUE": [
+      "chewa",
+      "east_mauritania",
+      "lacustrine_bantu",
+      "lomwe",
+      "makua",
+      "sena",
+      "yao"
+    ],
+    "STATE_MOGILEV": [
+      "byelorussian",
+      "severian"
+    ],
+    "STATE_MOLDAVIA": [
+      "cuman",
+      "romanian"
+    ],
+    "STATE_MOLUCCAS": [
+      "moluccan",
+      "occitanic_insulindian"
+    ],
+    "STATE_MONTANA": [
+      "dakota",
+      "salish",
+      "siouan"
+    ],
+    "STATE_MONTENEGRO": [
+      "albanian",
+      "serb"
+    ],
+    "STATE_MORAVIA": [
+      "czech"
+    ],
+    "STATE_MOSCOW": [
+      "russian"
+    ],
+    "STATE_MOSUL": [
+      "assyrian",
+      "kurdish",
+      "mashriqi"
+    ],
+    "STATE_MUNSTER": [
+      "irish"
+    ],
+    "STATE_MURCIA": [
+      "toledo"
+    ],
+    "STATE_MYSORE": [
+      "deccani",
+      "italic_deccani",
+      "kannada"
+    ],
+    "STATE_NAKHON_RATCHASIMA": [
+      "lao",
+      "occitanic_burmese",
+      "thai"
+    ],
+    "STATE_NAMAQUALAND": [
+      "khoisan",
+      "tswana"
+    ],
+    "STATE_NANJING": [
+      "wu"
+    ],
+    "STATE_NAURU": [
+      "melanesian"
+    ],
+    "STATE_NEBRASKA": [
+      "dakota"
+    ],
+    "STATE_NEJD": [
+      "bedouin"
+    ],
+    "STATE_NENETSIA": [
+      "perm",
+      "ugrian"
+    ],
+    "STATE_NEVADA": [
+      "paiute"
+    ],
+    "STATE_NEWFOUNDLAND": [
+      "cree",
+      "inuit"
+    ],
+    "STATE_NEW_BRUNSWICK": [
+      "east_algonquian"
+    ],
+    "STATE_NEW_CASTILE": [
+      "toledo"
+    ],
+    "STATE_NEW_HAMPSHIRE": [
+      "east_algonquian"
+    ],
+    "STATE_NEW_JERSEY": [
+      "east_algonquian"
+    ],
+    "STATE_NEW_MEXICO": [
+      "apache",
+      "comanche",
+      "navajo",
+      "pueblo"
+    ],
+    "STATE_NEW_SOUTH_WALES": [
+      "aborigine"
+    ],
+    "STATE_NEW_YORK": [
+      "east_algonquian",
+      "iroquoian"
+    ],
+    "STATE_NGARI": [
+      "tibetan"
+    ],
+    "STATE_NICARAGUA": [
+      "miskito"
+    ],
+    "STATE_NIGER": [
+      "fulbe",
+      "hausa",
+      "tuareg"
+    ],
+    "STATE_NIGERIA": [
+      "equatorial_bantu",
+      "fulbe",
+      "hausa",
+      "tiv"
+    ],
+    "STATE_NIGER_DELTA": [
+      "equatorial_bantu",
+      "ibibio",
+      "ibo"
+    ],
+    "STATE_NINGXIA": [
+      "han"
+    ],
+    "STATE_NIZHNY_NOVGOROD": [
+      "russian"
+    ],
+    "STATE_NORMANDY": [
+      "french"
+    ],
+    "STATE_NORRLAND": [
+      "sami",
+      "swedish"
+    ],
+    "STATE_NORTHERN_ANHUI": [
+      "han"
+    ],
+    "STATE_NORTHERN_BALUCHISTAN": [
+      "baluchi",
+      "pashtun"
+    ],
+    "STATE_NORTHERN_CAPE": [
+      "khoisan",
+      "sotho",
+      "tswana"
+    ],
+    "STATE_NORTHERN_MANCHURIA": [
+      "manchu"
+    ],
+    "STATE_NORTHERN_NORWAY": [
+      "norwegian",
+      "polar_bear",
+      "sami"
+    ],
+    "STATE_NORTHERN_TERRITORY": [
+      "aborigine"
+    ],
+    "STATE_NORTHERN_THRACE": [
+      "bulgarian"
+    ],
+    "STATE_NORTHERN_TRANSYLVANIA": [
+      "cuman",
+      "hungarian",
+      "romanian",
+      "szekely"
+    ],
+    "STATE_NORTHWEST_TERRITORIES": [
+      "athabaskan"
+    ],
+    "STATE_NORTH_ANGOLA": [
+      "bakongo",
+      "kavango_bantu"
+    ],
+    "STATE_NORTH_BORNEO": [
+      "bornean",
+      "dayak"
+    ],
+    "STATE_NORTH_CAMEROON": [
+      "equatorial_bantu",
+      "fulbe"
+    ],
+    "STATE_NORTH_CAROLINA": [
+      "east_algonquian"
+    ],
+    "STATE_NORTH_CAUCASUS": [
+      "chechen",
+      "north_caucasian"
+    ],
+    "STATE_NORTH_DAKOTA": [
+      "dakota"
+    ],
+    "STATE_NORTH_ISLAND": [
+      "maori"
+    ],
+    "STATE_NORTH_MADAGASCAR": [
+      "malagasy"
+    ],
+    "STATE_NORTH_RHINE": [
+      "flemish",
+      "north_german"
+    ],
+    "STATE_NORTH_SUMATRA": [
+      "batak",
+      "slavic_insulindian",
+      "sumatran"
+    ],
+    "STATE_NOVGOROD": [
+      "russian"
+    ],
+    "STATE_NUNAVUT": [
+      "inuit"
+    ],
+    "STATE_OAXACA": [
+      "mixtec",
+      "zapotec"
+    ],
+    "STATE_OB": [
+      "ugrian"
+    ],
+    "STATE_OHIO": [
+      "algonquian"
+    ],
+    "STATE_OKHOTSK": [
+      "siberian"
+    ],
+    "STATE_OKLAHOMA": [
+      "cherokee",
+      "siouan"
+    ],
+    "STATE_OLD_CASTILE": [
+      "spanish"
+    ],
+    "STATE_OMAN": [
+      "bedouin",
+      "oman"
+    ],
+    "STATE_ONTARIO": [
+      "algonquian",
+      "cree",
+      "iroquoian"
+    ],
+    "STATE_ORAN": [
+      "african",
+      "berber",
+      "maghrebi"
+    ],
+    "STATE_OREGON": [
+      "nez_perce",
+      "salish"
+    ],
+    "STATE_ORISSA": [
+      "italic_oriya",
+      "oriya"
+    ],
+    "STATE_ORLEANS": [
+      "french"
+    ],
+    "STATE_OROMIA": [
+      "amhara",
+      "oromo",
+      "somali"
+    ],
+    "STATE_ORYOL": [
+      "severian"
+    ],
+    "STATE_OSTROBOTHNIA": [
+      "finnish"
+    ],
+    "STATE_OULU": [
+      "finnish",
+      "sami"
+    ],
+    "STATE_OUTER_HAUSALAND": [
+      "dyula",
+      "equatorial_bantu",
+      "fulbe",
+      "hausa",
+      "kanuri",
+      "songhai",
+      "tuareg"
+    ],
+    "STATE_OUTER_MANCHURIA": [
+      "manchu",
+      "siberian"
+    ],
+    "STATE_PALESTINE": [
+      "mashriqi",
+      "outremer"
+    ],
+    "STATE_PANAMA": [
+      "afro_caribbean",
+      "miskito"
+    ],
+    "STATE_PARA": [
+      "amazonian"
+    ],
+    "STATE_PARAIBA": [
+      "afro_brazilian",
+      "nordestino"
+    ],
+    "STATE_PARANA": [
+      "afro_brazilian",
+      "guarani",
+      "paulista",
+      "sulista"
+    ],
+    "STATE_PASHTUNISTAN": [
+      "pashtun"
+    ],
+    "STATE_PASTAZA": [
+      "amazonian"
+    ],
+    "STATE_PATAGONIA": [
+      "patagonian"
+    ],
+    "STATE_PEGU": [
+      "burmese",
+      "karen",
+      "mon",
+      "occitanic_burmese"
+    ],
+    "STATE_PELOPONNESE": [
+      "greek"
+    ],
+    "STATE_PENNSYLVANIA": [
+      "east_algonquian"
+    ],
+    "STATE_PERM": [
+      "perm"
+    ],
+    "STATE_PERNAMBUCO": [
+      "afro_brazilian",
+      "nordestino"
+    ],
+    "STATE_PERSIAN_KURDISTAN": [
+      "kurdish",
+      "persian"
+    ],
+    "STATE_PIAUI": [
+      "afro_brazilian",
+      "nordestino",
+      "tupinamba"
+    ],
+    "STATE_PICARDY": [
+      "flemish"
+    ],
+    "STATE_PIEDMONT": [
+      "francoprovencal",
+      "north_italian"
+    ],
+    "STATE_POITOU": [
+      "french",
+      "occitan"
+    ],
+    "STATE_POMERANIA": [
+      "sorb",
+      "wendish"
+    ],
+    "STATE_POSEN": [
+      "polish",
+      "sorb",
+      "wendish"
+    ],
+    "STATE_POTOSI": [
+      "aimara"
+    ],
+    "STATE_PROVENCE": [
+      "francoprovencal",
+      "occitan"
+    ],
+    "STATE_PSKOV": [
+      "russian"
+    ],
+    "STATE_PUERTO_RICO": [
+      "afro_caribbean"
+    ],
+    "STATE_PUNJAB": [
+      "panjabi"
+    ],
+    "STATE_PYONGYANG": [
+      "korean"
+    ],
+    "STATE_QINGHAI": [
+      "tibetan"
+    ],
+    "STATE_QUEBEC": [
+      "cree",
+      "inuit"
+    ],
+    "STATE_QUETTA": [
+      "pashtun"
+    ],
+    "STATE_RAJPUTANA": [
+      "rajput"
+    ],
+    "STATE_RHINELAND": [
+      "flemish",
+      "north_german"
+    ],
+    "STATE_RHODE_ISLAND": [
+      "east_algonquian"
+    ],
+    "STATE_RHONE": [
+      "francoprovencal",
+      "occitan"
+    ],
+    "STATE_RIFT_VALLEY": [
+      "kikuyu",
+      "luo",
+      "maasai",
+      "nilotic"
+    ],
+    "STATE_RIGA": [
+      "latvian"
+    ],
+    "STATE_RIO_DE_JANEIRO": [
+      "afro_brazilian"
+    ],
+    "STATE_RIO_GRANDE": [
+      "oodham"
+    ],
+    "STATE_RIO_GRANDE_DO_NORTE": [
+      "afro_brazilian",
+      "nordestino",
+      "tupinamba"
+    ],
+    "STATE_RIO_GRANDE_DO_SUL": [
+      "guarani",
+      "sulista"
+    ],
+    "STATE_RIO_NEGRO": [
+      "patagonian"
+    ],
+    "STATE_ROMAGNA": [
+      "middle_italian"
+    ],
+    "STATE_ROSTOV": [
+      "tatar"
+    ],
+    "STATE_RUHR": [
+      "north_german"
+    ],
+    "STATE_RUTHENIA": [
+      "cuman",
+      "hungarian",
+      "slovak",
+      "ukrainian"
+    ],
+    "STATE_RYAZAN": [
+      "russian"
+    ],
+    "STATE_RYUKYU_ISLANDS": [
+      "japanese"
+    ],
+    "STATE_SAHARA": [
+      "berber",
+      "tuareg"
+    ],
+    "STATE_SAKHALIN": [
+      "ainu",
+      "siberian"
+    ],
+    "STATE_SAMARA": [
+      "tatar"
+    ],
+    "STATE_SANTA_CATARINA": [
+      "afro_brazilian",
+      "guarani",
+      "sulista"
+    ],
+    "STATE_SANTA_CRUZ": [
+      "guarani",
+      "quechua"
+    ],
+    "STATE_SANTA_FE": [
+      "patagonian"
+    ],
+    "STATE_SANTIAGO": [
+      "patagonian"
+    ],
+    "STATE_SANTO_DOMINGO": [
+      "afro_caribbean"
+    ],
+    "STATE_SAN_SALVADOR": [
+      "american_fulbe"
+    ],
+    "STATE_SAO_PAULO": [
+      "afro_brazilian",
+      "paulista",
+      "tupinamba"
+    ],
+    "STATE_SARDINIA": [
+      "south_italian"
+    ],
+    "STATE_SARIWON": [
+      "korean"
+    ],
+    "STATE_SASKATCHEWAN": [
+      "athabaskan",
+      "cree"
+    ],
+    "STATE_SAVOY": [
+      "francoprovencal",
+      "north_italian"
+    ],
+    "STATE_SAXONY": [
+      "north_german",
+      "sorb"
+    ],
+    "STATE_SCANIA": [
+      "danish",
+      "gotaland"
+    ],
+    "STATE_SCHLESWIG_HOLSTEIN": [
+      "danish",
+      "north_german"
+    ],
+    "STATE_SEMIRECHE": [
+      "kazak",
+      "kirgiz",
+      "uighur"
+    ],
+    "STATE_SEMNAN": [
+      "persian"
+    ],
+    "STATE_SENEGAL": [
+      "dyula",
+      "fulbe",
+      "mande",
+      "wolof"
+    ],
+    "STATE_SEOUL": [
+      "korean"
+    ],
+    "STATE_SHANDONG": [
+      "han"
+    ],
+    "STATE_SHANXI": [
+      "jin"
+    ],
+    "STATE_SHAN_STATES": [
+      "kachin",
+      "shan"
+    ],
+    "STATE_SHAOZHOU": [
+      "hakka",
+      "yue"
+    ],
+    "STATE_SHENGJING": [
+      "han",
+      "khitan",
+      "manchu"
+    ],
+    "STATE_SHIKOKU": [
+      "japanese"
+    ],
+    "STATE_SICHUAN": [
+      "shu",
+      "tibetan",
+      "yi"
+    ],
+    "STATE_SICILY": [
+      "south_italian"
+    ],
+    "STATE_SIERRA_LEONE": [
+      "akan",
+      "fulbe",
+      "kissi",
+      "mande"
+    ],
+    "STATE_SINAI": [
+      "coptic",
+      "misri",
+      "outremer"
+    ],
+    "STATE_SINALOA": [
+      "oodham"
+    ],
+    "STATE_SINDH": [
+      "italic_gujarati",
+      "sindi"
+    ],
+    "STATE_SISTAN": [
+      "baluchi",
+      "persian"
+    ],
+    "STATE_SKOPIA": [
+      "albanian",
+      "bulgarian",
+      "greek"
+    ],
+    "STATE_SLAVONIA": [
+      "croat",
+      "serb"
+    ],
+    "STATE_SLOVAKIA": [
+      "hungarian",
+      "polish",
+      "slovak"
+    ],
+    "STATE_SLOVENIA": [
+      "slovene"
+    ],
+    "STATE_SMOLENSK": [
+      "severian"
+    ],
+    "STATE_SOLOMON_ISLANDS": [
+      "melanesian"
+    ],
+    "STATE_SOMALILAND": [
+      "somali",
+      "swahili"
+    ],
+    "STATE_SONORA": [
+      "oodham"
+    ],
+    "STATE_SOUTHERN_ANHUI": [
+      "wu"
+    ],
+    "STATE_SOUTHERN_MANCHURIA": [
+      "manchu"
+    ],
+    "STATE_SOUTHERN_TRANSYLVANIA": [
+      "cuman",
+      "hungarian",
+      "romanian",
+      "szekely"
+    ],
+    "STATE_SOUTH_ANGOLA": [
+      "kavango_bantu",
+      "ovimbundu"
+    ],
+    "STATE_SOUTH_ATLANTIC_ISLANDS": [
+      "tomorin"
+    ],
+    "STATE_SOUTH_AUSTRALIA": [
+      "aborigine"
+    ],
+    "STATE_SOUTH_CAMEROON": [
+      "equatorial_bantu",
+      "fang"
+    ],
+    "STATE_SOUTH_CAROLINA": [
+      "east_algonquian"
+    ],
+    "STATE_SOUTH_DAKOTA": [
+      "dakota"
+    ],
+    "STATE_SOUTH_ISLAND": [
+      "maori"
+    ],
+    "STATE_SOUTH_MADAGASCAR": [
+      "malagasy"
+    ],
+    "STATE_SOUTH_SUMATRA": [
+      "batak",
+      "slavic_insulindian",
+      "sumatran"
+    ],
+    "STATE_SOUTH_TYROL": [
+      "north_italian",
+      "south_german"
+    ],
+    "STATE_STAVROPOL": [
+      "tatar"
+    ],
+    "STATE_STYRIA": [
+      "south_german"
+    ],
+    "STATE_SUNDA_ISLANDS": [
+      "balinese",
+      "moluccan",
+      "occitanic_insulindian"
+    ],
+    "STATE_SURGUT": [
+      "ugrian"
+    ],
+    "STATE_SUZHOU": [
+      "wu"
+    ],
+    "STATE_SVEALAND": [
+      "swedish"
+    ],
+    "STATE_SYRDARYA": [
+      "kazak",
+      "uzbek"
+    ],
+    "STATE_SYRIA": [
+      "mashriqi"
+    ],
+    "STATE_TABRIZ": [
+      "armenian",
+      "azerbaijani",
+      "persian"
+    ],
+    "STATE_TAHITI": [
+      "polynesian"
+    ],
+    "STATE_TAJIKISTAN": [
+      "tajik",
+      "uzbek"
+    ],
+    "STATE_TALINN": [
+      "estonian"
+    ],
+    "STATE_TAMBOV": [
+      "mordvin",
+      "russian"
+    ],
+    "STATE_TANGANYIKA": [
+      "lacustrine_bantu",
+      "luo",
+      "maasai",
+      "ruanda",
+      "rundi",
+      "sukuma"
+    ],
+    "STATE_TARAPACA": [
+      "aimara"
+    ],
+    "STATE_TARTARIA": [
+      "tatar"
+    ],
+    "STATE_TARTU": [
+      "estonian"
+    ],
+    "STATE_TASMANIA": [
+      "aborigine"
+    ],
+    "STATE_TAURIDA": [
+      "tatar"
+    ],
+    "STATE_TENASSERIM": [
+      "burmese",
+      "karen",
+      "occitanic_burmese",
+      "thai"
+    ],
+    "STATE_TENNESSEE": [
+      "cherokee",
+      "east_algonquian",
+      "muskogean"
+    ],
+    "STATE_TEXAS": [
+      "caddoan",
+      "comanche",
+      "oodham"
+    ],
+    "STATE_THESSALIA": [
+      "greek"
+    ],
+    "STATE_TIANSHAN": [
+      "uighur"
+    ],
+    "STATE_TIMBUKTU": [
+      "fulbe",
+      "mande",
+      "songhai",
+      "tuareg"
+    ],
+    "STATE_TOBOLSK": [
+      "siberian",
+      "ugrian"
+    ],
+    "STATE_TOGO": [
+      "akan",
+      "ewe",
+      "fon",
+      "mossi"
+    ],
+    "STATE_TOHOKU": [
+      "japanese"
+    ],
+    "STATE_TOMSK": [
+      "siberian"
+    ],
+    "STATE_TONGA": [
+      "polynesian"
+    ],
+    "STATE_TONKIN": [
+      "vietnamese"
+    ],
+    "STATE_TRABZON": [
+      "armenian",
+      "azerbaijani",
+      "greek",
+      "kurdish",
+      "turkish"
+    ],
+    "STATE_TRANSDANUBIA": [
+      "hungarian"
+    ],
+    "STATE_TRANSJORDAN": [
+      "bedouin",
+      "mashriqi",
+      "outremer"
+    ],
+    "STATE_TRANSVAAL": [
+      "nguni",
+      "sotho",
+      "tswana",
+      "zulu"
+    ],
+    "STATE_TRANS_BAIKAL": [
+      "buryat",
+      "manchu"
+    ],
+    "STATE_TRAVANCORE": [
+      "malayalam"
+    ],
+    "STATE_TRIPOLI": [
+      "bedouin",
+      "berber",
+      "maghrebi",
+      "tuareg"
+    ],
+    "STATE_TUCUMAN": [
+      "patagonian"
+    ],
+    "STATE_TUNISIA": [
+      "african",
+      "berber",
+      "maghrebi"
+    ],
+    "STATE_TURKMENIA": [
+      "turkmen",
+      "uzbek"
+    ],
+    "STATE_TUSCANY": [
+      "middle_italian"
+    ],
+    "STATE_TUVA": [
+      "mongol",
+      "tuvan"
+    ],
+    "STATE_TVER": [
+      "russian"
+    ],
+    "STATE_TYROL": [
+      "south_german"
+    ],
+    "STATE_UBANGI_SHARI": [
+      "azande",
+      "equatorial_bantu",
+      "sara"
+    ],
+    "STATE_UFA": [
+      "bashkir",
+      "perm"
+    ],
+    "STATE_UGANDA": [
+      "baganda",
+      "lacustrine_bantu",
+      "luo"
+    ],
+    "STATE_ULIASTAI": [
+      "mongol"
+    ],
+    "STATE_ULSTER": [
+      "irish",
+      "scottish"
+    ],
+    "STATE_UMBRIA": [
+      "middle_italian"
+    ],
+    "STATE_UPPER_ANDALUSIA": [
+      "andalusian",
+      "toledo"
+    ],
+    "STATE_UPPER_EGYPT": [
+      "bedouin",
+      "beja",
+      "coptic",
+      "misri"
+    ],
+    "STATE_UPPER_SILESIA": [
+      "czech",
+      "north_german",
+      "polish"
+    ],
+    "STATE_UPPER_YENISEYSK": [
+      "siberian"
+    ],
+    "STATE_URAL": [
+      "ugrian"
+    ],
+    "STATE_URALSK": [
+      "kazak"
+    ],
+    "STATE_URGA": [
+      "khitan",
+      "mongol"
+    ],
+    "STATE_URMIA": [
+      "armenian",
+      "assyrian",
+      "azerbaijani",
+      "kurdish",
+      "persian"
+    ],
+    "STATE_URUGUAY": [
+      "patagonian"
+    ],
+    "STATE_UTAH": [
+      "paiute"
+    ],
+    "STATE_UUSIMAA": [
+      "finnish"
+    ],
+    "STATE_UZBEKIA": [
+      "kazak",
+      "uzbek"
+    ],
+    "STATE_VALENCIA": [
+      "aragonese",
+      "toledo"
+    ],
+    "STATE_VANUATU": [
+      "melanesian"
+    ],
+    "STATE_VENETIA": [
+      "north_italian"
+    ],
+    "STATE_VERACRUZ": [
+      "nahua"
+    ],
+    "STATE_VERMONT": [
+      "east_algonquian"
+    ],
+    "STATE_VICTORIA": [
+      "aborigine"
+    ],
+    "STATE_VILNIUS": [
+      "lithuanian"
+    ],
+    "STATE_VIRGINIA": [
+      "east_algonquian"
+    ],
+    "STATE_VISAYAS": [
+      "filipino",
+      "italic_insulindian",
+      "moro"
+    ],
+    "STATE_VITEBSK": [
+      "byelorussian"
+    ],
+    "STATE_VOLHYNIA": [
+      "ukrainian"
+    ],
+    "STATE_VOLTA": [
+      "bambara",
+      "dyula",
+      "fulbe",
+      "mande",
+      "mossi"
+    ],
+    "STATE_VRYSTAAT": [
+      "nguni",
+      "sotho"
+    ],
+    "STATE_VYATKA": [
+      "perm",
+      "udmurt"
+    ],
+    "STATE_WADDAI": [
+      "baguirmi",
+      "equatorial_bantu",
+      "fur",
+      "sara"
+    ],
+    "STATE_WALES": [
+      "welsh"
+    ],
+    "STATE_WALLACHIA": [
+      "romanian"
+    ],
+    "STATE_WALLONIA": [
+      "flemish"
+    ],
+    "STATE_WASHINGTON": [
+      "nez_perce",
+      "salish"
+    ],
+    "STATE_WESTERN_AUSTRALIA": [
+      "aborigine",
+      "mashriq_sahara"
+    ],
+    "STATE_WESTERN_CUBA": [
+      "caribeno"
+    ],
+    "STATE_WESTERN_HUBEI": [
+      "han",
+      "xiang"
+    ],
+    "STATE_WESTERN_MALI": [
+      "bambara",
+      "fulbe",
+      "mande"
+    ],
+    "STATE_WESTERN_NEW_GUINEA": [
+      "melanesian"
+    ],
+    "STATE_WESTERN_NORWAY": [
+      "norwegian"
+    ],
+    "STATE_WESTERN_SERBIA": [
+      "serb"
+    ],
+    "STATE_WESTERN_THRACE": [
+      "bulgarian",
+      "greek"
+    ],
+    "STATE_WESTPHALIA": [
+      "north_german"
+    ],
+    "STATE_WEST_AEGEAN_ISLANDS": [
+      "greek"
+    ],
+    "STATE_WEST_BENGAL": [
+      "bengali"
+    ],
+    "STATE_WEST_BORNEO": [
+      "bornean",
+      "dayak",
+      "occitanic_insulindian"
+    ],
+    "STATE_WEST_COUNTRY": [
+      "british"
+    ],
+    "STATE_WEST_GALICIA": [
+      "polish"
+    ],
+    "STATE_WEST_INDIES": [
+      "afro_caribeno"
+    ],
+    "STATE_WEST_JAVA": [
+      "javan",
+      "slavic_insulindian"
+    ],
+    "STATE_WEST_KARELIA": [
+      "finnish"
+    ],
+    "STATE_WEST_MICRONESIA": [
+      "micronesian"
+    ],
+    "STATE_WEST_PRUSSIA": [
+      "polish",
+      "prussian",
+      "sorb",
+      "wendish"
+    ],
+    "STATE_WEST_SAHARA": [
+      "bedouin",
+      "berber",
+      "bidan"
+    ],
+    "STATE_WEST_SWITZERLAND": [
+      "flemish",
+      "francoprovencal"
+    ],
+    "STATE_WEST_VIRGINIA": [
+      "east_algonquian"
+    ],
+    "STATE_WINDWARD_COAST": [
+      "akan",
+      "dyula",
+      "kru",
+      "mande"
+    ],
+    "STATE_WISCONSIN": [
+      "algonquian",
+      "dakota"
+    ],
+    "STATE_WURTTEMBERG": [
+      "alemannic"
+    ],
+    "STATE_WYOMING": [
+      "paiute",
+      "siouan"
+    ],
+    "STATE_XIAN": [
+      "han"
+    ],
+    "STATE_YAKUTSK": [
+      "yakut"
+    ],
+    "STATE_YANGHO": [
+      "korean"
+    ],
+    "STATE_YAROSLAVL": [
+      "russian"
+    ],
+    "STATE_YEMEN": [
+      "bedouin",
+      "yemenite"
+    ],
+    "STATE_YORKSHIRE": [
+      "anglish"
+    ],
+    "STATE_YORUBA_STATES": [
+      "fon",
+      "yoruba"
+    ],
+    "STATE_YUCATAN": [
+      "mayan"
+    ],
+    "STATE_YUKON_TERRITORY": [
+      "athabaskan"
+    ],
+    "STATE_YUNNAN": [
+      "miao",
+      "yi",
+      "zhuang"
+    ],
+    "STATE_ZACATECAS": [
+      "nahua"
+    ],
+    "STATE_ZAMBEZI": [
+      "lacustrine_bantu",
+      "nguni",
+      "shona"
+    ],
+    "STATE_ZAMBEZIA": [
+      "east_mauritania",
+      "lacustrine_bantu",
+      "sena",
+      "shona"
+    ],
+    "STATE_ZAMBIA": [
+      "chewa",
+      "kavango_bantu",
+      "lunda"
+    ],
+    "STATE_ZANZIBAR": [
+      "east_mauritania",
+      "lacustrine_bantu",
+      "sukuma",
+      "swahili"
+    ],
+    "STATE_ZEALAND": [
+      "danish"
+    ],
+    "STATE_ZHEJIANG": [
+      "wu"
+    ],
+    "STATE_ZHILI": [
+      "han"
+    ],
+    "STATE_ZULIA": [
+      "cariban",
+      "guajiro"
+    ],
+    "STATE_ZULULAND": [
+      "sotho",
+      "xhosa",
+      "zulu"
+    ]
+  },
+  "colors": {
+    "none": [
+      200,
+      200,
+      208
+    ],
+    "multi": [
+      150,
+      90,
+      200
+    ]
+  },
+  "stats": {
+    "single_culture_states": 332,
+    "multi_culture_states": 339,
+    "no_homeland_states": 3
+  }
+}

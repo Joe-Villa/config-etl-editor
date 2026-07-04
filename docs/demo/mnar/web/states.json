@@ -1,0 +1,5474 @@
+{
+  "ABS::STATE_ALBERTA": {
+    "tag": "ABS",
+    "state": "STATE_ALBERTA",
+    "population": 4999,
+    "state_type": "incorporated"
+  },
+  "ABS::STATE_MANITOBA": {
+    "tag": "ABS",
+    "state": "STATE_MANITOBA",
+    "population": 20000,
+    "state_type": "incorporated"
+  },
+  "ABS::STATE_MONTANA": {
+    "tag": "ABS",
+    "state": "STATE_MONTANA",
+    "population": 40000,
+    "state_type": "incorporated"
+  },
+  "ABS::STATE_NORTH_DAKOTA": {
+    "tag": "ABS",
+    "state": "STATE_NORTH_DAKOTA",
+    "population": 7500,
+    "state_type": "incorporated"
+  },
+  "ABS::STATE_SASKATCHEWAN": {
+    "tag": "ABS",
+    "state": "STATE_SASKATCHEWAN",
+    "population": 8250,
+    "state_type": "incorporated"
+  },
+  "ABS::STATE_WYOMING": {
+    "tag": "ABS",
+    "state": "STATE_WYOMING",
+    "population": 8100,
+    "state_type": "incorporated"
+  },
+  "ACE::STATE_ACEH": {
+    "tag": "ACE",
+    "state": "STATE_ACEH",
+    "population": 404107,
+    "state_type": "incorporated"
+  },
+  "AFG::STATE_KABUL": {
+    "tag": "AFG",
+    "state": "STATE_KABUL",
+    "population": 1013980,
+    "state_type": "incorporated"
+  },
+  "AFG::STATE_PASHTUNISTAN": {
+    "tag": "AFG",
+    "state": "STATE_PASHTUNISTAN",
+    "population": 2103795,
+    "state_type": "incorporated"
+  },
+  "AFG::STATE_PUNJAB": {
+    "tag": "AFG",
+    "state": "STATE_PUNJAB",
+    "population": 3799371,
+    "state_type": "incorporated"
+  },
+  "AFG::STATE_QUETTA": {
+    "tag": "AFG",
+    "state": "STATE_QUETTA",
+    "population": 279526,
+    "state_type": "incorporated"
+  },
+  "ALB::STATE_ALBANIA": {
+    "tag": "ALB",
+    "state": "STATE_ALBANIA",
+    "population": 1296008,
+    "state_type": "incorporated"
+  },
+  "ALB::STATE_KOSOVO": {
+    "tag": "ALB",
+    "state": "STATE_KOSOVO",
+    "population": 475893,
+    "state_type": "incorporated"
+  },
+  "ALB::STATE_MONTENEGRO": {
+    "tag": "ALB",
+    "state": "STATE_MONTENEGRO",
+    "population": 450996,
+    "state_type": "incorporated"
+  },
+  "ALK::STATE_ALASKA": {
+    "tag": "ALK",
+    "state": "STATE_ALASKA",
+    "population": 17948,
+    "state_type": "incorporated"
+  },
+  "ALS::STATE_ALSACE_LORRAINE": {
+    "tag": "ALS",
+    "state": "STATE_ALSACE_LORRAINE",
+    "population": 579716,
+    "state_type": "incorporated"
+  },
+  "ALW::STATE_RAJPUTANA": {
+    "tag": "ALW",
+    "state": "STATE_RAJPUTANA",
+    "population": 535245,
+    "state_type": "incorporated"
+  },
+  "AMZ::STATE_AMAZONAS": {
+    "tag": "AMZ",
+    "state": "STATE_AMAZONAS",
+    "population": 46000,
+    "state_type": "incorporated"
+  },
+  "AMZ::STATE_GUAVIARE": {
+    "tag": "AMZ",
+    "state": "STATE_GUAVIARE",
+    "population": 110000,
+    "state_type": "incorporated"
+  },
+  "AMZ::STATE_PASTAZA": {
+    "tag": "AMZ",
+    "state": "STATE_PASTAZA",
+    "population": 90000,
+    "state_type": "incorporated"
+  },
+  "ANT::STATE_ADANA": {
+    "tag": "ANT",
+    "state": "STATE_ADANA",
+    "population": 428409,
+    "state_type": "incorporated"
+  },
+  "ANT::STATE_ANKARA": {
+    "tag": "ANT",
+    "state": "STATE_ANKARA",
+    "population": 1819415,
+    "state_type": "incorporated"
+  },
+  "ANT::STATE_KONYA": {
+    "tag": "ANT",
+    "state": "STATE_KONYA",
+    "population": 945714,
+    "state_type": "incorporated"
+  },
+  "APC::STATE_ARIZONA": {
+    "tag": "APC",
+    "state": "STATE_ARIZONA",
+    "population": 15800,
+    "state_type": "incorporated"
+  },
+  "APC::STATE_NEW_MEXICO": {
+    "tag": "APC",
+    "state": "STATE_NEW_MEXICO",
+    "population": 13800,
+    "state_type": "incorporated"
+  },
+  "ARN::STATE_ALABAMA": {
+    "tag": "ARN",
+    "state": "STATE_ALABAMA",
+    "population": 7067,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_ALGIERS": {
+    "tag": "ARN",
+    "state": "STATE_ALGIERS",
+    "population": 612577,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_AQUITAINE": {
+    "tag": "ARN",
+    "state": "STATE_AQUITAINE",
+    "population": 1844393,
+    "state_type": "incorporated"
+  },
+  "ARN::STATE_ARAGON": {
+    "tag": "ARN",
+    "state": "STATE_ARAGON",
+    "population": 881685,
+    "state_type": "incorporated"
+  },
+  "ARN::STATE_AUVERGNE_LIMOUSIN": {
+    "tag": "ARN",
+    "state": "STATE_AUVERGNE_LIMOUSIN",
+    "population": 1958617,
+    "state_type": "incorporated"
+  },
+  "ARN::STATE_BALEARIC_ISLANDS": {
+    "tag": "ARN",
+    "state": "STATE_BALEARIC_ISLANDS",
+    "population": 277268,
+    "state_type": "incorporated"
+  },
+  "ARN::STATE_BERMUDA": {
+    "tag": "ARN",
+    "state": "STATE_BERMUDA",
+    "population": 24200,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_CATALONIA": {
+    "tag": "ARN",
+    "state": "STATE_CATALONIA",
+    "population": 200512,
+    "state_type": "incorporated"
+  },
+  "ARN::STATE_CONSTANTINE": {
+    "tag": "ARN",
+    "state": "STATE_CONSTANTINE",
+    "population": 376203,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_CORSICA": {
+    "tag": "ARN",
+    "state": "STATE_CORSICA",
+    "population": 245889,
+    "state_type": "incorporated"
+  },
+  "ARN::STATE_GUYENNE": {
+    "tag": "ARN",
+    "state": "STATE_GUYENNE",
+    "population": 1733946,
+    "state_type": "incorporated"
+  },
+  "ARN::STATE_INDIAN_OCEAN_TERRITORY": {
+    "tag": "ARN",
+    "state": "STATE_INDIAN_OCEAN_TERRITORY",
+    "population": 84500,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_LANGUEDOC": {
+    "tag": "ARN",
+    "state": "STATE_LANGUEDOC",
+    "population": 1995743,
+    "state_type": "incorporated"
+  },
+  "ARN::STATE_LOUISIANA": {
+    "tag": "ARN",
+    "state": "STATE_LOUISIANA",
+    "population": 270684,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_MISSISSIPPI": {
+    "tag": "ARN",
+    "state": "STATE_MISSISSIPPI",
+    "population": 7067,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_NORTH_ANGOLA": {
+    "tag": "ARN",
+    "state": "STATE_NORTH_ANGOLA",
+    "population": 19064,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_NORTH_CAMEROON": {
+    "tag": "ARN",
+    "state": "STATE_NORTH_CAMEROON",
+    "population": 112420,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_PIEDMONT": {
+    "tag": "ARN",
+    "state": "STATE_PIEDMONT",
+    "population": 2931272,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_PROVENCE": {
+    "tag": "ARN",
+    "state": "STATE_PROVENCE",
+    "population": 1262945,
+    "state_type": "incorporated"
+  },
+  "ARN::STATE_RHONE": {
+    "tag": "ARN",
+    "state": "STATE_RHONE",
+    "population": 2604767,
+    "state_type": "incorporated"
+  },
+  "ARN::STATE_SARDINIA": {
+    "tag": "ARN",
+    "state": "STATE_SARDINIA",
+    "population": 653168,
+    "state_type": "incorporated"
+  },
+  "ARN::STATE_SAVOY": {
+    "tag": "ARN",
+    "state": "STATE_SAVOY",
+    "population": 506600,
+    "state_type": "incorporated"
+  },
+  "ARN::STATE_SICILY": {
+    "tag": "ARN",
+    "state": "STATE_SICILY",
+    "population": 231680,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_SOUTH_CAMEROON": {
+    "tag": "ARN",
+    "state": "STATE_SOUTH_CAMEROON",
+    "population": 1176016,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_SOUTH_MADAGASCAR": {
+    "tag": "ARN",
+    "state": "STATE_SOUTH_MADAGASCAR",
+    "population": 20000,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_TEXAS": {
+    "tag": "ARN",
+    "state": "STATE_TEXAS",
+    "population": 18000,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_TRAVANCORE": {
+    "tag": "ARN",
+    "state": "STATE_TRAVANCORE",
+    "population": 954970,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_TUNISIA": {
+    "tag": "ARN",
+    "state": "STATE_TUNISIA",
+    "population": 577008,
+    "state_type": "unincorporated"
+  },
+  "ARN::STATE_VALENCIA": {
+    "tag": "ARN",
+    "state": "STATE_VALENCIA",
+    "population": 1158789,
+    "state_type": "incorporated"
+  },
+  "ARP::STATE_COLORADO": {
+    "tag": "ARP",
+    "state": "STATE_COLORADO",
+    "population": 12500,
+    "state_type": "incorporated"
+  },
+  "ARP::STATE_KANSAS": {
+    "tag": "ARP",
+    "state": "STATE_KANSAS",
+    "population": 15000,
+    "state_type": "incorporated"
+  },
+  "ARP::STATE_NEBRASKA": {
+    "tag": "ARP",
+    "state": "STATE_NEBRASKA",
+    "population": 5000,
+    "state_type": "incorporated"
+  },
+  "ARP::STATE_WYOMING": {
+    "tag": "ARP",
+    "state": "STATE_WYOMING",
+    "population": 5000,
+    "state_type": "incorporated"
+  },
+  "ASH::STATE_TOGO": {
+    "tag": "ASH",
+    "state": "STATE_TOGO",
+    "population": 604008,
+    "state_type": "incorporated"
+  },
+  "ASM::STATE_ASSAM": {
+    "tag": "ASM",
+    "state": "STATE_ASSAM",
+    "population": 1956840,
+    "state_type": "incorporated"
+  },
+  "ASS::STATE_DEIR_EZ_ZOR": {
+    "tag": "ASS",
+    "state": "STATE_DEIR_EZ_ZOR",
+    "population": 283096,
+    "state_type": "incorporated"
+  },
+  "ASS::STATE_MOSUL": {
+    "tag": "ASS",
+    "state": "STATE_MOSUL",
+    "population": 635804,
+    "state_type": "incorporated"
+  },
+  "ASU::STATE_ASTURIAS": {
+    "tag": "ASU",
+    "state": "STATE_ASTURIAS",
+    "population": 511563,
+    "state_type": "incorporated"
+  },
+  "ATB::STATE_ALASKA": {
+    "tag": "ATB",
+    "state": "STATE_ALASKA",
+    "population": 11750,
+    "state_type": "incorporated"
+  },
+  "ATB::STATE_NORTHWEST_TERRITORIES": {
+    "tag": "ATB",
+    "state": "STATE_NORTHWEST_TERRITORIES",
+    "population": 20000,
+    "state_type": "incorporated"
+  },
+  "ATB::STATE_YUKON_TERRITORY": {
+    "tag": "ATB",
+    "state": "STATE_YUKON_TERRITORY",
+    "population": 15000,
+    "state_type": "incorporated"
+  },
+  "ATI::STATE_ATTICA": {
+    "tag": "ATI",
+    "state": "STATE_ATTICA",
+    "population": 637592,
+    "state_type": "incorporated"
+  },
+  "AUS::STATE_AUSTRIA": {
+    "tag": "AUS",
+    "state": "STATE_AUSTRIA",
+    "population": 1524400,
+    "state_type": "incorporated"
+  },
+  "AUS::STATE_STYRIA": {
+    "tag": "AUS",
+    "state": "STATE_STYRIA",
+    "population": 570796,
+    "state_type": "incorporated"
+  },
+  "AVE::STATE_BEIRA": {
+    "tag": "AVE",
+    "state": "STATE_BEIRA",
+    "population": 226122,
+    "state_type": "incorporated"
+  },
+  "AYM::STATE_ANTOFAGASTA": {
+    "tag": "AYM",
+    "state": "STATE_ANTOFAGASTA",
+    "population": 124296,
+    "state_type": "incorporated"
+  },
+  "AYM::STATE_JUJUY": {
+    "tag": "AYM",
+    "state": "STATE_JUJUY",
+    "population": 76104,
+    "state_type": "incorporated"
+  },
+  "AYM::STATE_SANTIAGO": {
+    "tag": "AYM",
+    "state": "STATE_SANTIAGO",
+    "population": 820808,
+    "state_type": "incorporated"
+  },
+  "AYM::STATE_TUCUMAN": {
+    "tag": "AYM",
+    "state": "STATE_TUCUMAN",
+    "population": 97678,
+    "state_type": "incorporated"
+  },
+  "BAG::STATE_BUNDELKHAND": {
+    "tag": "BAG",
+    "state": "STATE_BUNDELKHAND",
+    "population": 892879,
+    "state_type": "incorporated"
+  },
+  "BAH::STATE_BAHAMAS": {
+    "tag": "BAH",
+    "state": "STATE_BAHAMAS",
+    "population": 119600,
+    "state_type": "incorporated"
+  },
+  "BAL::STATE_CELEBES": {
+    "tag": "BAL",
+    "state": "STATE_CELEBES",
+    "population": 558926,
+    "state_type": "incorporated"
+  },
+  "BAL::STATE_EAST_BORNEO": {
+    "tag": "BAL",
+    "state": "STATE_EAST_BORNEO",
+    "population": 280292,
+    "state_type": "incorporated"
+  },
+  "BAL::STATE_EAST_JAVA": {
+    "tag": "BAL",
+    "state": "STATE_EAST_JAVA",
+    "population": 2154188,
+    "state_type": "incorporated"
+  },
+  "BAL::STATE_MOLUCCAS": {
+    "tag": "BAL",
+    "state": "STATE_MOLUCCAS",
+    "population": 475638,
+    "state_type": "incorporated"
+  },
+  "BAL::STATE_NORTHERN_TERRITORY": {
+    "tag": "BAL",
+    "state": "STATE_NORTHERN_TERRITORY",
+    "population": 11364,
+    "state_type": "unincorporated"
+  },
+  "BAL::STATE_NORTH_BORNEO": {
+    "tag": "BAL",
+    "state": "STATE_NORTH_BORNEO",
+    "population": 15531,
+    "state_type": "incorporated"
+  },
+  "BAL::STATE_SUNDA_ISLANDS": {
+    "tag": "BAL",
+    "state": "STATE_SUNDA_ISLANDS",
+    "population": 1631268,
+    "state_type": "incorporated"
+  },
+  "BAL::STATE_WESTERN_NEW_GUINEA": {
+    "tag": "BAL",
+    "state": "STATE_WESTERN_NEW_GUINEA",
+    "population": 83404,
+    "state_type": "unincorporated"
+  },
+  "BAL::STATE_WEST_BORNEO": {
+    "tag": "BAL",
+    "state": "STATE_WEST_BORNEO",
+    "population": 296360,
+    "state_type": "incorporated"
+  },
+  "BAV::STATE_BAVARIA": {
+    "tag": "BAV",
+    "state": "STATE_BAVARIA",
+    "population": 1402004,
+    "state_type": "incorporated"
+  },
+  "BAV::STATE_SOUTH_TYROL": {
+    "tag": "BAV",
+    "state": "STATE_SOUTH_TYROL",
+    "population": 137000,
+    "state_type": "incorporated"
+  },
+  "BAV::STATE_TYROL": {
+    "tag": "BAV",
+    "state": "STATE_TYROL",
+    "population": 452304,
+    "state_type": "incorporated"
+  },
+  "BDJ::STATE_ALENTEJO": {
+    "tag": "BDJ",
+    "state": "STATE_ALENTEJO",
+    "population": 548012,
+    "state_type": "incorporated"
+  },
+  "BDJ::STATE_AL_RIF": {
+    "tag": "BDJ",
+    "state": "STATE_AL_RIF",
+    "population": 97000,
+    "state_type": "unincorporated"
+  },
+  "BDJ::STATE_AZORES": {
+    "tag": "BDJ",
+    "state": "STATE_AZORES",
+    "population": 102198,
+    "state_type": "incorporated"
+  },
+  "BDJ::STATE_EXTREMADURA": {
+    "tag": "BDJ",
+    "state": "STATE_EXTREMADURA",
+    "population": 654368,
+    "state_type": "incorporated"
+  },
+  "BDJ::STATE_GOLD_COAST": {
+    "tag": "BDJ",
+    "state": "STATE_GOLD_COAST",
+    "population": 85476,
+    "state_type": "unincorporated"
+  },
+  "BDJ::STATE_MADEIRA": {
+    "tag": "BDJ",
+    "state": "STATE_MADEIRA",
+    "population": 102198,
+    "state_type": "incorporated"
+  },
+  "BDJ::STATE_NORTH_CAROLINA": {
+    "tag": "BDJ",
+    "state": "STATE_NORTH_CAROLINA",
+    "population": 621006,
+    "state_type": "unincorporated"
+  },
+  "BDJ::STATE_PEGU": {
+    "tag": "BDJ",
+    "state": "STATE_PEGU",
+    "population": 1533,
+    "state_type": "unincorporated"
+  },
+  "BDJ::STATE_SENEGAL": {
+    "tag": "BDJ",
+    "state": "STATE_SENEGAL",
+    "population": 130792,
+    "state_type": "unincorporated"
+  },
+  "BDJ::STATE_SIERRA_LEONE": {
+    "tag": "BDJ",
+    "state": "STATE_SIERRA_LEONE",
+    "population": 25407,
+    "state_type": "unincorporated"
+  },
+  "BDJ::STATE_SOUTH_CAROLINA": {
+    "tag": "BDJ",
+    "state": "STATE_SOUTH_CAROLINA",
+    "population": 466628,
+    "state_type": "unincorporated"
+  },
+  "BEN::STATE_BENIN": {
+    "tag": "BEN",
+    "state": "STATE_BENIN",
+    "population": 1628788,
+    "state_type": "incorporated"
+  },
+  "BGD::STATE_BURGUNDY": {
+    "tag": "BGD",
+    "state": "STATE_BURGUNDY",
+    "population": 607525,
+    "state_type": "incorporated"
+  },
+  "BGL::STATE_EAST_BENGAL": {
+    "tag": "BGL",
+    "state": "STATE_EAST_BENGAL",
+    "population": 10794080,
+    "state_type": "incorporated"
+  },
+  "BGL::STATE_WEST_BENGAL": {
+    "tag": "BGL",
+    "state": "STATE_WEST_BENGAL",
+    "population": 8913366,
+    "state_type": "incorporated"
+  },
+  "BHI::STATE_MARANHAO": {
+    "tag": "BHI",
+    "state": "STATE_MARANHAO",
+    "population": 163549,
+    "state_type": "incorporated"
+  },
+  "BHI::STATE_PIAUI": {
+    "tag": "BHI",
+    "state": "STATE_PIAUI",
+    "population": 104032,
+    "state_type": "incorporated"
+  },
+  "BHW::STATE_PUNJAB": {
+    "tag": "BHW",
+    "state": "STATE_PUNJAB",
+    "population": 187286,
+    "state_type": "incorporated"
+  },
+  "BIC::STATE_BOMBAY": {
+    "tag": "BIC",
+    "state": "STATE_BOMBAY",
+    "population": 10340540,
+    "state_type": "incorporated"
+  },
+  "BIC::STATE_GUJARAT": {
+    "tag": "BIC",
+    "state": "STATE_GUJARAT",
+    "population": 4267234,
+    "state_type": "incorporated"
+  },
+  "BIC::STATE_MALWA": {
+    "tag": "BIC",
+    "state": "STATE_MALWA",
+    "population": 1970560,
+    "state_type": "incorporated"
+  },
+  "BIC::STATE_RAJPUTANA": {
+    "tag": "BIC",
+    "state": "STATE_RAJPUTANA",
+    "population": 155928,
+    "state_type": "unincorporated"
+  },
+  "BIC::STATE_SINDH": {
+    "tag": "BIC",
+    "state": "STATE_SINDH",
+    "population": 1614604,
+    "state_type": "incorporated"
+  },
+  "BIH::STATE_BIHAR": {
+    "tag": "BIH",
+    "state": "STATE_BIHAR",
+    "population": 12241119,
+    "state_type": "incorporated"
+  },
+  "BIK::STATE_RAJPUTANA": {
+    "tag": "BIK",
+    "state": "STATE_RAJPUTANA",
+    "population": 377748,
+    "state_type": "incorporated"
+  },
+  "BLF::STATE_ALBERTA": {
+    "tag": "BLF",
+    "state": "STATE_ALBERTA",
+    "population": 24300,
+    "state_type": "incorporated"
+  },
+  "BLF::STATE_MONTANA": {
+    "tag": "BLF",
+    "state": "STATE_MONTANA",
+    "population": 17500,
+    "state_type": "incorporated"
+  },
+  "BNE::STATE_WEST_SWITZERLAND": {
+    "tag": "BNE",
+    "state": "STATE_WEST_SWITZERLAND",
+    "population": 228134,
+    "state_type": "incorporated"
+  },
+  "BNN::STATE_IDAHO": {
+    "tag": "BNN",
+    "state": "STATE_IDAHO",
+    "population": 25000,
+    "state_type": "incorporated"
+  },
+  "BNN::STATE_NEVADA": {
+    "tag": "BNN",
+    "state": "STATE_NEVADA",
+    "population": 7500,
+    "state_type": "incorporated"
+  },
+  "BNN::STATE_UTAH": {
+    "tag": "BNN",
+    "state": "STATE_UTAH",
+    "population": 2500,
+    "state_type": "incorporated"
+  },
+  "BNN::STATE_WYOMING": {
+    "tag": "BNN",
+    "state": "STATE_WYOMING",
+    "population": 15000,
+    "state_type": "incorporated"
+  },
+  "BOH::STATE_BOHEMIA": {
+    "tag": "BOH",
+    "state": "STATE_BOHEMIA",
+    "population": 3040412,
+    "state_type": "incorporated"
+  },
+  "BOH::STATE_MORAVIA": {
+    "tag": "BOH",
+    "state": "STATE_MORAVIA",
+    "population": 1274408,
+    "state_type": "incorporated"
+  },
+  "BOL::STATE_ACRE": {
+    "tag": "BOL",
+    "state": "STATE_ACRE",
+    "population": 20350,
+    "state_type": "incorporated"
+  },
+  "BOL::STATE_AMAZONAS": {
+    "tag": "BOL",
+    "state": "STATE_AMAZONAS",
+    "population": 26210,
+    "state_type": "unincorporated"
+  },
+  "BOS::STATE_BOSNIA": {
+    "tag": "BOS",
+    "state": "STATE_BOSNIA",
+    "population": 365908,
+    "state_type": "incorporated"
+  },
+  "BOU::STATE_AUVERGNE_LIMOUSIN": {
+    "tag": "BOU",
+    "state": "STATE_AUVERGNE_LIMOUSIN",
+    "population": 198831,
+    "state_type": "incorporated"
+  },
+  "BRC::STATE_BEIRA": {
+    "tag": "BRC",
+    "state": "STATE_BEIRA",
+    "population": 1106122,
+    "state_type": "incorporated"
+  },
+  "BRG::STATE_HAUSALAND": {
+    "tag": "BRG",
+    "state": "STATE_HAUSALAND",
+    "population": 40000,
+    "state_type": "incorporated"
+  },
+  "BRR::STATE_ORLEANS": {
+    "tag": "BRR",
+    "state": "STATE_ORLEANS",
+    "population": 519493,
+    "state_type": "incorporated"
+  },
+  "BRU::STATE_NORTH_BORNEO": {
+    "tag": "BRU",
+    "state": "STATE_NORTH_BORNEO",
+    "population": 212392,
+    "state_type": "incorporated"
+  },
+  "BRY::STATE_BURYATIA": {
+    "tag": "BRY",
+    "state": "STATE_BURYATIA",
+    "population": 131020,
+    "state_type": "incorporated"
+  },
+  "BRY::STATE_IRKUTSK": {
+    "tag": "BRY",
+    "state": "STATE_IRKUTSK",
+    "population": 187560,
+    "state_type": "incorporated"
+  },
+  "BUG::STATE_UGANDA": {
+    "tag": "BUG",
+    "state": "STATE_UGANDA",
+    "population": 1361988,
+    "state_type": "incorporated"
+  },
+  "BUK::STATE_BALKH": {
+    "tag": "BUK",
+    "state": "STATE_BALKH",
+    "population": 252103,
+    "state_type": "incorporated"
+  },
+  "BUK::STATE_KHIVA": {
+    "tag": "BUK",
+    "state": "STATE_KHIVA",
+    "population": 888137,
+    "state_type": "incorporated"
+  },
+  "BUK::STATE_MERZ": {
+    "tag": "BUK",
+    "state": "STATE_MERZ",
+    "population": 230129,
+    "state_type": "incorporated"
+  },
+  "BUK::STATE_TAJIKISTAN": {
+    "tag": "BUK",
+    "state": "STATE_TAJIKISTAN",
+    "population": 530683,
+    "state_type": "incorporated"
+  },
+  "BUK::STATE_TURKMENIA": {
+    "tag": "BUK",
+    "state": "STATE_TURKMENIA",
+    "population": 372674,
+    "state_type": "incorporated"
+  },
+  "BUK::STATE_UZBEKIA": {
+    "tag": "BUK",
+    "state": "STATE_UZBEKIA",
+    "population": 955095,
+    "state_type": "incorporated"
+  },
+  "BUN::STATE_BUNDELKHAND": {
+    "tag": "BUN",
+    "state": "STATE_BUNDELKHAND",
+    "population": 770983,
+    "state_type": "incorporated"
+  },
+  "CAL::STATE_CALIFORNIA": {
+    "tag": "CAL",
+    "state": "STATE_CALIFORNIA",
+    "population": 65000,
+    "state_type": "incorporated"
+  },
+  "CAL::STATE_NEVADA": {
+    "tag": "CAL",
+    "state": "STATE_NEVADA",
+    "population": 9596,
+    "state_type": "incorporated"
+  },
+  "CAS::STATE_OLD_CASTILE": {
+    "tag": "CAS",
+    "state": "STATE_OLD_CASTILE",
+    "population": 1524098,
+    "state_type": "incorporated"
+  },
+  "CAU::STATE_ARMENIA": {
+    "tag": "CAU",
+    "state": "STATE_ARMENIA",
+    "population": 239964,
+    "state_type": "incorporated"
+  },
+  "CAU::STATE_ELIZAVETPOL": {
+    "tag": "CAU",
+    "state": "STATE_ELIZAVETPOL",
+    "population": 242195,
+    "state_type": "incorporated"
+  },
+  "CAU::STATE_GREATER_CAUCASUS": {
+    "tag": "CAU",
+    "state": "STATE_GREATER_CAUCASUS",
+    "population": 1370390,
+    "state_type": "incorporated"
+  },
+  "CAU::STATE_KARS": {
+    "tag": "CAU",
+    "state": "STATE_KARS",
+    "population": 201900,
+    "state_type": "incorporated"
+  },
+  "CCM::STATE_ARIZONA": {
+    "tag": "CCM",
+    "state": "STATE_ARIZONA",
+    "population": 6004,
+    "state_type": "incorporated"
+  },
+  "CCM::STATE_BAJA_CALIFORNIA": {
+    "tag": "CCM",
+    "state": "STATE_BAJA_CALIFORNIA",
+    "population": 24864,
+    "state_type": "incorporated"
+  },
+  "CCM::STATE_CHIHUAHUA": {
+    "tag": "CCM",
+    "state": "STATE_CHIHUAHUA",
+    "population": 127895,
+    "state_type": "incorporated"
+  },
+  "CCM::STATE_DURANGO": {
+    "tag": "CCM",
+    "state": "STATE_DURANGO",
+    "population": 109199,
+    "state_type": "incorporated"
+  },
+  "CCM::STATE_NEW_MEXICO": {
+    "tag": "CCM",
+    "state": "STATE_NEW_MEXICO",
+    "population": 22296,
+    "state_type": "incorporated"
+  },
+  "CCM::STATE_SINALOA": {
+    "tag": "CCM",
+    "state": "STATE_SINALOA",
+    "population": 90841,
+    "state_type": "incorporated"
+  },
+  "CCM::STATE_SONORA": {
+    "tag": "CCM",
+    "state": "STATE_SONORA",
+    "population": 86387,
+    "state_type": "incorporated"
+  },
+  "CHA::STATE_CHAMPAGNE": {
+    "tag": "CHA",
+    "state": "STATE_CHAMPAGNE",
+    "population": 110745,
+    "state_type": "incorporated"
+  },
+  "CHE::STATE_ARKANSAS": {
+    "tag": "CHE",
+    "state": "STATE_ARKANSAS",
+    "population": 76193,
+    "state_type": "incorporated"
+  },
+  "CHE::STATE_KENTUCKY": {
+    "tag": "CHE",
+    "state": "STATE_KENTUCKY",
+    "population": 575259,
+    "state_type": "incorporated"
+  },
+  "CHE::STATE_MISSOURI": {
+    "tag": "CHE",
+    "state": "STATE_MISSOURI",
+    "population": 149594,
+    "state_type": "incorporated"
+  },
+  "CHE::STATE_TENNESSEE": {
+    "tag": "CHE",
+    "state": "STATE_TENNESSEE",
+    "population": 574364,
+    "state_type": "incorporated"
+  },
+  "CHM::STATE_CHAMPAGNE": {
+    "tag": "CHM",
+    "state": "STATE_CHAMPAGNE",
+    "population": 441945,
+    "state_type": "incorporated"
+  },
+  "CIB::STATE_ESTREMADURA": {
+    "tag": "CIB",
+    "state": "STATE_ESTREMADURA",
+    "population": 475012,
+    "state_type": "incorporated"
+  },
+  "CIR::STATE_KUBAN": {
+    "tag": "CIR",
+    "state": "STATE_KUBAN",
+    "population": 536000,
+    "state_type": "incorporated"
+  },
+  "CIR::STATE_NORTH_CAUCASUS": {
+    "tag": "CIR",
+    "state": "STATE_NORTH_CAUCASUS",
+    "population": 159809,
+    "state_type": "incorporated"
+  },
+  "CKC::STATE_CHUKOTKA": {
+    "tag": "CKC",
+    "state": "STATE_CHUKOTKA",
+    "population": 15180,
+    "state_type": "incorporated"
+  },
+  "CMI::STATE_CHIANG_MAI": {
+    "tag": "CMI",
+    "state": "STATE_CHIANG_MAI",
+    "population": 819200,
+    "state_type": "incorporated"
+  },
+  "CNS::STATE_EASTERN_THRACE": {
+    "tag": "CNS",
+    "state": "STATE_EASTERN_THRACE",
+    "population": 367988,
+    "state_type": "incorporated"
+  },
+  "COM::STATE_COLORADO": {
+    "tag": "COM",
+    "state": "STATE_COLORADO",
+    "population": 2100,
+    "state_type": "incorporated"
+  },
+  "COM::STATE_KANSAS": {
+    "tag": "COM",
+    "state": "STATE_KANSAS",
+    "population": 5000,
+    "state_type": "incorporated"
+  },
+  "COM::STATE_NEW_MEXICO": {
+    "tag": "COM",
+    "state": "STATE_NEW_MEXICO",
+    "population": 3750,
+    "state_type": "incorporated"
+  },
+  "COM::STATE_OKLAHOMA": {
+    "tag": "COM",
+    "state": "STATE_OKLAHOMA",
+    "population": 22500,
+    "state_type": "incorporated"
+  },
+  "COM::STATE_TEXAS": {
+    "tag": "COM",
+    "state": "STATE_TEXAS",
+    "population": 26500,
+    "state_type": "incorporated"
+  },
+  "CRE::STATE_CRETE": {
+    "tag": "CRE",
+    "state": "STATE_CRETE",
+    "population": 155992,
+    "state_type": "incorporated"
+  },
+  "CRI::STATE_CRIMEA": {
+    "tag": "CRI",
+    "state": "STATE_CRIMEA",
+    "population": 194158,
+    "state_type": "incorporated"
+  },
+  "CRO::STATE_BOSNIA": {
+    "tag": "CRO",
+    "state": "STATE_BOSNIA",
+    "population": 633592,
+    "state_type": "incorporated"
+  },
+  "CRO::STATE_CROATIA": {
+    "tag": "CRO",
+    "state": "STATE_CROATIA",
+    "population": 940992,
+    "state_type": "incorporated"
+  },
+  "CRO::STATE_DALMATIA": {
+    "tag": "CRO",
+    "state": "STATE_DALMATIA",
+    "population": 456800,
+    "state_type": "incorporated"
+  },
+  "CRO::STATE_SLAVONIA": {
+    "tag": "CRO",
+    "state": "STATE_SLAVONIA",
+    "population": 422228,
+    "state_type": "incorporated"
+  },
+  "CSC::STATE_ALBERTA": {
+    "tag": "CSC",
+    "state": "STATE_ALBERTA",
+    "population": 22000,
+    "state_type": "incorporated"
+  },
+  "CSC::STATE_BRITISH_COLUMBIA": {
+    "tag": "CSC",
+    "state": "STATE_BRITISH_COLUMBIA",
+    "population": 96396,
+    "state_type": "incorporated"
+  },
+  "CTF::STATE_ILLINOIS": {
+    "tag": "CTF",
+    "state": "STATE_ILLINOIS",
+    "population": 362400,
+    "state_type": "incorporated"
+  },
+  "CTF::STATE_INDIANA": {
+    "tag": "CTF",
+    "state": "STATE_INDIANA",
+    "population": 525504,
+    "state_type": "incorporated"
+  },
+  "CTF::STATE_MICHIGAN": {
+    "tag": "CTF",
+    "state": "STATE_MICHIGAN",
+    "population": 114996,
+    "state_type": "incorporated"
+  },
+  "CTF::STATE_MINNESOTA": {
+    "tag": "CTF",
+    "state": "STATE_MINNESOTA",
+    "population": 20000,
+    "state_type": "incorporated"
+  },
+  "CTF::STATE_OHIO": {
+    "tag": "CTF",
+    "state": "STATE_OHIO",
+    "population": 1000200,
+    "state_type": "incorporated"
+  },
+  "CTF::STATE_ONTARIO": {
+    "tag": "CTF",
+    "state": "STATE_ONTARIO",
+    "population": 42596,
+    "state_type": "incorporated"
+  },
+  "CTF::STATE_WISCONSIN": {
+    "tag": "CTF",
+    "state": "STATE_WISCONSIN",
+    "population": 22404,
+    "state_type": "incorporated"
+  },
+  "CUB::STATE_CENTRAL_CUBA": {
+    "tag": "CUB",
+    "state": "STATE_CENTRAL_CUBA",
+    "population": 234918,
+    "state_type": "incorporated"
+  },
+  "CUB::STATE_EASTERN_CUBA": {
+    "tag": "CUB",
+    "state": "STATE_EASTERN_CUBA",
+    "population": 183390,
+    "state_type": "incorporated"
+  },
+  "CUB::STATE_FLORIDA": {
+    "tag": "CUB",
+    "state": "STATE_FLORIDA",
+    "population": 39213,
+    "state_type": "unincorporated"
+  },
+  "CUB::STATE_GEORGIA": {
+    "tag": "CUB",
+    "state": "STATE_GEORGIA",
+    "population": 3620,
+    "state_type": "unincorporated"
+  },
+  "CUB::STATE_GUATEMALA": {
+    "tag": "CUB",
+    "state": "STATE_GUATEMALA",
+    "population": 6498,
+    "state_type": "unincorporated"
+  },
+  "CUB::STATE_WESTERN_CUBA": {
+    "tag": "CUB",
+    "state": "STATE_WESTERN_CUBA",
+    "population": 337470,
+    "state_type": "incorporated"
+  },
+  "CUM::STATE_BESSARABIA": {
+    "tag": "CUM",
+    "state": "STATE_BESSARABIA",
+    "population": 483458,
+    "state_type": "incorporated"
+  },
+  "CUM::STATE_BUKOVINA": {
+    "tag": "CUM",
+    "state": "STATE_BUKOVINA",
+    "population": 239910,
+    "state_type": "incorporated"
+  },
+  "CUM::STATE_CHERSON": {
+    "tag": "CUM",
+    "state": "STATE_CHERSON",
+    "population": 843860,
+    "state_type": "unincorporated"
+  },
+  "CUM::STATE_EAST_GALICIA": {
+    "tag": "CUM",
+    "state": "STATE_EAST_GALICIA",
+    "population": 2411208,
+    "state_type": "incorporated"
+  },
+  "CUM::STATE_MOLDAVIA": {
+    "tag": "CUM",
+    "state": "STATE_MOLDAVIA",
+    "population": 1490829,
+    "state_type": "incorporated"
+  },
+  "CUM::STATE_NORTHERN_TRANSYLVANIA": {
+    "tag": "CUM",
+    "state": "STATE_NORTHERN_TRANSYLVANIA",
+    "population": 1035048,
+    "state_type": "incorporated"
+  },
+  "CUM::STATE_PEGU": {
+    "tag": "CUM",
+    "state": "STATE_PEGU",
+    "population": 7282,
+    "state_type": "unincorporated"
+  },
+  "CUM::STATE_RUTHENIA": {
+    "tag": "CUM",
+    "state": "STATE_RUTHENIA",
+    "population": 312745,
+    "state_type": "incorporated"
+  },
+  "CYP::STATE_CYPRUS": {
+    "tag": "CYP",
+    "state": "STATE_CYPRUS",
+    "population": 168665,
+    "state_type": "incorporated"
+  },
+  "DAG::STATE_DAGESTAN": {
+    "tag": "DAG",
+    "state": "STATE_DAGESTAN",
+    "population": 345529,
+    "state_type": "incorporated"
+  },
+  "DAG::STATE_NORTH_CAUCASUS": {
+    "tag": "DAG",
+    "state": "STATE_NORTH_CAUCASUS",
+    "population": 186569,
+    "state_type": "incorporated"
+  },
+  "DAH::STATE_DAHOMEY": {
+    "tag": "DAH",
+    "state": "STATE_DAHOMEY",
+    "population": 402812,
+    "state_type": "incorporated"
+  },
+  "DEI::STATE_CENTRAL_JAVA": {
+    "tag": "DEI",
+    "state": "STATE_CENTRAL_JAVA",
+    "population": 2175528,
+    "state_type": "incorporated"
+  },
+  "DEI::STATE_MALAYA": {
+    "tag": "DEI",
+    "state": "STATE_MALAYA",
+    "population": 67000,
+    "state_type": "unincorporated"
+  },
+  "DEI::STATE_NORTH_SUMATRA": {
+    "tag": "DEI",
+    "state": "STATE_NORTH_SUMATRA",
+    "population": 615019,
+    "state_type": "incorporated"
+  },
+  "DEI::STATE_SOUTH_SUMATRA": {
+    "tag": "DEI",
+    "state": "STATE_SOUTH_SUMATRA",
+    "population": 132816,
+    "state_type": "incorporated"
+  },
+  "DEI::STATE_WEST_JAVA": {
+    "tag": "DEI",
+    "state": "STATE_WEST_JAVA",
+    "population": 3893212,
+    "state_type": "incorporated"
+  },
+  "DEN::STATE_ZEALAND": {
+    "tag": "DEN",
+    "state": "STATE_ZEALAND",
+    "population": 480396,
+    "state_type": "incorporated"
+  },
+  "DES::STATE_ARIZONA": {
+    "tag": "DES",
+    "state": "STATE_ARIZONA",
+    "population": 4000,
+    "state_type": "incorporated"
+  },
+  "DES::STATE_NEVADA": {
+    "tag": "DES",
+    "state": "STATE_NEVADA",
+    "population": 27500,
+    "state_type": "incorporated"
+  },
+  "DES::STATE_UTAH": {
+    "tag": "DES",
+    "state": "STATE_UTAH",
+    "population": 3750,
+    "state_type": "incorporated"
+  },
+  "DFR::STATE_DARFUR": {
+    "tag": "DFR",
+    "state": "STATE_DARFUR",
+    "population": 285992,
+    "state_type": "incorporated"
+  },
+  "DFR::STATE_KORDOFAN": {
+    "tag": "DFR",
+    "state": "STATE_KORDOFAN",
+    "population": 580808,
+    "state_type": "incorporated"
+  },
+  "DFT::STATE_EQUATORIA": {
+    "tag": "DFT",
+    "state": "STATE_EQUATORIA",
+    "population": 944604,
+    "state_type": "incorporated"
+  },
+  "DFT::STATE_UBANGI_SHARI": {
+    "tag": "DFT",
+    "state": "STATE_UBANGI_SHARI",
+    "population": 324600,
+    "state_type": "incorporated"
+  },
+  "DKT::STATE_IOWA": {
+    "tag": "DKT",
+    "state": "STATE_IOWA",
+    "population": 31192,
+    "state_type": "incorporated"
+  },
+  "DKT::STATE_MINNESOTA": {
+    "tag": "DKT",
+    "state": "STATE_MINNESOTA",
+    "population": 27500,
+    "state_type": "incorporated"
+  },
+  "DKT::STATE_MISSOURI": {
+    "tag": "DKT",
+    "state": "STATE_MISSOURI",
+    "population": 141846,
+    "state_type": "incorporated"
+  },
+  "DKT::STATE_NORTH_DAKOTA": {
+    "tag": "DKT",
+    "state": "STATE_NORTH_DAKOTA",
+    "population": 41500,
+    "state_type": "incorporated"
+  },
+  "DKT::STATE_SOUTH_DAKOTA": {
+    "tag": "DKT",
+    "state": "STATE_SOUTH_DAKOTA",
+    "population": 42500,
+    "state_type": "incorporated"
+  },
+  "ECU::STATE_CAUCA": {
+    "tag": "ECU",
+    "state": "STATE_CAUCA",
+    "population": 217400,
+    "state_type": "incorporated"
+  },
+  "ECU::STATE_ECUADOR": {
+    "tag": "ECU",
+    "state": "STATE_ECUADOR",
+    "population": 968496,
+    "state_type": "incorporated"
+  },
+  "EPH::STATE_AYDIN": {
+    "tag": "EPH",
+    "state": "STATE_AYDIN",
+    "population": 1123276,
+    "state_type": "incorporated"
+  },
+  "EPH::STATE_HUDAVENDIGAR": {
+    "tag": "EPH",
+    "state": "STATE_HUDAVENDIGAR",
+    "population": 1206367,
+    "state_type": "incorporated"
+  },
+  "EPI::STATE_ATTICA": {
+    "tag": "EPI",
+    "state": "STATE_ATTICA",
+    "population": 637592,
+    "state_type": "incorporated"
+  },
+  "EPI::STATE_THESSALIA": {
+    "tag": "EPI",
+    "state": "STATE_THESSALIA",
+    "population": 951696,
+    "state_type": "incorporated"
+  },
+  "EQT::STATE_CEARA": {
+    "tag": "EQT",
+    "state": "STATE_CEARA",
+    "population": 240451,
+    "state_type": "incorporated"
+  },
+  "EQT::STATE_PARAIBA": {
+    "tag": "EQT",
+    "state": "STATE_PARAIBA",
+    "population": 151064,
+    "state_type": "incorporated"
+  },
+  "EQT::STATE_PERNAMBUCO": {
+    "tag": "EQT",
+    "state": "STATE_PERNAMBUCO",
+    "population": 788769,
+    "state_type": "incorporated"
+  },
+  "EQT::STATE_RIO_GRANDE_DO_NORTE": {
+    "tag": "EQT",
+    "state": "STATE_RIO_GRANDE_DO_NORTE",
+    "population": 98648,
+    "state_type": "incorporated"
+  },
+  "EZO::STATE_HOKKAIDO": {
+    "tag": "EZO",
+    "state": "STATE_HOKKAIDO",
+    "population": 61433,
+    "state_type": "incorporated"
+  },
+  "EZO::STATE_KAMCHATKA": {
+    "tag": "EZO",
+    "state": "STATE_KAMCHATKA",
+    "population": 3413,
+    "state_type": "unincorporated"
+  },
+  "EZO::STATE_OUTER_MANCHURIA": {
+    "tag": "EZO",
+    "state": "STATE_OUTER_MANCHURIA",
+    "population": 8733,
+    "state_type": "unincorporated"
+  },
+  "EZO::STATE_SAKHALIN": {
+    "tag": "EZO",
+    "state": "STATE_SAKHALIN",
+    "population": 45635,
+    "state_type": "incorporated"
+  },
+  "EZO::STATE_TOHOKU": {
+    "tag": "EZO",
+    "state": "STATE_TOHOKU",
+    "population": 32035,
+    "state_type": "unincorporated"
+  },
+  "FER::STATE_TRANS_BAIKAL": {
+    "tag": "FER",
+    "state": "STATE_TRANS_BAIKAL",
+    "population": 163111,
+    "state_type": "incorporated"
+  },
+  "FIN::STATE_EAST_KARELIA": {
+    "tag": "FIN",
+    "state": "STATE_EAST_KARELIA",
+    "population": 91636,
+    "state_type": "incorporated"
+  },
+  "FIN::STATE_INGRIA": {
+    "tag": "FIN",
+    "state": "STATE_INGRIA",
+    "population": 758228,
+    "state_type": "incorporated"
+  },
+  "FIN::STATE_KUOPIO": {
+    "tag": "FIN",
+    "state": "STATE_KUOPIO",
+    "population": 242939,
+    "state_type": "incorporated"
+  },
+  "FIN::STATE_NOVGOROD": {
+    "tag": "FIN",
+    "state": "STATE_NOVGOROD",
+    "population": 330342,
+    "state_type": "incorporated"
+  },
+  "FIN::STATE_OSTROBOTHNIA": {
+    "tag": "FIN",
+    "state": "STATE_OSTROBOTHNIA",
+    "population": 116042,
+    "state_type": "incorporated"
+  },
+  "FIN::STATE_OULU": {
+    "tag": "FIN",
+    "state": "STATE_OULU",
+    "population": 94500,
+    "state_type": "incorporated"
+  },
+  "FIN::STATE_TALINN": {
+    "tag": "FIN",
+    "state": "STATE_TALINN",
+    "population": 256840,
+    "state_type": "incorporated"
+  },
+  "FIN::STATE_TRAVANCORE": {
+    "tag": "FIN",
+    "state": "STATE_TRAVANCORE",
+    "population": 446451,
+    "state_type": "unincorporated"
+  },
+  "FIN::STATE_UUSIMAA": {
+    "tag": "FIN",
+    "state": "STATE_UUSIMAA",
+    "population": 349941,
+    "state_type": "incorporated"
+  },
+  "FIN::STATE_WEST_KARELIA": {
+    "tag": "FIN",
+    "state": "STATE_WEST_KARELIA",
+    "population": 205000,
+    "state_type": "incorporated"
+  },
+  "FLA::STATE_BOMBAY": {
+    "tag": "FLA",
+    "state": "STATE_BOMBAY",
+    "population": 446391,
+    "state_type": "unincorporated"
+  },
+  "FLA::STATE_FLANDERS": {
+    "tag": "FLA",
+    "state": "STATE_FLANDERS",
+    "population": 1527887,
+    "state_type": "incorporated"
+  },
+  "FLA::STATE_FRENCH_LOW_COUNTRIES": {
+    "tag": "FLA",
+    "state": "STATE_FRENCH_LOW_COUNTRIES",
+    "population": 1291071,
+    "state_type": "incorporated"
+  },
+  "FLA::STATE_GELRE": {
+    "tag": "FLA",
+    "state": "STATE_GELRE",
+    "population": 513368,
+    "state_type": "incorporated"
+  },
+  "FLA::STATE_GOLD_COAST": {
+    "tag": "FLA",
+    "state": "STATE_GOLD_COAST",
+    "population": 54744,
+    "state_type": "unincorporated"
+  },
+  "FLA::STATE_HOLLAND": {
+    "tag": "FLA",
+    "state": "STATE_HOLLAND",
+    "population": 1055464,
+    "state_type": "incorporated"
+  },
+  "FLA::STATE_NORTH_RHINE": {
+    "tag": "FLA",
+    "state": "STATE_NORTH_RHINE",
+    "population": 807728,
+    "state_type": "incorporated"
+  },
+  "FLA::STATE_RHINELAND": {
+    "tag": "FLA",
+    "state": "STATE_RHINELAND",
+    "population": 756392,
+    "state_type": "incorporated"
+  },
+  "FLA::STATE_SOUTH_ANGOLA": {
+    "tag": "FLA",
+    "state": "STATE_SOUTH_ANGOLA",
+    "population": 208004,
+    "state_type": "unincorporated"
+  },
+  "FLA::STATE_WALLONIA": {
+    "tag": "FLA",
+    "state": "STATE_WALLONIA",
+    "population": 1133407,
+    "state_type": "incorporated"
+  },
+  "FON::STATE_ILE_DE_FRANCE": {
+    "tag": "FON",
+    "state": "STATE_ILE_DE_FRANCE",
+    "population": 365454,
+    "state_type": "incorporated"
+  },
+  "FRC::STATE_FRANCHE_COMTE": {
+    "tag": "FRC",
+    "state": "STATE_FRANCHE_COMTE",
+    "population": 742927,
+    "state_type": "incorporated"
+  },
+  "FSA::STATE_CONNECTICUT": {
+    "tag": "FSA",
+    "state": "STATE_CONNECTICUT",
+    "population": 159228,
+    "state_type": "unincorporated"
+  },
+  "FSA::STATE_DELAWARE": {
+    "tag": "FSA",
+    "state": "STATE_DELAWARE",
+    "population": 81124,
+    "state_type": "incorporated"
+  },
+  "FSA::STATE_MASSACHUSETTS": {
+    "tag": "FSA",
+    "state": "STATE_MASSACHUSETTS",
+    "population": 684284,
+    "state_type": "unincorporated"
+  },
+  "FSA::STATE_NEW_HAMPSHIRE": {
+    "tag": "FSA",
+    "state": "STATE_NEW_HAMPSHIRE",
+    "population": 234300,
+    "state_type": "unincorporated"
+  },
+  "FSA::STATE_NEW_JERSEY": {
+    "tag": "FSA",
+    "state": "STATE_NEW_JERSEY",
+    "population": 286192,
+    "state_type": "unincorporated"
+  },
+  "FSA::STATE_NEW_YORK": {
+    "tag": "FSA",
+    "state": "STATE_NEW_YORK",
+    "population": 1751004,
+    "state_type": "unincorporated"
+  },
+  "FSA::STATE_PENNSYLVANIA": {
+    "tag": "FSA",
+    "state": "STATE_PENNSYLVANIA",
+    "population": 1204304,
+    "state_type": "incorporated"
+  },
+  "FSA::STATE_RHODE_ISLAND": {
+    "tag": "FSA",
+    "state": "STATE_RHODE_ISLAND",
+    "population": 832820,
+    "state_type": "unincorporated"
+  },
+  "FSA::STATE_VERMONT": {
+    "tag": "FSA",
+    "state": "STATE_VERMONT",
+    "population": 226848,
+    "state_type": "unincorporated"
+  },
+  "FTJ::STATE_GUINEA": {
+    "tag": "FTJ",
+    "state": "STATE_GUINEA",
+    "population": 391360,
+    "state_type": "incorporated"
+  },
+  "FTR::STATE_SENEGAL": {
+    "tag": "FTR",
+    "state": "STATE_SENEGAL",
+    "population": 92400,
+    "state_type": "incorporated"
+  },
+  "FZN::STATE_LIBYAN_DESERT": {
+    "tag": "FZN",
+    "state": "STATE_LIBYAN_DESERT",
+    "population": 86500,
+    "state_type": "incorporated"
+  },
+  "GAO::STATE_TIMBUKTU": {
+    "tag": "GAO",
+    "state": "STATE_TIMBUKTU",
+    "population": 287400,
+    "state_type": "incorporated"
+  },
+  "GEN::STATE_WEST_SWITZERLAND": {
+    "tag": "GEN",
+    "state": "STATE_WEST_SWITZERLAND",
+    "population": 213752,
+    "state_type": "incorporated"
+  },
+  "GLI::STATE_ENTRE_DOURO_E_MINHO": {
+    "tag": "GLI",
+    "state": "STATE_ENTRE_DOURO_E_MINHO",
+    "population": 1443012,
+    "state_type": "incorporated"
+  },
+  "GML::STATE_NEW_SOUTH_WALES": {
+    "tag": "GML",
+    "state": "STATE_NEW_SOUTH_WALES",
+    "population": 61384,
+    "state_type": "incorporated"
+  },
+  "GNI::STATE_ALTO_PARAGUAY": {
+    "tag": "GNI",
+    "state": "STATE_ALTO_PARAGUAY",
+    "population": 13800,
+    "state_type": "incorporated"
+  },
+  "GNI::STATE_BAJO_PARAGUAY": {
+    "tag": "GNI",
+    "state": "STATE_BAJO_PARAGUAY",
+    "population": 280886,
+    "state_type": "incorporated"
+  },
+  "GNI::STATE_CHACO": {
+    "tag": "GNI",
+    "state": "STATE_CHACO",
+    "population": 57854,
+    "state_type": "incorporated"
+  },
+  "GNI::STATE_CORRIENTES": {
+    "tag": "GNI",
+    "state": "STATE_CORRIENTES",
+    "population": 126462,
+    "state_type": "incorporated"
+  },
+  "GNI::STATE_MATO_GROSSO": {
+    "tag": "GNI",
+    "state": "STATE_MATO_GROSSO",
+    "population": 31700,
+    "state_type": "incorporated"
+  },
+  "GNI::STATE_SANTA_FE": {
+    "tag": "GNI",
+    "state": "STATE_SANTA_FE",
+    "population": 10000,
+    "state_type": "incorporated"
+  },
+  "GOT::STATE_ALAND": {
+    "tag": "GOT",
+    "state": "STATE_ALAND",
+    "population": 21800,
+    "state_type": "incorporated"
+  },
+  "GOT::STATE_GOTALAND": {
+    "tag": "GOT",
+    "state": "STATE_GOTALAND",
+    "population": 6750,
+    "state_type": "incorporated"
+  },
+  "GOT::STATE_GOTLAND": {
+    "tag": "GOT",
+    "state": "STATE_GOTLAND",
+    "population": 24908,
+    "state_type": "incorporated"
+  },
+  "GOT::STATE_TALINN": {
+    "tag": "GOT",
+    "state": "STATE_TALINN",
+    "population": 169434,
+    "state_type": "incorporated"
+  },
+  "GOT::STATE_UUSIMAA": {
+    "tag": "GOT",
+    "state": "STATE_UUSIMAA",
+    "population": 81334,
+    "state_type": "incorporated"
+  },
+  "GOT::STATE_ZEALAND": {
+    "tag": "GOT",
+    "state": "STATE_ZEALAND",
+    "population": 15996,
+    "state_type": "incorporated"
+  },
+  "GRI::STATE_MATO_GROSSO": {
+    "tag": "GRI",
+    "state": "STATE_MATO_GROSSO",
+    "population": 85000,
+    "state_type": "incorporated"
+  },
+  "GRN::STATE_GREENLAND": {
+    "tag": "GRN",
+    "state": "STATE_GREENLAND",
+    "population": 9664,
+    "state_type": "incorporated"
+  },
+  "GUG::STATE_NGARI": {
+    "tag": "GUG",
+    "state": "STATE_NGARI",
+    "population": 560000,
+    "state_type": "incorporated"
+  },
+  "GWA::STATE_RAJPUTANA": {
+    "tag": "GWA",
+    "state": "STATE_RAJPUTANA",
+    "population": 27779,
+    "state_type": "incorporated"
+  },
+  "HAI::STATE_BOLIVAR": {
+    "tag": "HAI",
+    "state": "STATE_BOLIVAR",
+    "population": 39630,
+    "state_type": "unincorporated"
+  },
+  "HAI::STATE_HAITI": {
+    "tag": "HAI",
+    "state": "STATE_HAITI",
+    "population": 845090,
+    "state_type": "incorporated"
+  },
+  "HAI::STATE_JAMAICA": {
+    "tag": "HAI",
+    "state": "STATE_JAMAICA",
+    "population": 23040,
+    "state_type": "incorporated"
+  },
+  "HAI::STATE_NICARAGUA": {
+    "tag": "HAI",
+    "state": "STATE_NICARAGUA",
+    "population": 37500,
+    "state_type": "unincorporated"
+  },
+  "HAI::STATE_PANAMA": {
+    "tag": "HAI",
+    "state": "STATE_PANAMA",
+    "population": 119392,
+    "state_type": "unincorporated"
+  },
+  "HAI::STATE_PUERTO_RICO": {
+    "tag": "HAI",
+    "state": "STATE_PUERTO_RICO",
+    "population": 174304,
+    "state_type": "incorporated"
+  },
+  "HAI::STATE_SANTO_DOMINGO": {
+    "tag": "HAI",
+    "state": "STATE_SANTO_DOMINGO",
+    "population": 29891,
+    "state_type": "incorporated"
+  },
+  "HAI::STATE_WEST_INDIES": {
+    "tag": "HAI",
+    "state": "STATE_WEST_INDIES",
+    "population": 60896,
+    "state_type": "incorporated"
+  },
+  "HAI::STATE_ZULIA": {
+    "tag": "HAI",
+    "state": "STATE_ZULIA",
+    "population": 98308,
+    "state_type": "unincorporated"
+  },
+  "HAU::STATE_OUTER_HAUSALAND": {
+    "tag": "HAU",
+    "state": "STATE_OUTER_HAUSALAND",
+    "population": 383137,
+    "state_type": "incorporated"
+  },
+  "HDJ::STATE_HAIL": {
+    "tag": "HDJ",
+    "state": "STATE_HAIL",
+    "population": 42096,
+    "state_type": "incorporated"
+  },
+  "HDJ::STATE_HEDJAZ": {
+    "tag": "HDJ",
+    "state": "STATE_HEDJAZ",
+    "population": 438100,
+    "state_type": "incorporated"
+  },
+  "HDJ::STATE_NEJD": {
+    "tag": "HDJ",
+    "state": "STATE_NEJD",
+    "population": 113596,
+    "state_type": "incorporated"
+  },
+  "HNA::STATE_EASTERN_HUBEI": {
+    "tag": "HNA",
+    "state": "STATE_EASTERN_HUBEI",
+    "population": 11684896,
+    "state_type": "incorporated"
+  },
+  "HNA::STATE_FUJIAN": {
+    "tag": "HNA",
+    "state": "STATE_FUJIAN",
+    "population": 10344424,
+    "state_type": "incorporated"
+  },
+  "HNA::STATE_HUNAN": {
+    "tag": "HNA",
+    "state": "STATE_HUNAN",
+    "population": 11799992,
+    "state_type": "incorporated"
+  },
+  "HNA::STATE_JIANGXI": {
+    "tag": "HNA",
+    "state": "STATE_JIANGXI",
+    "population": 21713496,
+    "state_type": "incorporated"
+  },
+  "HNA::STATE_NANJING": {
+    "tag": "HNA",
+    "state": "STATE_NANJING",
+    "population": 9512284,
+    "state_type": "incorporated"
+  },
+  "HNA::STATE_SOUTHERN_ANHUI": {
+    "tag": "HNA",
+    "state": "STATE_SOUTHERN_ANHUI",
+    "population": 19332408,
+    "state_type": "incorporated"
+  },
+  "HNA::STATE_SUZHOU": {
+    "tag": "HNA",
+    "state": "STATE_SUZHOU",
+    "population": 15472008,
+    "state_type": "incorporated"
+  },
+  "HNA::STATE_WESTERN_HUBEI": {
+    "tag": "HNA",
+    "state": "STATE_WESTERN_HUBEI",
+    "population": 11530000,
+    "state_type": "incorporated"
+  },
+  "HNA::STATE_ZHEJIANG": {
+    "tag": "HNA",
+    "state": "STATE_ZHEJIANG",
+    "population": 8543000,
+    "state_type": "incorporated"
+  },
+  "HON::STATE_HONDURAS": {
+    "tag": "HON",
+    "state": "STATE_HONDURAS",
+    "population": 350204,
+    "state_type": "incorporated"
+  },
+  "HON::STATE_SAN_SALVADOR": {
+    "tag": "HON",
+    "state": "STATE_SAN_SALVADOR",
+    "population": 385204,
+    "state_type": "incorporated"
+  },
+  "HRE::STATE_ANHALT": {
+    "tag": "HRE",
+    "state": "STATE_ANHALT",
+    "population": 1109392,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_BRANDENBURG": {
+    "tag": "HRE",
+    "state": "STATE_BRANDENBURG",
+    "population": 1241504,
+    "state_type": "incorporated"
+  },
+  "HRE::STATE_BRUNSWICK": {
+    "tag": "HRE",
+    "state": "STATE_BRUNSWICK",
+    "population": 296400,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_ELBE": {
+    "tag": "HRE",
+    "state": "STATE_ELBE",
+    "population": 579788,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_FRANCONIA": {
+    "tag": "HRE",
+    "state": "STATE_FRANCONIA",
+    "population": 1616192,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_GREATER_POLAND": {
+    "tag": "HRE",
+    "state": "STATE_GREATER_POLAND",
+    "population": 2188291,
+    "state_type": "incorporated"
+  },
+  "HRE::STATE_HANNOVER": {
+    "tag": "HRE",
+    "state": "STATE_HANNOVER",
+    "population": 1150208,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_HESSE": {
+    "tag": "HRE",
+    "state": "STATE_HESSE",
+    "population": 1920636,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_JUTLAND": {
+    "tag": "HRE",
+    "state": "STATE_JUTLAND",
+    "population": 423816,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_LOWER_SILESIA": {
+    "tag": "HRE",
+    "state": "STATE_LOWER_SILESIA",
+    "population": 538987,
+    "state_type": "incorporated"
+  },
+  "HRE::STATE_MECKLENBURG": {
+    "tag": "HRE",
+    "state": "STATE_MECKLENBURG",
+    "population": 457000,
+    "state_type": "incorporated"
+  },
+  "HRE::STATE_MORAVIA": {
+    "tag": "HRE",
+    "state": "STATE_MORAVIA",
+    "population": 0,
+    "state_type": "incorporated"
+  },
+  "HRE::STATE_NEWFOUNDLAND": {
+    "tag": "HRE",
+    "state": "STATE_NEWFOUNDLAND",
+    "population": 39986,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_NUNAVUT": {
+    "tag": "HRE",
+    "state": "STATE_NUNAVUT",
+    "population": 14980,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_POMERANIA": {
+    "tag": "HRE",
+    "state": "STATE_POMERANIA",
+    "population": 897800,
+    "state_type": "incorporated"
+  },
+  "HRE::STATE_POSEN": {
+    "tag": "HRE",
+    "state": "STATE_POSEN",
+    "population": 1394764,
+    "state_type": "incorporated"
+  },
+  "HRE::STATE_RUHR": {
+    "tag": "HRE",
+    "state": "STATE_RUHR",
+    "population": 680288,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_SAXONY": {
+    "tag": "HRE",
+    "state": "STATE_SAXONY",
+    "population": 1788982,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_SCHLESWIG_HOLSTEIN": {
+    "tag": "HRE",
+    "state": "STATE_SCHLESWIG_HOLSTEIN",
+    "population": 502404,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_SENEGAL": {
+    "tag": "HRE",
+    "state": "STATE_SENEGAL",
+    "population": 1580,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_SOUTH_ATLANTIC_ISLANDS": {
+    "tag": "HRE",
+    "state": "STATE_SOUTH_ATLANTIC_ISLANDS",
+    "population": 8140,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_UPPER_SILESIA": {
+    "tag": "HRE",
+    "state": "STATE_UPPER_SILESIA",
+    "population": 813986,
+    "state_type": "incorporated"
+  },
+  "HRE::STATE_WESTPHALIA": {
+    "tag": "HRE",
+    "state": "STATE_WESTPHALIA",
+    "population": 922830,
+    "state_type": "unincorporated"
+  },
+  "HRE::STATE_WEST_GALICIA": {
+    "tag": "HRE",
+    "state": "STATE_WEST_GALICIA",
+    "population": 0,
+    "state_type": "incorporated"
+  },
+  "HRE::STATE_WEST_PRUSSIA": {
+    "tag": "HRE",
+    "state": "STATE_WEST_PRUSSIA",
+    "population": 561004,
+    "state_type": "incorporated"
+  },
+  "HRE::STATE_ZEALAND": {
+    "tag": "HRE",
+    "state": "STATE_ZEALAND",
+    "population": 19296,
+    "state_type": "unincorporated"
+  },
+  "HRO::STATE_HEREROLAND": {
+    "tag": "HRO",
+    "state": "STATE_HEREROLAND",
+    "population": 185036,
+    "state_type": "incorporated"
+  },
+  "HRO::STATE_NAMAQUALAND": {
+    "tag": "HRO",
+    "state": "STATE_NAMAQUALAND",
+    "population": 58400,
+    "state_type": "incorporated"
+  },
+  "HTH::STATE_ARAKAN": {
+    "tag": "HTH",
+    "state": "STATE_ARAKAN",
+    "population": 194204,
+    "state_type": "incorporated"
+  },
+  "HTH::STATE_BANGKOK": {
+    "tag": "HTH",
+    "state": "STATE_BANGKOK",
+    "population": 1592804,
+    "state_type": "incorporated"
+  },
+  "HTH::STATE_CAMBODIA": {
+    "tag": "HTH",
+    "state": "STATE_CAMBODIA",
+    "population": 767796,
+    "state_type": "incorporated"
+  },
+  "HTH::STATE_EAST_BENGAL": {
+    "tag": "HTH",
+    "state": "STATE_EAST_BENGAL",
+    "population": 6420102,
+    "state_type": "unincorporated"
+  },
+  "HTH::STATE_MANDALAY": {
+    "tag": "HTH",
+    "state": "STATE_MANDALAY",
+    "population": 916946,
+    "state_type": "incorporated"
+  },
+  "HTH::STATE_NAKHON_RATCHASIMA": {
+    "tag": "HTH",
+    "state": "STATE_NAKHON_RATCHASIMA",
+    "population": 1064312,
+    "state_type": "incorporated"
+  },
+  "HTH::STATE_PEGU": {
+    "tag": "HTH",
+    "state": "STATE_PEGU",
+    "population": 1129644,
+    "state_type": "incorporated"
+  },
+  "HTH::STATE_TENASSERIM": {
+    "tag": "HTH",
+    "state": "STATE_TENASSERIM",
+    "population": 485900,
+    "state_type": "incorporated"
+  },
+  "HUB::STATE_WEST_SWITZERLAND": {
+    "tag": "HUB",
+    "state": "STATE_WEST_SWITZERLAND",
+    "population": 171630,
+    "state_type": "incorporated"
+  },
+  "HUN::STATE_BANAT": {
+    "tag": "HUN",
+    "state": "STATE_BANAT",
+    "population": 1100660,
+    "state_type": "incorporated"
+  },
+  "HUN::STATE_BEKES": {
+    "tag": "HUN",
+    "state": "STATE_BEKES",
+    "population": 1467492,
+    "state_type": "incorporated"
+  },
+  "HUN::STATE_CENTRAL_HUNGARY": {
+    "tag": "HUN",
+    "state": "STATE_CENTRAL_HUNGARY",
+    "population": 1194988,
+    "state_type": "incorporated"
+  },
+  "HUN::STATE_DELVIDEK": {
+    "tag": "HUN",
+    "state": "STATE_DELVIDEK",
+    "population": 704396,
+    "state_type": "incorporated"
+  },
+  "HUN::STATE_TRANSDANUBIA": {
+    "tag": "HUN",
+    "state": "STATE_TRANSDANUBIA",
+    "population": 2085392,
+    "state_type": "incorporated"
+  },
+  "HYD::STATE_HYDERABAD": {
+    "tag": "HYD",
+    "state": "STATE_HYDERABAD",
+    "population": 7939837,
+    "state_type": "incorporated"
+  },
+  "IND::STATE_RAJPUTANA": {
+    "tag": "IND",
+    "state": "STATE_RAJPUTANA",
+    "population": 31033,
+    "state_type": "incorporated"
+  },
+  "IQU::STATE_AREQUIPA": {
+    "tag": "IQU",
+    "state": "STATE_AREQUIPA",
+    "population": 263900,
+    "state_type": "incorporated"
+  },
+  "IQU::STATE_ICA": {
+    "tag": "IQU",
+    "state": "STATE_ICA",
+    "population": 396708,
+    "state_type": "incorporated"
+  },
+  "IQU::STATE_TARAPACA": {
+    "tag": "IQU",
+    "state": "STATE_TARAPACA",
+    "population": 48100,
+    "state_type": "incorporated"
+  },
+  "IRC::STATE_ALBERTA": {
+    "tag": "IRC",
+    "state": "STATE_ALBERTA",
+    "population": 27004,
+    "state_type": "incorporated"
+  },
+  "IRC::STATE_MANITOBA": {
+    "tag": "IRC",
+    "state": "STATE_MANITOBA",
+    "population": 15000,
+    "state_type": "incorporated"
+  },
+  "IRC::STATE_SASKATCHEWAN": {
+    "tag": "IRC",
+    "state": "STATE_SASKATCHEWAN",
+    "population": 38000,
+    "state_type": "incorporated"
+  },
+  "IRO::STATE_NEW_YORK": {
+    "tag": "IRO",
+    "state": "STATE_NEW_YORK",
+    "population": 31996,
+    "state_type": "incorporated"
+  },
+  "ITA::STATE_ABRUZZO": {
+    "tag": "ITA",
+    "state": "STATE_ABRUZZO",
+    "population": 792448,
+    "state_type": "incorporated"
+  },
+  "ITA::STATE_APULIA": {
+    "tag": "ITA",
+    "state": "STATE_APULIA",
+    "population": 1544392,
+    "state_type": "incorporated"
+  },
+  "ITA::STATE_CALABRIA": {
+    "tag": "ITA",
+    "state": "STATE_CALABRIA",
+    "population": 1332080,
+    "state_type": "incorporated"
+  },
+  "ITA::STATE_CAMPANIA": {
+    "tag": "ITA",
+    "state": "STATE_CAMPANIA",
+    "population": 3067396,
+    "state_type": "incorporated"
+  },
+  "ITA::STATE_DONGOLA": {
+    "tag": "ITA",
+    "state": "STATE_DONGOLA",
+    "population": 403004,
+    "state_type": "unincorporated"
+  },
+  "ITA::STATE_EAST_AEGEAN_ISLANDS": {
+    "tag": "ITA",
+    "state": "STATE_EAST_AEGEAN_ISLANDS",
+    "population": 110584,
+    "state_type": "incorporated"
+  },
+  "ITA::STATE_LAZIO": {
+    "tag": "ITA",
+    "state": "STATE_LAZIO",
+    "population": 1609464,
+    "state_type": "incorporated"
+  },
+  "ITA::STATE_PELOPONNESE": {
+    "tag": "ITA",
+    "state": "STATE_PELOPONNESE",
+    "population": 287992,
+    "state_type": "unincorporated"
+  },
+  "ITA::STATE_SICILY": {
+    "tag": "ITA",
+    "state": "STATE_SICILY",
+    "population": 1767596,
+    "state_type": "incorporated"
+  },
+  "ITA::STATE_SISTAN": {
+    "tag": "ITA",
+    "state": "STATE_SISTAN",
+    "population": 5521,
+    "state_type": "unincorporated"
+  },
+  "ITA::STATE_UMBRIA": {
+    "tag": "ITA",
+    "state": "STATE_UMBRIA",
+    "population": 541000,
+    "state_type": "incorporated"
+  },
+  "ITA::STATE_WEST_AEGEAN_ISLANDS": {
+    "tag": "ITA",
+    "state": "STATE_WEST_AEGEAN_ISLANDS",
+    "population": 96504,
+    "state_type": "unincorporated"
+  },
+  "ITA::STATE_ZHEJIANG": {
+    "tag": "ITA",
+    "state": "STATE_ZHEJIANG",
+    "population": 310996,
+    "state_type": "unincorporated"
+  },
+  "JAI::STATE_RAJPUTANA": {
+    "tag": "JAI",
+    "state": "STATE_RAJPUTANA",
+    "population": 1821010,
+    "state_type": "incorporated"
+  },
+  "JAN::STATE_NORTHERN_NORWAY": {
+    "tag": "JAN",
+    "state": "STATE_NORTHERN_NORWAY",
+    "population": 3000,
+    "state_type": "incorporated"
+  },
+  "JAP::STATE_KANTO": {
+    "tag": "JAP",
+    "state": "STATE_KANTO",
+    "population": 4363276,
+    "state_type": "incorporated"
+  },
+  "JAP::STATE_TOHOKU": {
+    "tag": "JAP",
+    "state": "STATE_TOHOKU",
+    "population": 2821912,
+    "state_type": "incorporated"
+  },
+  "JAS::STATE_RAJPUTANA": {
+    "tag": "JAS",
+    "state": "STATE_RAJPUTANA",
+    "population": 48813,
+    "state_type": "incorporated"
+  },
+  "JHN::STATE_BUNDELKHAND": {
+    "tag": "JHN",
+    "state": "STATE_BUNDELKHAND",
+    "population": 353646,
+    "state_type": "incorporated"
+  },
+  "JOD::STATE_RAJPUTANA": {
+    "tag": "JOD",
+    "state": "STATE_RAJPUTANA",
+    "population": 1252870,
+    "state_type": "incorporated"
+  },
+  "KAM::STATE_LHASA": {
+    "tag": "KAM",
+    "state": "STATE_LHASA",
+    "population": 814000,
+    "state_type": "incorporated"
+  },
+  "KAS::STATE_KASHMIR": {
+    "tag": "KAS",
+    "state": "STATE_KASHMIR",
+    "population": 1450229,
+    "state_type": "incorporated"
+  },
+  "KAU::STATE_NEW_SOUTH_WALES": {
+    "tag": "KAU",
+    "state": "STATE_NEW_SOUTH_WALES",
+    "population": 16080,
+    "state_type": "incorporated"
+  },
+  "KAU::STATE_SOUTH_AUSTRALIA": {
+    "tag": "KAU",
+    "state": "STATE_SOUTH_AUSTRALIA",
+    "population": 61500,
+    "state_type": "incorporated"
+  },
+  "KAU::STATE_VICTORIA": {
+    "tag": "KAU",
+    "state": "STATE_VICTORIA",
+    "population": 66876,
+    "state_type": "incorporated"
+  },
+  "KBA::STATE_CONGO_ORIENTALE": {
+    "tag": "KBA",
+    "state": "STATE_CONGO_ORIENTALE",
+    "population": 1415924,
+    "state_type": "incorporated"
+  },
+  "KBA::STATE_EQUATEUR": {
+    "tag": "KBA",
+    "state": "STATE_EQUATEUR",
+    "population": 794212,
+    "state_type": "incorporated"
+  },
+  "KBA::STATE_KASAI": {
+    "tag": "KBA",
+    "state": "STATE_KASAI",
+    "population": 1190000,
+    "state_type": "incorporated"
+  },
+  "KHN::STATE_KACHIN": {
+    "tag": "KHN",
+    "state": "STATE_KACHIN",
+    "population": 541871,
+    "state_type": "incorporated"
+  },
+  "KHT::STATE_BEIJING": {
+    "tag": "KHT",
+    "state": "STATE_BEIJING",
+    "population": 12729015,
+    "state_type": "incorporated"
+  },
+  "KHT::STATE_HENAN": {
+    "tag": "KHT",
+    "state": "STATE_HENAN",
+    "population": 17836384,
+    "state_type": "incorporated"
+  },
+  "KHT::STATE_HINGGAN": {
+    "tag": "KHT",
+    "state": "STATE_HINGGAN",
+    "population": 1915417,
+    "state_type": "incorporated"
+  },
+  "KHT::STATE_JIANGSU": {
+    "tag": "KHT",
+    "state": "STATE_JIANGSU",
+    "population": 9393608,
+    "state_type": "incorporated"
+  },
+  "KHT::STATE_NORTHERN_ANHUI": {
+    "tag": "KHT",
+    "state": "STATE_NORTHERN_ANHUI",
+    "population": 9202000,
+    "state_type": "incorporated"
+  },
+  "KHT::STATE_OUTER_MANCHURIA": {
+    "tag": "KHT",
+    "state": "STATE_OUTER_MANCHURIA",
+    "population": 70200,
+    "state_type": "incorporated"
+  },
+  "KHT::STATE_SARIWON": {
+    "tag": "KHT",
+    "state": "STATE_SARIWON",
+    "population": 940067,
+    "state_type": "incorporated"
+  },
+  "KHT::STATE_SHANDONG": {
+    "tag": "KHT",
+    "state": "STATE_SHANDONG",
+    "population": 13176000,
+    "state_type": "incorporated"
+  },
+  "KHT::STATE_SHANXI": {
+    "tag": "KHT",
+    "state": "STATE_SHANXI",
+    "population": 12540084,
+    "state_type": "incorporated"
+  },
+  "KHT::STATE_SHENGJING": {
+    "tag": "KHT",
+    "state": "STATE_SHENGJING",
+    "population": 1954006,
+    "state_type": "incorporated"
+  },
+  "KHT::STATE_SOUTHERN_MANCHURIA": {
+    "tag": "KHT",
+    "state": "STATE_SOUTHERN_MANCHURIA",
+    "population": 7779196,
+    "state_type": "incorporated"
+  },
+  "KHT::STATE_URGA": {
+    "tag": "KHT",
+    "state": "STATE_URGA",
+    "population": 340996,
+    "state_type": "incorporated"
+  },
+  "KHT::STATE_ZHILI": {
+    "tag": "KHT",
+    "state": "STATE_ZHILI",
+    "population": 7103121,
+    "state_type": "incorporated"
+  },
+  "KKY::STATE_KENYA": {
+    "tag": "KKY",
+    "state": "STATE_KENYA",
+    "population": 648204,
+    "state_type": "incorporated"
+  },
+  "KLM::STATE_KALMYKIA": {
+    "tag": "KLM",
+    "state": "STATE_KALMYKIA",
+    "population": 290296,
+    "state_type": "incorporated"
+  },
+  "KLM::STATE_KHARKOV": {
+    "tag": "KLM",
+    "state": "STATE_KHARKOV",
+    "population": 2436760,
+    "state_type": "unincorporated"
+  },
+  "KLM::STATE_KUBAN": {
+    "tag": "KLM",
+    "state": "STATE_KUBAN",
+    "population": 415200,
+    "state_type": "unincorporated"
+  },
+  "KLM::STATE_KURSK": {
+    "tag": "KLM",
+    "state": "STATE_KURSK",
+    "population": 1889913,
+    "state_type": "unincorporated"
+  },
+  "KLM::STATE_ROSTOV": {
+    "tag": "KLM",
+    "state": "STATE_ROSTOV",
+    "population": 546680,
+    "state_type": "unincorporated"
+  },
+  "KLM::STATE_STAVROPOL": {
+    "tag": "KLM",
+    "state": "STATE_STAVROPOL",
+    "population": 260748,
+    "state_type": "incorporated"
+  },
+  "KLM::STATE_TAURIDA": {
+    "tag": "KLM",
+    "state": "STATE_TAURIDA",
+    "population": 1122141,
+    "state_type": "unincorporated"
+  },
+  "KMC::STATE_KAMCHATKA": {
+    "tag": "KMC",
+    "state": "STATE_KAMCHATKA",
+    "population": 2480,
+    "state_type": "incorporated"
+  },
+  "KMC::STATE_OKHOTSK": {
+    "tag": "KMC",
+    "state": "STATE_OKHOTSK",
+    "population": 12800,
+    "state_type": "incorporated"
+  },
+  "KNT::STATE_OB": {
+    "tag": "KNT",
+    "state": "STATE_OB",
+    "population": 5980,
+    "state_type": "incorporated"
+  },
+  "KNT::STATE_SURGUT": {
+    "tag": "KNT",
+    "state": "STATE_SURGUT",
+    "population": 10324,
+    "state_type": "incorporated"
+  },
+  "KON::STATE_BAS_CONGO": {
+    "tag": "KON",
+    "state": "STATE_BAS_CONGO",
+    "population": 835000,
+    "state_type": "incorporated"
+  },
+  "KON::STATE_CONGO": {
+    "tag": "KON",
+    "state": "STATE_CONGO",
+    "population": 143700,
+    "state_type": "incorporated"
+  },
+  "KON::STATE_GABON": {
+    "tag": "KON",
+    "state": "STATE_GABON",
+    "population": 299900,
+    "state_type": "incorporated"
+  },
+  "KON::STATE_NORTH_ANGOLA": {
+    "tag": "KON",
+    "state": "STATE_NORTH_ANGOLA",
+    "population": 434408,
+    "state_type": "incorporated"
+  },
+  "KOR::STATE_PYONGYANG": {
+    "tag": "KOR",
+    "state": "STATE_PYONGYANG",
+    "population": 3112828,
+    "state_type": "incorporated"
+  },
+  "KOR::STATE_SARIWON": {
+    "tag": "KOR",
+    "state": "STATE_SARIWON",
+    "population": 470035,
+    "state_type": "incorporated"
+  },
+  "KOR::STATE_SEOUL": {
+    "tag": "KOR",
+    "state": "STATE_SEOUL",
+    "population": 4897956,
+    "state_type": "incorporated"
+  },
+  "KOR::STATE_YANGHO": {
+    "tag": "KOR",
+    "state": "STATE_YANGHO",
+    "population": 4012487,
+    "state_type": "incorporated"
+  },
+  "KOT::STATE_RAJPUTANA": {
+    "tag": "KOT",
+    "state": "STATE_RAJPUTANA",
+    "population": 318026,
+    "state_type": "incorporated"
+  },
+  "KRA::STATE_SLOVAKIA": {
+    "tag": "KRA",
+    "state": "STATE_SLOVAKIA",
+    "population": 1806586,
+    "state_type": "incorporated"
+  },
+  "KRA::STATE_WEST_GALICIA": {
+    "tag": "KRA",
+    "state": "STATE_WEST_GALICIA",
+    "population": 1876404,
+    "state_type": "incorporated"
+  },
+  "KRT::STATE_WESTERN_MALI": {
+    "tag": "KRT",
+    "state": "STATE_WESTERN_MALI",
+    "population": 275000,
+    "state_type": "incorporated"
+  },
+  "KUR::STATE_DIYARBAKIR": {
+    "tag": "KUR",
+    "state": "STATE_DIYARBAKIR",
+    "population": 782239,
+    "state_type": "incorporated"
+  },
+  "KUR::STATE_ERZURUM": {
+    "tag": "KUR",
+    "state": "STATE_ERZURUM",
+    "population": 939846,
+    "state_type": "incorporated"
+  },
+  "KUS::STATE_KYUSHU": {
+    "tag": "KUS",
+    "state": "STATE_KYUSHU",
+    "population": 4237203,
+    "state_type": "incorporated"
+  },
+  "LAH::STATE_YEMEN": {
+    "tag": "LAH",
+    "state": "STATE_YEMEN",
+    "population": 69700,
+    "state_type": "incorporated"
+  },
+  "LAU::STATE_WEST_SWITZERLAND": {
+    "tag": "LAU",
+    "state": "STATE_WEST_SWITZERLAND",
+    "population": 354432,
+    "state_type": "incorporated"
+  },
+  "LBA::STATE_KATANGA": {
+    "tag": "LBA",
+    "state": "STATE_KATANGA",
+    "population": 586208,
+    "state_type": "incorporated"
+  },
+  "LBA::STATE_ZAMBIA": {
+    "tag": "LBA",
+    "state": "STATE_ZAMBIA",
+    "population": 118092,
+    "state_type": "incorporated"
+  },
+  "LEO::STATE_LEON": {
+    "tag": "LEO",
+    "state": "STATE_LEON",
+    "population": 716921,
+    "state_type": "incorporated"
+  },
+  "LIB::STATE_DAHOMEY": {
+    "tag": "LIB",
+    "state": "STATE_DAHOMEY",
+    "population": 207088,
+    "state_type": "unincorporated"
+  },
+  "LIB::STATE_GOLD_COAST": {
+    "tag": "LIB",
+    "state": "STATE_GOLD_COAST",
+    "population": 584300,
+    "state_type": "unincorporated"
+  },
+  "LIB::STATE_GUINEA": {
+    "tag": "LIB",
+    "state": "STATE_GUINEA",
+    "population": 521236,
+    "state_type": "incorporated"
+  },
+  "LIB::STATE_INNER_MAURITANIA": {
+    "tag": "LIB",
+    "state": "STATE_INNER_MAURITANIA",
+    "population": 65400,
+    "state_type": "unincorporated"
+  },
+  "LIB::STATE_IVORY_COAST": {
+    "tag": "LIB",
+    "state": "STATE_IVORY_COAST",
+    "population": 334212,
+    "state_type": "incorporated"
+  },
+  "LIB::STATE_LIBERIA": {
+    "tag": "LIB",
+    "state": "STATE_LIBERIA",
+    "population": 839896,
+    "state_type": "incorporated"
+  },
+  "LIB::STATE_MAURITANIA": {
+    "tag": "LIB",
+    "state": "STATE_MAURITANIA",
+    "population": 329300,
+    "state_type": "unincorporated"
+  },
+  "LIB::STATE_OUTER_HAUSALAND": {
+    "tag": "LIB",
+    "state": "STATE_OUTER_HAUSALAND",
+    "population": 179959,
+    "state_type": "unincorporated"
+  },
+  "LIB::STATE_SENEGAL": {
+    "tag": "LIB",
+    "state": "STATE_SENEGAL",
+    "population": 186600,
+    "state_type": "incorporated"
+  },
+  "LIB::STATE_SIERRA_LEONE": {
+    "tag": "LIB",
+    "state": "STATE_SIERRA_LEONE",
+    "population": 834988,
+    "state_type": "incorporated"
+  },
+  "LIB::STATE_TIMBUKTU": {
+    "tag": "LIB",
+    "state": "STATE_TIMBUKTU",
+    "population": 96496,
+    "state_type": "unincorporated"
+  },
+  "LIB::STATE_TOGO": {
+    "tag": "LIB",
+    "state": "STATE_TOGO",
+    "population": 383996,
+    "state_type": "unincorporated"
+  },
+  "LIB::STATE_VOLTA": {
+    "tag": "LIB",
+    "state": "STATE_VOLTA",
+    "population": 1423192,
+    "state_type": "unincorporated"
+  },
+  "LIB::STATE_WINDWARD_COAST": {
+    "tag": "LIB",
+    "state": "STATE_WINDWARD_COAST",
+    "population": 443000,
+    "state_type": "incorporated"
+  },
+  "LIM::STATE_AUVERGNE_LIMOUSIN": {
+    "tag": "LIM",
+    "state": "STATE_AUVERGNE_LIMOUSIN",
+    "population": 198831,
+    "state_type": "incorporated"
+  },
+  "LKT::STATE_MONTANA": {
+    "tag": "LKT",
+    "state": "STATE_MONTANA",
+    "population": 9500,
+    "state_type": "incorporated"
+  },
+  "LKT::STATE_NEBRASKA": {
+    "tag": "LKT",
+    "state": "STATE_NEBRASKA",
+    "population": 5000,
+    "state_type": "incorporated"
+  },
+  "LKT::STATE_NORTH_DAKOTA": {
+    "tag": "LKT",
+    "state": "STATE_NORTH_DAKOTA",
+    "population": 7500,
+    "state_type": "incorporated"
+  },
+  "LKT::STATE_SOUTH_DAKOTA": {
+    "tag": "LKT",
+    "state": "STATE_SOUTH_DAKOTA",
+    "population": 50000,
+    "state_type": "incorporated"
+  },
+  "LKT::STATE_WYOMING": {
+    "tag": "LKT",
+    "state": "STATE_WYOMING",
+    "population": 7500,
+    "state_type": "incorporated"
+  },
+  "LND::STATE_EAST_ANGOLA": {
+    "tag": "LND",
+    "state": "STATE_EAST_ANGOLA",
+    "population": 550692,
+    "state_type": "incorporated"
+  },
+  "LND::STATE_SOUTH_ANGOLA": {
+    "tag": "LND",
+    "state": "STATE_SOUTH_ANGOLA",
+    "population": 222096,
+    "state_type": "incorporated"
+  },
+  "LOM::STATE_LOMBARDY": {
+    "tag": "LOM",
+    "state": "STATE_LOMBARDY",
+    "population": 2847392,
+    "state_type": "incorporated"
+  },
+  "LOR::STATE_ALSACE_LORRAINE": {
+    "tag": "LOR",
+    "state": "STATE_ALSACE_LORRAINE",
+    "population": 547931,
+    "state_type": "incorporated"
+  },
+  "LOR::STATE_LORRAINE": {
+    "tag": "LOR",
+    "state": "STATE_LORRAINE",
+    "population": 873101,
+    "state_type": "incorporated"
+  },
+  "LSB::STATE_ESTREMADURA": {
+    "tag": "LSB",
+    "state": "STATE_ESTREMADURA",
+    "population": 475012,
+    "state_type": "incorporated"
+  },
+  "LUC::STATE_BALUCHISTAN": {
+    "tag": "LUC",
+    "state": "STATE_BALUCHISTAN",
+    "population": 4250,
+    "state_type": "unincorporated"
+  },
+  "LUC::STATE_CEYLON": {
+    "tag": "LUC",
+    "state": "STATE_CEYLON",
+    "population": 1030701,
+    "state_type": "unincorporated"
+  },
+  "LUC::STATE_CONSTANTINE": {
+    "tag": "LUC",
+    "state": "STATE_CONSTANTINE",
+    "population": 1806069,
+    "state_type": "unincorporated"
+  },
+  "LUC::STATE_EMILIA": {
+    "tag": "LUC",
+    "state": "STATE_EMILIA",
+    "population": 1448808,
+    "state_type": "incorporated"
+  },
+  "LUC::STATE_ERITREA": {
+    "tag": "LUC",
+    "state": "STATE_ERITREA",
+    "population": 30250,
+    "state_type": "unincorporated"
+  },
+  "LUC::STATE_IONIAN_ISLANDS": {
+    "tag": "LUC",
+    "state": "STATE_IONIAN_ISLANDS",
+    "population": 225420,
+    "state_type": "incorporated"
+  },
+  "LUC::STATE_ROMAGNA": {
+    "tag": "LUC",
+    "state": "STATE_ROMAGNA",
+    "population": 964600,
+    "state_type": "incorporated"
+  },
+  "LUC::STATE_TOHOKU": {
+    "tag": "LUC",
+    "state": "STATE_TOHOKU",
+    "population": 31933,
+    "state_type": "unincorporated"
+  },
+  "LUC::STATE_TRIPOLI": {
+    "tag": "LUC",
+    "state": "STATE_TRIPOLI",
+    "population": 554220,
+    "state_type": "unincorporated"
+  },
+  "LUC::STATE_TUNISIA": {
+    "tag": "LUC",
+    "state": "STATE_TUNISIA",
+    "population": 1203008,
+    "state_type": "unincorporated"
+  },
+  "LUC::STATE_TUSCANY": {
+    "tag": "LUC",
+    "state": "STATE_TUSCANY",
+    "population": 1945400,
+    "state_type": "incorporated"
+  },
+  "LUX::STATE_WALLONIA": {
+    "tag": "LUX",
+    "state": "STATE_WALLONIA",
+    "population": 142766,
+    "state_type": "incorporated"
+  },
+  "MAD::STATE_SOUTH_MADAGASCAR": {
+    "tag": "MAD",
+    "state": "STATE_SOUTH_MADAGASCAR",
+    "population": 877800,
+    "state_type": "incorporated"
+  },
+  "MAY::STATE_CHIAPAS": {
+    "tag": "MAY",
+    "state": "STATE_CHIAPAS",
+    "population": 148010,
+    "state_type": "incorporated"
+  },
+  "MAY::STATE_GUATEMALA": {
+    "tag": "MAY",
+    "state": "STATE_GUATEMALA",
+    "population": 445404,
+    "state_type": "incorporated"
+  },
+  "MAY::STATE_YUCATAN": {
+    "tag": "MAY",
+    "state": "STATE_YUCATAN",
+    "population": 487204,
+    "state_type": "incorporated"
+  },
+  "MCH::STATE_AMUR": {
+    "tag": "MCH",
+    "state": "STATE_AMUR",
+    "population": 66173,
+    "state_type": "incorporated"
+  },
+  "MCH::STATE_NORTHERN_MANCHURIA": {
+    "tag": "MCH",
+    "state": "STATE_NORTHERN_MANCHURIA",
+    "population": 2529604,
+    "state_type": "incorporated"
+  },
+  "MCO::STATE_GUERRERO": {
+    "tag": "MCO",
+    "state": "STATE_GUERRERO",
+    "population": 208320,
+    "state_type": "incorporated"
+  },
+  "MCO::STATE_JALISCO": {
+    "tag": "MCO",
+    "state": "STATE_JALISCO",
+    "population": 1440161,
+    "state_type": "incorporated"
+  },
+  "MEA::STATE_ILE_DE_FRANCE": {
+    "tag": "MEA",
+    "state": "STATE_ILE_DE_FRANCE",
+    "population": 365454,
+    "state_type": "incorporated"
+  },
+  "MEW::STATE_RAJPUTANA": {
+    "tag": "MEW",
+    "state": "STATE_RAJPUTANA",
+    "population": 659983,
+    "state_type": "incorporated"
+  },
+  "MGD::STATE_MINDANAO": {
+    "tag": "MGD",
+    "state": "STATE_MINDANAO",
+    "population": 657180,
+    "state_type": "incorporated"
+  },
+  "MGL::STATE_AKMOLINSK": {
+    "tag": "MGL",
+    "state": "STATE_AKMOLINSK",
+    "population": 154432,
+    "state_type": "unincorporated"
+  },
+  "MGL::STATE_ALTAI": {
+    "tag": "MGL",
+    "state": "STATE_ALTAI",
+    "population": 31000,
+    "state_type": "incorporated"
+  },
+  "MGL::STATE_DZUNGARIA": {
+    "tag": "MGL",
+    "state": "STATE_DZUNGARIA",
+    "population": 220200,
+    "state_type": "incorporated"
+  },
+  "MGL::STATE_JETISY": {
+    "tag": "MGL",
+    "state": "STATE_JETISY",
+    "population": 128542,
+    "state_type": "unincorporated"
+  },
+  "MGL::STATE_SEMIRECHE": {
+    "tag": "MGL",
+    "state": "STATE_SEMIRECHE",
+    "population": 220674,
+    "state_type": "unincorporated"
+  },
+  "MGL::STATE_SYRDARYA": {
+    "tag": "MGL",
+    "state": "STATE_SYRDARYA",
+    "population": 410250,
+    "state_type": "unincorporated"
+  },
+  "MGL::STATE_TUVA": {
+    "tag": "MGL",
+    "state": "STATE_TUVA",
+    "population": 38100,
+    "state_type": "incorporated"
+  },
+  "MGL::STATE_ULIASTAI": {
+    "tag": "MGL",
+    "state": "STATE_ULIASTAI",
+    "population": 283623,
+    "state_type": "incorporated"
+  },
+  "MKT::STATE_COSTA_RICA": {
+    "tag": "MKT",
+    "state": "STATE_COSTA_RICA",
+    "population": 75592,
+    "state_type": "incorporated"
+  },
+  "MKT::STATE_NICARAGUA": {
+    "tag": "MKT",
+    "state": "STATE_NICARAGUA",
+    "population": 256500,
+    "state_type": "incorporated"
+  },
+  "MLT::STATE_MALTA": {
+    "tag": "MLT",
+    "state": "STATE_MALTA",
+    "population": 142984,
+    "state_type": "incorporated"
+  },
+  "MON::STATE_MONTENEGRO": {
+    "tag": "MON",
+    "state": "STATE_MONTENEGRO",
+    "population": 64224,
+    "state_type": "incorporated"
+  },
+  "MOR::STATE_ALGIERS": {
+    "tag": "MOR",
+    "state": "STATE_ALGIERS",
+    "population": 998025,
+    "state_type": "unincorporated"
+  },
+  "MOR::STATE_AL_RIF": {
+    "tag": "MOR",
+    "state": "STATE_AL_RIF",
+    "population": 553788,
+    "state_type": "incorporated"
+  },
+  "MOR::STATE_FEZ": {
+    "tag": "MOR",
+    "state": "STATE_FEZ",
+    "population": 1127204,
+    "state_type": "incorporated"
+  },
+  "MOR::STATE_INNER_MOROCCO": {
+    "tag": "MOR",
+    "state": "STATE_INNER_MOROCCO",
+    "population": 676404,
+    "state_type": "incorporated"
+  },
+  "MOR::STATE_MARRAKECH": {
+    "tag": "MOR",
+    "state": "STATE_MARRAKECH",
+    "population": 1029196,
+    "state_type": "incorporated"
+  },
+  "MOR::STATE_ORAN": {
+    "tag": "MOR",
+    "state": "STATE_ORAN",
+    "population": 837911,
+    "state_type": "unincorporated"
+  },
+  "MOR::STATE_SAHARA": {
+    "tag": "MOR",
+    "state": "STATE_SAHARA",
+    "population": 58991,
+    "state_type": "unincorporated"
+  },
+  "MRN::STATE_WESTERN_AUSTRALIA": {
+    "tag": "MRN",
+    "state": "STATE_WESTERN_AUSTRALIA",
+    "population": 2400,
+    "state_type": "incorporated"
+  },
+  "MSC::STATE_ALABAMA": {
+    "tag": "MSC",
+    "state": "STATE_ALABAMA",
+    "population": 469246,
+    "state_type": "incorporated"
+  },
+  "MSC::STATE_FLORIDA": {
+    "tag": "MSC",
+    "state": "STATE_FLORIDA",
+    "population": 6250,
+    "state_type": "incorporated"
+  },
+  "MSC::STATE_GEORGIA": {
+    "tag": "MSC",
+    "state": "STATE_GEORGIA",
+    "population": 272782,
+    "state_type": "incorporated"
+  },
+  "MSC::STATE_MISSISSIPPI": {
+    "tag": "MSC",
+    "state": "STATE_MISSISSIPPI",
+    "population": 208461,
+    "state_type": "incorporated"
+  },
+  "MSN::STATE_EASTERN_MALI": {
+    "tag": "MSN",
+    "state": "STATE_EASTERN_MALI",
+    "population": 1089100,
+    "state_type": "incorporated"
+  },
+  "MSW::STATE_MOSCOW": {
+    "tag": "MSW",
+    "state": "STATE_MOSCOW",
+    "population": 999301,
+    "state_type": "incorporated"
+  },
+  "MTC::STATE_MANITOBA": {
+    "tag": "MTC",
+    "state": "STATE_MANITOBA",
+    "population": 51852,
+    "state_type": "incorporated"
+  },
+  "MTC::STATE_NORTH_DAKOTA": {
+    "tag": "MTC",
+    "state": "STATE_NORTH_DAKOTA",
+    "population": 7500,
+    "state_type": "incorporated"
+  },
+  "MTC::STATE_ONTARIO": {
+    "tag": "MTC",
+    "state": "STATE_ONTARIO",
+    "population": 329392,
+    "state_type": "incorporated"
+  },
+  "MTC::STATE_SASKATCHEWAN": {
+    "tag": "MTC",
+    "state": "STATE_SASKATCHEWAN",
+    "population": 20000,
+    "state_type": "incorporated"
+  },
+  "MUG::STATE_AGRA": {
+    "tag": "MUG",
+    "state": "STATE_AGRA",
+    "population": 17356632,
+    "state_type": "incorporated"
+  },
+  "MUG::STATE_AWADH": {
+    "tag": "MUG",
+    "state": "STATE_AWADH",
+    "population": 6487050,
+    "state_type": "incorporated"
+  },
+  "MUG::STATE_DELHI": {
+    "tag": "MUG",
+    "state": "STATE_DELHI",
+    "population": 2888634,
+    "state_type": "incorporated"
+  },
+  "MUG::STATE_HILL_PUNJAB": {
+    "tag": "MUG",
+    "state": "STATE_HILL_PUNJAB",
+    "population": 1772915,
+    "state_type": "incorporated"
+  },
+  "MUI::STATE_CUNDINAMARCA": {
+    "tag": "MUI",
+    "state": "STATE_CUNDINAMARCA",
+    "population": 579396,
+    "state_type": "incorporated"
+  },
+  "MYS::STATE_CIRCARS": {
+    "tag": "MYS",
+    "state": "STATE_CIRCARS",
+    "population": 1337650,
+    "state_type": "incorporated"
+  },
+  "MYS::STATE_KURNOOL": {
+    "tag": "MYS",
+    "state": "STATE_KURNOOL",
+    "population": 1187461,
+    "state_type": "incorporated"
+  },
+  "MYS::STATE_MADRAS": {
+    "tag": "MYS",
+    "state": "STATE_MADRAS",
+    "population": 6872664,
+    "state_type": "incorporated"
+  },
+  "MYS::STATE_MYSORE": {
+    "tag": "MYS",
+    "state": "STATE_MYSORE",
+    "population": 3235914,
+    "state_type": "incorporated"
+  },
+  "NAH::STATE_BAJIO": {
+    "tag": "NAH",
+    "state": "STATE_BAJIO",
+    "population": 831333,
+    "state_type": "incorporated"
+  },
+  "NAH::STATE_MEXICO": {
+    "tag": "NAH",
+    "state": "STATE_MEXICO",
+    "population": 1658090,
+    "state_type": "incorporated"
+  },
+  "NAH::STATE_ZACATECAS": {
+    "tag": "NAH",
+    "state": "STATE_ZACATECAS",
+    "population": 286308,
+    "state_type": "incorporated"
+  },
+  "NAT::STATE_BRITTANY": {
+    "tag": "NAT",
+    "state": "STATE_BRITTANY",
+    "population": 193157,
+    "state_type": "incorporated"
+  },
+  "NAV::STATE_BASQUE_COUNTRY": {
+    "tag": "NAV",
+    "state": "STATE_BASQUE_COUNTRY",
+    "population": 628140,
+    "state_type": "incorporated"
+  },
+  "NBS::STATE_MAINE": {
+    "tag": "NBS",
+    "state": "STATE_MAINE",
+    "population": 321228,
+    "state_type": "unincorporated"
+  },
+  "NBS::STATE_NEW_BRUNSWICK": {
+    "tag": "NBS",
+    "state": "STATE_NEW_BRUNSWICK",
+    "population": 276363,
+    "state_type": "incorporated"
+  },
+  "NEM::STATE_BURGUNDY": {
+    "tag": "NEM",
+    "state": "STATE_BURGUNDY",
+    "population": 607525,
+    "state_type": "incorporated"
+  },
+  "NEP::STATE_HIMALAYAS": {
+    "tag": "NEP",
+    "state": "STATE_HIMALAYAS",
+    "population": 384204,
+    "state_type": "incorporated"
+  },
+  "NET::STATE_FRIESLAND": {
+    "tag": "NET",
+    "state": "STATE_FRIESLAND",
+    "population": 542072,
+    "state_type": "incorporated"
+  },
+  "NET::STATE_GELRE": {
+    "tag": "NET",
+    "state": "STATE_GELRE",
+    "population": 211292,
+    "state_type": "incorporated"
+  },
+  "NEV::STATE_BURGUNDY": {
+    "tag": "NEV",
+    "state": "STATE_BURGUNDY",
+    "population": 104918,
+    "state_type": "incorporated"
+  },
+  "NNG::STATE_WESTERN_AUSTRALIA": {
+    "tag": "NNG",
+    "state": "STATE_WESTERN_AUSTRALIA",
+    "population": 25300,
+    "state_type": "incorporated"
+  },
+  "NNV::STATE_NUNAVUT": {
+    "tag": "NNV",
+    "state": "STATE_NUNAVUT",
+    "population": 14980,
+    "state_type": "incorporated"
+  },
+  "NOR::STATE_EASTERN_NORWAY": {
+    "tag": "NOR",
+    "state": "STATE_EASTERN_NORWAY",
+    "population": 265050,
+    "state_type": "incorporated"
+  },
+  "NOR::STATE_NORTHERN_NORWAY": {
+    "tag": "NOR",
+    "state": "STATE_NORTHERN_NORWAY",
+    "population": 153160,
+    "state_type": "incorporated"
+  },
+  "NOR::STATE_WESTERN_NORWAY": {
+    "tag": "NOR",
+    "state": "STATE_WESTERN_NORWAY",
+    "population": 426796,
+    "state_type": "incorporated"
+  },
+  "NPU::STATE_LIMA": {
+    "tag": "NPU",
+    "state": "STATE_LIMA",
+    "population": 281000,
+    "state_type": "incorporated"
+  },
+  "NRM::STATE_BRITTANY": {
+    "tag": "NRM",
+    "state": "STATE_BRITTANY",
+    "population": 1933278,
+    "state_type": "incorporated"
+  },
+  "NRM::STATE_DISTRICT_OF_COLUMBIA": {
+    "tag": "NRM",
+    "state": "STATE_DISTRICT_OF_COLUMBIA",
+    "population": 76881,
+    "state_type": "unincorporated"
+  },
+  "NRM::STATE_EAST_ANGLIA": {
+    "tag": "NRM",
+    "state": "STATE_EAST_ANGLIA",
+    "population": 761208,
+    "state_type": "incorporated"
+  },
+  "NRM::STATE_GUJARAT": {
+    "tag": "NRM",
+    "state": "STATE_GUJARAT",
+    "population": 55624,
+    "state_type": "unincorporated"
+  },
+  "NRM::STATE_HOME_COUNTIES": {
+    "tag": "NRM",
+    "state": "STATE_HOME_COUNTIES",
+    "population": 2145996,
+    "state_type": "incorporated"
+  },
+  "NRM::STATE_IVORY_COAST": {
+    "tag": "NRM",
+    "state": "STATE_IVORY_COAST",
+    "population": 88000,
+    "state_type": "unincorporated"
+  },
+  "NRM::STATE_MAINE_ANJOU": {
+    "tag": "NRM",
+    "state": "STATE_MAINE_ANJOU",
+    "population": 1210194,
+    "state_type": "incorporated"
+  },
+  "NRM::STATE_MARYLAND": {
+    "tag": "NRM",
+    "state": "STATE_MARYLAND",
+    "population": 260464,
+    "state_type": "unincorporated"
+  },
+  "NRM::STATE_MIDLANDS": {
+    "tag": "NRM",
+    "state": "STATE_MIDLANDS",
+    "population": 1061044,
+    "state_type": "incorporated"
+  },
+  "NRM::STATE_NORMANDY": {
+    "tag": "NRM",
+    "state": "STATE_NORMANDY",
+    "population": 2086901,
+    "state_type": "incorporated"
+  },
+  "NRM::STATE_SENEGAL": {
+    "tag": "NRM",
+    "state": "STATE_SENEGAL",
+    "population": 140426,
+    "state_type": "unincorporated"
+  },
+  "NRM::STATE_VIRGINIA": {
+    "tag": "NRM",
+    "state": "STATE_VIRGINIA",
+    "population": 318597,
+    "state_type": "unincorporated"
+  },
+  "NRM::STATE_WEST_COUNTRY": {
+    "tag": "NRM",
+    "state": "STATE_WEST_COUNTRY",
+    "population": 1496400,
+    "state_type": "incorporated"
+  },
+  "NRM::STATE_WEST_VIRGINIA": {
+    "tag": "NRM",
+    "state": "STATE_WEST_VIRGINIA",
+    "population": 156916,
+    "state_type": "unincorporated"
+  },
+  "NTO::STATE_NORTH_ISLAND": {
+    "tag": "NTO",
+    "state": "STATE_NORTH_ISLAND",
+    "population": 38400,
+    "state_type": "incorporated"
+  },
+  "NTO::STATE_SOUTH_ISLAND": {
+    "tag": "NTO",
+    "state": "STATE_SOUTH_ISLAND",
+    "population": 14828,
+    "state_type": "incorporated"
+  },
+  "NTU::STATE_SOUTH_ISLAND": {
+    "tag": "NTU",
+    "state": "STATE_SOUTH_ISLAND",
+    "population": 76800,
+    "state_type": "incorporated"
+  },
+  "NVJ::STATE_ARIZONA": {
+    "tag": "NVJ",
+    "state": "STATE_ARIZONA",
+    "population": 33750,
+    "state_type": "incorporated"
+  },
+  "NVJ::STATE_NEW_MEXICO": {
+    "tag": "NVJ",
+    "state": "STATE_NEW_MEXICO",
+    "population": 9500,
+    "state_type": "incorporated"
+  },
+  "NVJ::STATE_UTAH": {
+    "tag": "NVJ",
+    "state": "STATE_UTAH",
+    "population": 5000,
+    "state_type": "incorporated"
+  },
+  "NZP::STATE_IDAHO": {
+    "tag": "NZP",
+    "state": "STATE_IDAHO",
+    "population": 50000,
+    "state_type": "incorporated"
+  },
+  "OAX::STATE_OAXACA": {
+    "tag": "OAX",
+    "state": "STATE_OAXACA",
+    "population": 526674,
+    "state_type": "incorporated"
+  },
+  "OMA::STATE_ABU_DHABI": {
+    "tag": "OMA",
+    "state": "STATE_ABU_DHABI",
+    "population": 80120,
+    "state_type": "incorporated"
+  },
+  "OMA::STATE_AMHARA": {
+    "tag": "OMA",
+    "state": "STATE_AMHARA",
+    "population": 2121264,
+    "state_type": "unincorporated"
+  },
+  "OMA::STATE_CEYLON": {
+    "tag": "OMA",
+    "state": "STATE_CEYLON",
+    "population": 55992,
+    "state_type": "unincorporated"
+  },
+  "OMA::STATE_INDIAN_OCEAN_TERRITORY": {
+    "tag": "OMA",
+    "state": "STATE_INDIAN_OCEAN_TERRITORY",
+    "population": 92392,
+    "state_type": "unincorporated"
+  },
+  "OMA::STATE_MALAYA": {
+    "tag": "OMA",
+    "state": "STATE_MALAYA",
+    "population": 44196,
+    "state_type": "unincorporated"
+  },
+  "OMA::STATE_NORTH_MADAGASCAR": {
+    "tag": "OMA",
+    "state": "STATE_NORTH_MADAGASCAR",
+    "population": 1045104,
+    "state_type": "unincorporated"
+  },
+  "OMA::STATE_OMAN": {
+    "tag": "OMA",
+    "state": "STATE_OMAN",
+    "population": 266000,
+    "state_type": "incorporated"
+  },
+  "OMA::STATE_OROMIA": {
+    "tag": "OMA",
+    "state": "STATE_OROMIA",
+    "population": 1596191,
+    "state_type": "unincorporated"
+  },
+  "OMA::STATE_SOMALILAND": {
+    "tag": "OMA",
+    "state": "STATE_SOMALILAND",
+    "population": 740996,
+    "state_type": "unincorporated"
+  },
+  "OMA::STATE_YEMEN": {
+    "tag": "OMA",
+    "state": "STATE_YEMEN",
+    "population": 69400,
+    "state_type": "incorporated"
+  },
+  "ORG::STATE_IDAHO": {
+    "tag": "ORG",
+    "state": "STATE_IDAHO",
+    "population": 4750,
+    "state_type": "incorporated"
+  },
+  "ORG::STATE_OREGON": {
+    "tag": "ORG",
+    "state": "STATE_OREGON",
+    "population": 28848,
+    "state_type": "incorporated"
+  },
+  "ORG::STATE_WASHINGTON": {
+    "tag": "ORG",
+    "state": "STATE_WASHINGTON",
+    "population": 27000,
+    "state_type": "incorporated"
+  },
+  "ORI::STATE_CENTRAL_PROVINCES": {
+    "tag": "ORI",
+    "state": "STATE_CENTRAL_PROVINCES",
+    "population": 4230036,
+    "state_type": "incorporated"
+  },
+  "ORI::STATE_CIRCARS": {
+    "tag": "ORI",
+    "state": "STATE_CIRCARS",
+    "population": 1337650,
+    "state_type": "incorporated"
+  },
+  "ORI::STATE_ORISSA": {
+    "tag": "ORI",
+    "state": "STATE_ORISSA",
+    "population": 1262916,
+    "state_type": "incorporated"
+  },
+  "ORI::STATE_WEST_BENGAL": {
+    "tag": "ORI",
+    "state": "STATE_WEST_BENGAL",
+    "population": 4893237,
+    "state_type": "unincorporated"
+  },
+  "ORL::STATE_ORLEANS": {
+    "tag": "ORL",
+    "state": "STATE_ORLEANS",
+    "population": 519493,
+    "state_type": "incorporated"
+  },
+  "ORN::STATE_BOLIVAR": {
+    "tag": "ORN",
+    "state": "STATE_BOLIVAR",
+    "population": 201532,
+    "state_type": "incorporated"
+  },
+  "ORN::STATE_MIRANDA": {
+    "tag": "ORN",
+    "state": "STATE_MIRANDA",
+    "population": 394116,
+    "state_type": "incorporated"
+  },
+  "ORN::STATE_WEST_INDIES": {
+    "tag": "ORN",
+    "state": "STATE_WEST_INDIES",
+    "population": 0,
+    "state_type": "incorporated"
+  },
+  "OTR::STATE_BUSAN": {
+    "tag": "OTR",
+    "state": "STATE_BUSAN",
+    "population": 1566627,
+    "state_type": "unincorporated"
+  },
+  "OTR::STATE_CHUGOKU": {
+    "tag": "OTR",
+    "state": "STATE_CHUGOKU",
+    "population": 1312928,
+    "state_type": "unincorporated"
+  },
+  "OTR::STATE_EGYPTIAN_DESERT": {
+    "tag": "OTR",
+    "state": "STATE_EGYPTIAN_DESERT",
+    "population": 55350,
+    "state_type": "unincorporated"
+  },
+  "OTR::STATE_FUJIAN": {
+    "tag": "OTR",
+    "state": "STATE_FUJIAN",
+    "population": 4782816,
+    "state_type": "unincorporated"
+  },
+  "OTR::STATE_KANTO": {
+    "tag": "OTR",
+    "state": "STATE_KANTO",
+    "population": 310996,
+    "state_type": "unincorporated"
+  },
+  "OTR::STATE_LIBYA": {
+    "tag": "OTR",
+    "state": "STATE_LIBYA",
+    "population": 680732,
+    "state_type": "unincorporated"
+  },
+  "OTR::STATE_LOWER_EGYPT": {
+    "tag": "OTR",
+    "state": "STATE_LOWER_EGYPT",
+    "population": 6328930,
+    "state_type": "incorporated"
+  },
+  "OTR::STATE_MATRUH": {
+    "tag": "OTR",
+    "state": "STATE_MATRUH",
+    "population": 24850,
+    "state_type": "unincorporated"
+  },
+  "OTR::STATE_MIDDLE_EGYPT": {
+    "tag": "OTR",
+    "state": "STATE_MIDDLE_EGYPT",
+    "population": 2606551,
+    "state_type": "incorporated"
+  },
+  "OTR::STATE_PALESTINE": {
+    "tag": "OTR",
+    "state": "STATE_PALESTINE",
+    "population": 940900,
+    "state_type": "incorporated"
+  },
+  "OTR::STATE_SINAI": {
+    "tag": "OTR",
+    "state": "STATE_SINAI",
+    "population": 41024,
+    "state_type": "incorporated"
+  },
+  "OTR::STATE_TONKIN": {
+    "tag": "OTR",
+    "state": "STATE_TONKIN",
+    "population": 347996,
+    "state_type": "unincorporated"
+  },
+  "OTR::STATE_TRANSJORDAN": {
+    "tag": "OTR",
+    "state": "STATE_TRANSJORDAN",
+    "population": 112500,
+    "state_type": "incorporated"
+  },
+  "OTR::STATE_TRAVANCORE": {
+    "tag": "OTR",
+    "state": "STATE_TRAVANCORE",
+    "population": 885033,
+    "state_type": "unincorporated"
+  },
+  "OTR::STATE_UPPER_EGYPT": {
+    "tag": "OTR",
+    "state": "STATE_UPPER_EGYPT",
+    "population": 870342,
+    "state_type": "unincorporated"
+  },
+  "OTR::STATE_YANGHO": {
+    "tag": "OTR",
+    "state": "STATE_YANGHO",
+    "population": 310996,
+    "state_type": "unincorporated"
+  },
+  "OTR::STATE_YEMEN": {
+    "tag": "OTR",
+    "state": "STATE_YEMEN",
+    "population": 945600,
+    "state_type": "unincorporated"
+  },
+  "OYO::STATE_YORUBA_STATES": {
+    "tag": "OYO",
+    "state": "STATE_YORUBA_STATES",
+    "population": 1426004,
+    "state_type": "incorporated"
+  },
+  "PAP::STATE_GALICIA": {
+    "tag": "PAP",
+    "state": "STATE_GALICIA",
+    "population": 1735153,
+    "state_type": "incorporated"
+  },
+  "PAT::STATE_ARAUCANIA": {
+    "tag": "PAT",
+    "state": "STATE_ARAUCANIA",
+    "population": 65004,
+    "state_type": "incorporated"
+  },
+  "PAT::STATE_BUENOS_AIRES": {
+    "tag": "PAT",
+    "state": "STATE_BUENOS_AIRES",
+    "population": 258600,
+    "state_type": "incorporated"
+  },
+  "PAT::STATE_LA_PAMPA": {
+    "tag": "PAT",
+    "state": "STATE_LA_PAMPA",
+    "population": 199740,
+    "state_type": "incorporated"
+  },
+  "PAT::STATE_LOS_RIOS": {
+    "tag": "PAT",
+    "state": "STATE_LOS_RIOS",
+    "population": 255892,
+    "state_type": "incorporated"
+  },
+  "PAT::STATE_PATAGONIA": {
+    "tag": "PAT",
+    "state": "STATE_PATAGONIA",
+    "population": 38900,
+    "state_type": "incorporated"
+  },
+  "PAT::STATE_RIO_NEGRO": {
+    "tag": "PAT",
+    "state": "STATE_RIO_NEGRO",
+    "population": 49896,
+    "state_type": "incorporated"
+  },
+  "PAT::STATE_SANTA_FE": {
+    "tag": "PAT",
+    "state": "STATE_SANTA_FE",
+    "population": 118358,
+    "state_type": "incorporated"
+  },
+  "PAU::STATE_PARANA": {
+    "tag": "PAU",
+    "state": "STATE_PARANA",
+    "population": 39166,
+    "state_type": "incorporated"
+  },
+  "PAU::STATE_SAO_PAULO": {
+    "tag": "PAU",
+    "state": "STATE_SAO_PAULO",
+    "population": 377077,
+    "state_type": "incorporated"
+  },
+  "PBC::STATE_LA_PAZ": {
+    "tag": "PBC",
+    "state": "STATE_LA_PAZ",
+    "population": 886796,
+    "state_type": "incorporated"
+  },
+  "PBC::STATE_MATO_GROSSO": {
+    "tag": "PBC",
+    "state": "STATE_MATO_GROSSO",
+    "population": 8000,
+    "state_type": "unincorporated"
+  },
+  "PBC::STATE_POTOSI": {
+    "tag": "PBC",
+    "state": "STATE_POTOSI",
+    "population": 39196,
+    "state_type": "incorporated"
+  },
+  "PBC::STATE_SANTA_CRUZ": {
+    "tag": "PBC",
+    "state": "STATE_SANTA_CRUZ",
+    "population": 168800,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_ABU_DHABI": {
+    "tag": "PER",
+    "state": "STATE_ABU_DHABI",
+    "population": 27690,
+    "state_type": "unincorporated"
+  },
+  "PER::STATE_AZERBAIJAN": {
+    "tag": "PER",
+    "state": "STATE_AZERBAIJAN",
+    "population": 276283,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_BAGHDAD": {
+    "tag": "PER",
+    "state": "STATE_BAGHDAD",
+    "population": 580994,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_BALUCHISTAN": {
+    "tag": "PER",
+    "state": "STATE_BALUCHISTAN",
+    "population": 973273,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_BASRA": {
+    "tag": "PER",
+    "state": "STATE_BASRA",
+    "population": 549904,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_CENTRAL_HIGHLANDS": {
+    "tag": "PER",
+    "state": "STATE_CENTRAL_HIGHLANDS",
+    "population": 156285,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_FARS": {
+    "tag": "PER",
+    "state": "STATE_FARS",
+    "population": 618436,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_HAIL": {
+    "tag": "PER",
+    "state": "STATE_HAIL",
+    "population": 69040,
+    "state_type": "unincorporated"
+  },
+  "PER::STATE_HERAT": {
+    "tag": "PER",
+    "state": "STATE_HERAT",
+    "population": 849586,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_IRAKAJEMI": {
+    "tag": "PER",
+    "state": "STATE_IRAKAJEMI",
+    "population": 1789713,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_ISFAHAN": {
+    "tag": "PER",
+    "state": "STATE_ISFAHAN",
+    "population": 581382,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_KANDAHAR": {
+    "tag": "PER",
+    "state": "STATE_KANDAHAR",
+    "population": 797459,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_KERMAN": {
+    "tag": "PER",
+    "state": "STATE_KERMAN",
+    "population": 268689,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_KHORASAN": {
+    "tag": "PER",
+    "state": "STATE_KHORASAN",
+    "population": 837822,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_KHUZESTAN": {
+    "tag": "PER",
+    "state": "STATE_KHUZESTAN",
+    "population": 536498,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_LARISTAN": {
+    "tag": "PER",
+    "state": "STATE_LARISTAN",
+    "population": 123989,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_LURISTAN": {
+    "tag": "PER",
+    "state": "STATE_LURISTAN",
+    "population": 372202,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_MAZANDARAN": {
+    "tag": "PER",
+    "state": "STATE_MAZANDARAN",
+    "population": 1201936,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_NORTHERN_BALUCHISTAN": {
+    "tag": "PER",
+    "state": "STATE_NORTHERN_BALUCHISTAN",
+    "population": 28420,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_PERSIAN_KURDISTAN": {
+    "tag": "PER",
+    "state": "STATE_PERSIAN_KURDISTAN",
+    "population": 465370,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_SEMNAN": {
+    "tag": "PER",
+    "state": "STATE_SEMNAN",
+    "population": 70211,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_SISTAN": {
+    "tag": "PER",
+    "state": "STATE_SISTAN",
+    "population": 165383,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_TABRIZ": {
+    "tag": "PER",
+    "state": "STATE_TABRIZ",
+    "population": 1060086,
+    "state_type": "incorporated"
+  },
+  "PER::STATE_URMIA": {
+    "tag": "PER",
+    "state": "STATE_URMIA",
+    "population": 391941,
+    "state_type": "incorporated"
+  },
+  "PEU::STATE_CAJAMARCA": {
+    "tag": "PEU",
+    "state": "STATE_CAJAMARCA",
+    "population": 325500,
+    "state_type": "incorporated"
+  },
+  "PEU::STATE_LIMA": {
+    "tag": "PEU",
+    "state": "STATE_LIMA",
+    "population": 331900,
+    "state_type": "incorporated"
+  },
+  "PFA::STATE_RHINELAND": {
+    "tag": "PFA",
+    "state": "STATE_RHINELAND",
+    "population": 557592,
+    "state_type": "incorporated"
+  },
+  "PHA::STATE_EASTERN_HIMALAYAS": {
+    "tag": "PHA",
+    "state": "STATE_EASTERN_HIMALAYAS",
+    "population": 258150,
+    "state_type": "incorporated"
+  },
+  "PHI::STATE_ANNAM": {
+    "tag": "PHI",
+    "state": "STATE_ANNAM",
+    "population": 2076625,
+    "state_type": "incorporated"
+  },
+  "PHI::STATE_FORMOSA": {
+    "tag": "PHI",
+    "state": "STATE_FORMOSA",
+    "population": 503996,
+    "state_type": "unincorporated"
+  },
+  "PHI::STATE_GUANGDONG": {
+    "tag": "PHI",
+    "state": "STATE_GUANGDONG",
+    "population": 279996,
+    "state_type": "unincorporated"
+  },
+  "PHI::STATE_KANTO": {
+    "tag": "PHI",
+    "state": "STATE_KANTO",
+    "population": 0,
+    "state_type": "incorporated"
+  },
+  "PHI::STATE_KYUSHU": {
+    "tag": "PHI",
+    "state": "STATE_KYUSHU",
+    "population": 18844,
+    "state_type": "unincorporated"
+  },
+  "PHI::STATE_LUZON": {
+    "tag": "PHI",
+    "state": "STATE_LUZON",
+    "population": 2151992,
+    "state_type": "incorporated"
+  },
+  "PHI::STATE_MEKONG": {
+    "tag": "PHI",
+    "state": "STATE_MEKONG",
+    "population": 1467188,
+    "state_type": "incorporated"
+  },
+  "PHI::STATE_RYUKYU_ISLANDS": {
+    "tag": "PHI",
+    "state": "STATE_RYUKYU_ISLANDS",
+    "population": 207181,
+    "state_type": "incorporated"
+  },
+  "PHI::STATE_VISAYAS": {
+    "tag": "PHI",
+    "state": "STATE_VISAYAS",
+    "population": 1044004,
+    "state_type": "incorporated"
+  },
+  "PHI::STATE_WEST_MICRONESIA": {
+    "tag": "PHI",
+    "state": "STATE_WEST_MICRONESIA",
+    "population": 0,
+    "state_type": "incorporated"
+  },
+  "PIC::STATE_PICARDY": {
+    "tag": "PIC",
+    "state": "STATE_PICARDY",
+    "population": 564742,
+    "state_type": "incorporated"
+  },
+  "PNI::STATE_RIO_GRANDE_DO_SUL": {
+    "tag": "PNI",
+    "state": "STATE_RIO_GRANDE_DO_SUL",
+    "population": 231943,
+    "state_type": "incorporated"
+  },
+  "PNI::STATE_SANTA_CATARINA": {
+    "tag": "PNI",
+    "state": "STATE_SANTA_CATARINA",
+    "population": 70653,
+    "state_type": "incorporated"
+  },
+  "PNI::STATE_URUGUAY": {
+    "tag": "PNI",
+    "state": "STATE_URUGUAY",
+    "population": 163666,
+    "state_type": "incorporated"
+  },
+  "POI::STATE_POITOU": {
+    "tag": "POI",
+    "state": "STATE_POITOU",
+    "population": 1328193,
+    "state_type": "incorporated"
+  },
+  "PPU::STATE_EASTERN_NEW_GUINEA": {
+    "tag": "PPU",
+    "state": "STATE_EASTERN_NEW_GUINEA",
+    "population": 360102,
+    "state_type": "incorporated"
+  },
+  "PPU::STATE_WESTERN_NEW_GUINEA": {
+    "tag": "PPU",
+    "state": "STATE_WESTERN_NEW_GUINEA",
+    "population": 280996,
+    "state_type": "incorporated"
+  },
+  "PRA::STATE_GUAYANA": {
+    "tag": "PRA",
+    "state": "STATE_GUAYANA",
+    "population": 123000,
+    "state_type": "incorporated"
+  },
+  "PRA::STATE_PARA": {
+    "tag": "PRA",
+    "state": "STATE_PARA",
+    "population": 183097,
+    "state_type": "incorporated"
+  },
+  "PRM::STATE_ARKHANGELSK": {
+    "tag": "PRM",
+    "state": "STATE_ARKHANGELSK",
+    "population": 190520,
+    "state_type": "incorporated"
+  },
+  "PRM::STATE_GALICH": {
+    "tag": "PRM",
+    "state": "STATE_GALICH",
+    "population": 610504,
+    "state_type": "incorporated"
+  },
+  "PRM::STATE_NENETSIA": {
+    "tag": "PRM",
+    "state": "STATE_NENETSIA",
+    "population": 27674,
+    "state_type": "incorporated"
+  },
+  "PRM::STATE_NOVGOROD": {
+    "tag": "PRM",
+    "state": "STATE_NOVGOROD",
+    "population": 329275,
+    "state_type": "unincorporated"
+  },
+  "PRM::STATE_PERM": {
+    "tag": "PRM",
+    "state": "STATE_PERM",
+    "population": 641777,
+    "state_type": "incorporated"
+  },
+  "PRM::STATE_VYATKA": {
+    "tag": "PRM",
+    "state": "STATE_VYATKA",
+    "population": 1272000,
+    "state_type": "incorporated"
+  },
+  "PRS::STATE_ILE_DE_FRANCE": {
+    "tag": "PRS",
+    "state": "STATE_ILE_DE_FRANCE",
+    "population": 365454,
+    "state_type": "incorporated"
+  },
+  "PRU::STATE_BREST": {
+    "tag": "PRU",
+    "state": "STATE_BREST",
+    "population": 669332,
+    "state_type": "incorporated"
+  },
+  "PRU::STATE_EAST_PRUSSIA": {
+    "tag": "PRU",
+    "state": "STATE_EAST_PRUSSIA",
+    "population": 732792,
+    "state_type": "incorporated"
+  },
+  "PRU::STATE_KAUNAS": {
+    "tag": "PRU",
+    "state": "STATE_KAUNAS",
+    "population": 632792,
+    "state_type": "incorporated"
+  },
+  "PRU::STATE_LESSER_POLAND": {
+    "tag": "PRU",
+    "state": "STATE_LESSER_POLAND",
+    "population": 865197,
+    "state_type": "unincorporated"
+  },
+  "PRU::STATE_MADRAS": {
+    "tag": "PRU",
+    "state": "STATE_MADRAS",
+    "population": 28213,
+    "state_type": "unincorporated"
+  },
+  "PRU::STATE_MAZOVIA": {
+    "tag": "PRU",
+    "state": "STATE_MAZOVIA",
+    "population": 1121511,
+    "state_type": "incorporated"
+  },
+  "PRU::STATE_MINSK": {
+    "tag": "PRU",
+    "state": "STATE_MINSK",
+    "population": 674027,
+    "state_type": "unincorporated"
+  },
+  "PRU::STATE_VILNIUS": {
+    "tag": "PRU",
+    "state": "STATE_VILNIUS",
+    "population": 486137,
+    "state_type": "incorporated"
+  },
+  "PRU::STATE_VITEBSK": {
+    "tag": "PRU",
+    "state": "STATE_VITEBSK",
+    "population": 54409,
+    "state_type": "unincorporated"
+  },
+  "PRU::STATE_VOLHYNIA": {
+    "tag": "PRU",
+    "state": "STATE_VOLHYNIA",
+    "population": 611846,
+    "state_type": "unincorporated"
+  },
+  "PRU::STATE_WEST_PRUSSIA": {
+    "tag": "PRU",
+    "state": "STATE_WEST_PRUSSIA",
+    "population": 326400,
+    "state_type": "incorporated"
+  },
+  "PSK::STATE_PSKOV": {
+    "tag": "PSK",
+    "state": "STATE_PSKOV",
+    "population": 570885,
+    "state_type": "incorporated"
+  },
+  "PSK::STATE_VITEBSK": {
+    "tag": "PSK",
+    "state": "STATE_VITEBSK",
+    "population": 298657,
+    "state_type": "incorporated"
+  },
+  "PUE::STATE_COLORADO": {
+    "tag": "PUE",
+    "state": "STATE_COLORADO",
+    "population": 3300,
+    "state_type": "incorporated"
+  },
+  "PUE::STATE_NEW_MEXICO": {
+    "tag": "PUE",
+    "state": "STATE_NEW_MEXICO",
+    "population": 22500,
+    "state_type": "incorporated"
+  },
+  "PWN::STATE_KANSAS": {
+    "tag": "PWN",
+    "state": "STATE_KANSAS",
+    "population": 10000,
+    "state_type": "incorporated"
+  },
+  "PWN::STATE_NEBRASKA": {
+    "tag": "PWN",
+    "state": "STATE_NEBRASKA",
+    "population": 14500,
+    "state_type": "incorporated"
+  },
+  "QUE::STATE_NEWFOUNDLAND": {
+    "tag": "QUE",
+    "state": "STATE_NEWFOUNDLAND",
+    "population": 39986,
+    "state_type": "incorporated"
+  },
+  "QUE::STATE_QUEBEC": {
+    "tag": "QUE",
+    "state": "STATE_QUEBEC",
+    "population": 475604,
+    "state_type": "incorporated"
+  },
+  "REI::STATE_CHAMPAGNE": {
+    "tag": "REI",
+    "state": "STATE_CHAMPAGNE",
+    "population": 110745,
+    "state_type": "incorporated"
+  },
+  "RET::STATE_CHAMPAGNE": {
+    "tag": "RET",
+    "state": "STATE_CHAMPAGNE",
+    "population": 110745,
+    "state_type": "incorporated"
+  },
+  "RIO::STATE_RIO_GRANDE": {
+    "tag": "RIO",
+    "state": "STATE_RIO_GRANDE",
+    "population": 194503,
+    "state_type": "incorporated"
+  },
+  "RIO::STATE_TEXAS": {
+    "tag": "RIO",
+    "state": "STATE_TEXAS",
+    "population": 66864,
+    "state_type": "incorporated"
+  },
+  "RIO::STATE_VERACRUZ": {
+    "tag": "RIO",
+    "state": "STATE_VERACRUZ",
+    "population": 221861,
+    "state_type": "incorporated"
+  },
+  "RSM::STATE_VENETIA": {
+    "tag": "RSM",
+    "state": "STATE_VENETIA",
+    "population": 2227196,
+    "state_type": "incorporated"
+  },
+  "RWD::STATE_TANGANYIKA": {
+    "tag": "RWD",
+    "state": "STATE_TANGANYIKA",
+    "population": 1103600,
+    "state_type": "incorporated"
+  },
+  "RYA::STATE_RYAZAN": {
+    "tag": "RYA",
+    "state": "STATE_RYAZAN",
+    "population": 993172,
+    "state_type": "incorporated"
+  },
+  "SAF::STATE_CAPE_COLONY": {
+    "tag": "SAF",
+    "state": "STATE_CAPE_COLONY",
+    "population": 435604,
+    "state_type": "incorporated"
+  },
+  "SAF::STATE_NORTHERN_CAPE": {
+    "tag": "SAF",
+    "state": "STATE_NORTHERN_CAPE",
+    "population": 250004,
+    "state_type": "incorporated"
+  },
+  "SAF::STATE_TRANSVAAL": {
+    "tag": "SAF",
+    "state": "STATE_TRANSVAAL",
+    "population": 535392,
+    "state_type": "unincorporated"
+  },
+  "SAF::STATE_VRYSTAAT": {
+    "tag": "SAF",
+    "state": "STATE_VRYSTAAT",
+    "population": 350600,
+    "state_type": "unincorporated"
+  },
+  "SCN::STATE_GOTALAND": {
+    "tag": "SCN",
+    "state": "STATE_GOTALAND",
+    "population": 600308,
+    "state_type": "incorporated"
+  },
+  "SCN::STATE_SCANIA": {
+    "tag": "SCN",
+    "state": "STATE_SCANIA",
+    "population": 469920,
+    "state_type": "incorporated"
+  },
+  "SCO::STATE_BRITISH_COLUMBIA": {
+    "tag": "SCO",
+    "state": "STATE_BRITISH_COLUMBIA",
+    "population": 2213,
+    "state_type": "unincorporated"
+  },
+  "SCO::STATE_CONNAUGHT": {
+    "tag": "SCO",
+    "state": "STATE_CONNAUGHT",
+    "population": 1679891,
+    "state_type": "incorporated"
+  },
+  "SCO::STATE_GOLD_COAST": {
+    "tag": "SCO",
+    "state": "STATE_GOLD_COAST",
+    "population": 42685,
+    "state_type": "unincorporated"
+  },
+  "SCO::STATE_GREENLAND": {
+    "tag": "SCO",
+    "state": "STATE_GREENLAND",
+    "population": 1920,
+    "state_type": "unincorporated"
+  },
+  "SCO::STATE_HIGHLANDS": {
+    "tag": "SCO",
+    "state": "STATE_HIGHLANDS",
+    "population": 848396,
+    "state_type": "incorporated"
+  },
+  "SCO::STATE_ICELAND": {
+    "tag": "SCO",
+    "state": "STATE_ICELAND",
+    "population": 47920,
+    "state_type": "unincorporated"
+  },
+  "SCO::STATE_INNER_MOROCCO": {
+    "tag": "SCO",
+    "state": "STATE_INNER_MOROCCO",
+    "population": 9000,
+    "state_type": "unincorporated"
+  },
+  "SCO::STATE_LANCASHIRE": {
+    "tag": "SCO",
+    "state": "STATE_LANCASHIRE",
+    "population": 537104,
+    "state_type": "unincorporated"
+  },
+  "SCO::STATE_LEINSTER": {
+    "tag": "SCO",
+    "state": "STATE_LEINSTER",
+    "population": 2272807,
+    "state_type": "incorporated"
+  },
+  "SCO::STATE_LOWLANDS": {
+    "tag": "SCO",
+    "state": "STATE_LOWLANDS",
+    "population": 1987600,
+    "state_type": "incorporated"
+  },
+  "SCO::STATE_MADRAS": {
+    "tag": "SCO",
+    "state": "STATE_MADRAS",
+    "population": 193609,
+    "state_type": "unincorporated"
+  },
+  "SCO::STATE_MUNSTER": {
+    "tag": "SCO",
+    "state": "STATE_MUNSTER",
+    "population": 2848244,
+    "state_type": "incorporated"
+  },
+  "SCO::STATE_ULSTER": {
+    "tag": "SCO",
+    "state": "STATE_ULSTER",
+    "population": 2460233,
+    "state_type": "incorporated"
+  },
+  "SCO::STATE_WASHINGTON": {
+    "tag": "SCO",
+    "state": "STATE_WASHINGTON",
+    "population": 3493,
+    "state_type": "unincorporated"
+  },
+  "SCO::STATE_WEST_SAHARA": {
+    "tag": "SCO",
+    "state": "STATE_WEST_SAHARA",
+    "population": 53000,
+    "state_type": "unincorporated"
+  },
+  "SCO::STATE_YORKSHIRE": {
+    "tag": "SCO",
+    "state": "STATE_YORKSHIRE",
+    "population": 418592,
+    "state_type": "unincorporated"
+  },
+  "SEQ::STATE_KANSAS": {
+    "tag": "SEQ",
+    "state": "STATE_KANSAS",
+    "population": 5000,
+    "state_type": "incorporated"
+  },
+  "SEQ::STATE_OKLAHOMA": {
+    "tag": "SEQ",
+    "state": "STATE_OKLAHOMA",
+    "population": 73500,
+    "state_type": "incorporated"
+  },
+  "SER::STATE_BULGARIA": {
+    "tag": "SER",
+    "state": "STATE_BULGARIA",
+    "population": 346408,
+    "state_type": "incorporated"
+  },
+  "SER::STATE_DOBRUDJA": {
+    "tag": "SER",
+    "state": "STATE_DOBRUDJA",
+    "population": 273948,
+    "state_type": "unincorporated"
+  },
+  "SER::STATE_EASTERN_SERBIA": {
+    "tag": "SER",
+    "state": "STATE_EASTERN_SERBIA",
+    "population": 876180,
+    "state_type": "incorporated"
+  },
+  "SER::STATE_MACEDONIA": {
+    "tag": "SER",
+    "state": "STATE_MACEDONIA",
+    "population": 687204,
+    "state_type": "incorporated"
+  },
+  "SER::STATE_MALAYA": {
+    "tag": "SER",
+    "state": "STATE_MALAYA",
+    "population": 902200,
+    "state_type": "unincorporated"
+  },
+  "SER::STATE_MYSORE": {
+    "tag": "SER",
+    "state": "STATE_MYSORE",
+    "population": 467334,
+    "state_type": "unincorporated"
+  },
+  "SER::STATE_NORTHERN_THRACE": {
+    "tag": "SER",
+    "state": "STATE_NORTHERN_THRACE",
+    "population": 1351608,
+    "state_type": "incorporated"
+  },
+  "SER::STATE_SHAOZHOU": {
+    "tag": "SER",
+    "state": "STATE_SHAOZHOU",
+    "population": 347996,
+    "state_type": "unincorporated"
+  },
+  "SER::STATE_SKOPIA": {
+    "tag": "SER",
+    "state": "STATE_SKOPIA",
+    "population": 1116892,
+    "state_type": "incorporated"
+  },
+  "SER::STATE_WALLACHIA": {
+    "tag": "SER",
+    "state": "STATE_WALLACHIA",
+    "population": 2757865,
+    "state_type": "unincorporated"
+  },
+  "SER::STATE_WESTERN_SERBIA": {
+    "tag": "SER",
+    "state": "STATE_WESTERN_SERBIA",
+    "population": 966829,
+    "state_type": "incorporated"
+  },
+  "SER::STATE_WESTERN_THRACE": {
+    "tag": "SER",
+    "state": "STATE_WESTERN_THRACE",
+    "population": 862608,
+    "state_type": "incorporated"
+  },
+  "SGU::STATE_WESTERN_MALI": {
+    "tag": "SGU",
+    "state": "STATE_WESTERN_MALI",
+    "population": 248000,
+    "state_type": "incorporated"
+  },
+  "SIB::STATE_KRASNOYARSK": {
+    "tag": "SIB",
+    "state": "STATE_KRASNOYARSK",
+    "population": 145655,
+    "state_type": "incorporated"
+  },
+  "SIB::STATE_TOMSK": {
+    "tag": "SIB",
+    "state": "STATE_TOMSK",
+    "population": 253000,
+    "state_type": "incorporated"
+  },
+  "SIK::STATE_EASTERN_HIMALAYAS": {
+    "tag": "SIK",
+    "state": "STATE_EASTERN_HIMALAYAS",
+    "population": 84392,
+    "state_type": "incorporated"
+  },
+  "SIK::STATE_HIMALAYAS": {
+    "tag": "SIK",
+    "state": "STATE_HIMALAYAS",
+    "population": 400212,
+    "state_type": "incorporated"
+  },
+  "SLK::STATE_ARAUCANIA": {
+    "tag": "SLK",
+    "state": "STATE_ARAUCANIA",
+    "population": 15000,
+    "state_type": "incorporated"
+  },
+  "SLO::STATE_SLOVENIA": {
+    "tag": "SLO",
+    "state": "STATE_SLOVENIA",
+    "population": 578788,
+    "state_type": "incorporated"
+  },
+  "SLS::STATE_MONTANA": {
+    "tag": "SLS",
+    "state": "STATE_MONTANA",
+    "population": 6880,
+    "state_type": "incorporated"
+  },
+  "SLS::STATE_WYOMING": {
+    "tag": "SLS",
+    "state": "STATE_WYOMING",
+    "population": 1630,
+    "state_type": "incorporated"
+  },
+  "SMI::STATE_EAST_KARELIA": {
+    "tag": "SMI",
+    "state": "STATE_EAST_KARELIA",
+    "population": 54376,
+    "state_type": "incorporated"
+  },
+  "SMI::STATE_KOLA": {
+    "tag": "SMI",
+    "state": "STATE_KOLA",
+    "population": 5484,
+    "state_type": "incorporated"
+  },
+  "SMI::STATE_NORRLAND": {
+    "tag": "SMI",
+    "state": "STATE_NORRLAND",
+    "population": 123400,
+    "state_type": "incorporated"
+  },
+  "SMI::STATE_NORTHERN_NORWAY": {
+    "tag": "SMI",
+    "state": "STATE_NORTHERN_NORWAY",
+    "population": 153160,
+    "state_type": "incorporated"
+  },
+  "SMI::STATE_OULU": {
+    "tag": "SMI",
+    "state": "STATE_OULU",
+    "population": 66458,
+    "state_type": "incorporated"
+  },
+  "SML::STATE_FLORIDA": {
+    "tag": "SML",
+    "state": "STATE_FLORIDA",
+    "population": 24983,
+    "state_type": "incorporated"
+  },
+  "SMN::STATE_BLUE_NILE": {
+    "tag": "SMN",
+    "state": "STATE_BLUE_NILE",
+    "population": 1226592,
+    "state_type": "incorporated"
+  },
+  "SMN::STATE_ERITREA": {
+    "tag": "SMN",
+    "state": "STATE_ERITREA",
+    "population": 210860,
+    "state_type": "incorporated"
+  },
+  "SMN::STATE_GONDER": {
+    "tag": "SMN",
+    "state": "STATE_GONDER",
+    "population": 2787513,
+    "state_type": "incorporated"
+  },
+  "SMO::STATE_CHERNIHIV": {
+    "tag": "SMO",
+    "state": "STATE_CHERNIHIV",
+    "population": 1234280,
+    "state_type": "incorporated"
+  },
+  "SMO::STATE_MOGILEV": {
+    "tag": "SMO",
+    "state": "STATE_MOGILEV",
+    "population": 521822,
+    "state_type": "incorporated"
+  },
+  "SMO::STATE_ORYOL": {
+    "tag": "SMO",
+    "state": "STATE_ORYOL",
+    "population": 2696122,
+    "state_type": "incorporated"
+  },
+  "SMO::STATE_SMOLENSK": {
+    "tag": "SMO",
+    "state": "STATE_SMOLENSK",
+    "population": 839741,
+    "state_type": "incorporated"
+  },
+  "SOK::STATE_HAUSALAND": {
+    "tag": "SOK",
+    "state": "STATE_HAUSALAND",
+    "population": 1465304,
+    "state_type": "incorporated"
+  },
+  "SOO::STATE_KYUSHU": {
+    "tag": "SOO",
+    "state": "STATE_KYUSHU",
+    "population": 18712,
+    "state_type": "incorporated"
+  },
+  "SOO::STATE_YANGHO": {
+    "tag": "SOO",
+    "state": "STATE_YANGHO",
+    "population": 18844,
+    "state_type": "unincorporated"
+  },
+  "SPU::STATE_ICA": {
+    "tag": "SPU",
+    "state": "STATE_ICA",
+    "population": 80800,
+    "state_type": "incorporated"
+  },
+  "STT::STATE_CHUGOKU": {
+    "tag": "STT",
+    "state": "STATE_CHUGOKU",
+    "population": 1312928,
+    "state_type": "incorporated"
+  },
+  "STT::STATE_KANSAI": {
+    "tag": "STT",
+    "state": "STATE_KANSAI",
+    "population": 7524380,
+    "state_type": "incorporated"
+  },
+  "STT::STATE_KYOTO": {
+    "tag": "STT",
+    "state": "STATE_KYOTO",
+    "population": 0,
+    "state_type": "incorporated"
+  },
+  "STT::STATE_SHIKOKU": {
+    "tag": "STT",
+    "state": "STATE_SHIKOKU",
+    "population": 1443836,
+    "state_type": "incorporated"
+  },
+  "STT::STATE_TOKAI": {
+    "tag": "STT",
+    "state": "STATE_TOKAI",
+    "population": 0,
+    "state_type": "incorporated"
+  },
+  "SUR::STATE_BUNDELKHAND": {
+    "tag": "SUR",
+    "state": "STATE_BUNDELKHAND",
+    "population": 482410,
+    "state_type": "incorporated"
+  },
+  "SWE::STATE_ALASKA": {
+    "tag": "SWE",
+    "state": "STATE_ALASKA",
+    "population": 3413,
+    "state_type": "unincorporated"
+  },
+  "SWE::STATE_GUJARAT": {
+    "tag": "SWE",
+    "state": "STATE_GUJARAT",
+    "population": 55624,
+    "state_type": "unincorporated"
+  },
+  "SWE::STATE_NORRLAND": {
+    "tag": "SWE",
+    "state": "STATE_NORRLAND",
+    "population": 141400,
+    "state_type": "incorporated"
+  },
+  "SWE::STATE_NORTHWEST_TERRITORIES": {
+    "tag": "SWE",
+    "state": "STATE_NORTHWEST_TERRITORIES",
+    "population": 20000,
+    "state_type": "unincorporated"
+  },
+  "SWE::STATE_SVEALAND": {
+    "tag": "SWE",
+    "state": "STATE_SVEALAND",
+    "population": 836208,
+    "state_type": "incorporated"
+  },
+  "SWI::STATE_BADEN": {
+    "tag": "SWI",
+    "state": "STATE_BADEN",
+    "population": 1075400,
+    "state_type": "incorporated"
+  },
+  "SWI::STATE_EAST_SWITZERLAND": {
+    "tag": "SWI",
+    "state": "STATE_EAST_SWITZERLAND",
+    "population": 718200,
+    "state_type": "incorporated"
+  },
+  "SWI::STATE_WURTTEMBERG": {
+    "tag": "SWI",
+    "state": "STATE_WURTTEMBERG",
+    "population": 1337682,
+    "state_type": "incorporated"
+  },
+  "SYR::STATE_ALEPPO": {
+    "tag": "SYR",
+    "state": "STATE_ALEPPO",
+    "population": 627000,
+    "state_type": "incorporated"
+  },
+  "SYR::STATE_LEBANON": {
+    "tag": "SYR",
+    "state": "STATE_LEBANON",
+    "population": 404000,
+    "state_type": "incorporated"
+  },
+  "SYR::STATE_SYRIA": {
+    "tag": "SYR",
+    "state": "STATE_SYRIA",
+    "population": 602200,
+    "state_type": "incorporated"
+  },
+  "TAR::STATE_AKTOBE": {
+    "tag": "TAR",
+    "state": "STATE_AKTOBE",
+    "population": 114701,
+    "state_type": "unincorporated"
+  },
+  "TAR::STATE_ASTRAKHAN": {
+    "tag": "TAR",
+    "state": "STATE_ASTRAKHAN",
+    "population": 248795,
+    "state_type": "incorporated"
+  },
+  "TAR::STATE_CHELYABINSK": {
+    "tag": "TAR",
+    "state": "STATE_CHELYABINSK",
+    "population": 438333,
+    "state_type": "unincorporated"
+  },
+  "TAR::STATE_CHUVASHIA": {
+    "tag": "TAR",
+    "state": "STATE_CHUVASHIA",
+    "population": 520443,
+    "state_type": "incorporated"
+  },
+  "TAR::STATE_KAZAN": {
+    "tag": "TAR",
+    "state": "STATE_KAZAN",
+    "population": 1017562,
+    "state_type": "incorporated"
+  },
+  "TAR::STATE_KHIVA": {
+    "tag": "TAR",
+    "state": "STATE_KHIVA",
+    "population": 21538,
+    "state_type": "unincorporated"
+  },
+  "TAR::STATE_NIZHNY_NOVGOROD": {
+    "tag": "TAR",
+    "state": "STATE_NIZHNY_NOVGOROD",
+    "population": 1292933,
+    "state_type": "incorporated"
+  },
+  "TAR::STATE_SAMARA": {
+    "tag": "TAR",
+    "state": "STATE_SAMARA",
+    "population": 1634787,
+    "state_type": "incorporated"
+  },
+  "TAR::STATE_TAMBOV": {
+    "tag": "TAR",
+    "state": "STATE_TAMBOV",
+    "population": 2164279,
+    "state_type": "incorporated"
+  },
+  "TAR::STATE_TARTARIA": {
+    "tag": "TAR",
+    "state": "STATE_TARTARIA",
+    "population": 1098294,
+    "state_type": "incorporated"
+  },
+  "TAR::STATE_UFA": {
+    "tag": "TAR",
+    "state": "STATE_UFA",
+    "population": 366075,
+    "state_type": "incorporated"
+  },
+  "TAR::STATE_URALSK": {
+    "tag": "TAR",
+    "state": "STATE_URALSK",
+    "population": 217178,
+    "state_type": "unincorporated"
+  },
+  "TAS::STATE_TASMANIA": {
+    "tag": "TAS",
+    "state": "STATE_TASMANIA",
+    "population": 49600,
+    "state_type": "incorporated"
+  },
+  "TEU::STATE_SOUTHERN_TRANSYLVANIA": {
+    "tag": "TEU",
+    "state": "STATE_SOUTHERN_TRANSYLVANIA",
+    "population": 933597,
+    "state_type": "incorporated"
+  },
+  "THL::STATE_ARAUCANIA": {
+    "tag": "THL",
+    "state": "STATE_ARAUCANIA",
+    "population": 35300,
+    "state_type": "incorporated"
+  },
+  "THL::STATE_PATAGONIA": {
+    "tag": "THL",
+    "state": "STATE_PATAGONIA",
+    "population": 31400,
+    "state_type": "incorporated"
+  },
+  "THS::STATE_THESSALIA": {
+    "tag": "THS",
+    "state": "STATE_THESSALIA",
+    "population": 951696,
+    "state_type": "incorporated"
+  },
+  "TNG::STATE_BOUGAINVILLE": {
+    "tag": "TNG",
+    "state": "STATE_BOUGAINVILLE",
+    "population": 38400,
+    "state_type": "incorporated"
+  },
+  "TNG::STATE_EAST_MICRONESIA": {
+    "tag": "TNG",
+    "state": "STATE_EAST_MICRONESIA",
+    "population": 19424,
+    "state_type": "incorporated"
+  },
+  "TNG::STATE_FIJI": {
+    "tag": "TNG",
+    "state": "STATE_FIJI",
+    "population": 65600,
+    "state_type": "incorporated"
+  },
+  "TNG::STATE_HAWAIIAN_ISLANDS": {
+    "tag": "TNG",
+    "state": "STATE_HAWAIIAN_ISLANDS",
+    "population": 156304,
+    "state_type": "incorporated"
+  },
+  "TNG::STATE_KANAK": {
+    "tag": "TNG",
+    "state": "STATE_KANAK",
+    "population": 44804,
+    "state_type": "incorporated"
+  },
+  "TNG::STATE_NAURU": {
+    "tag": "TNG",
+    "state": "STATE_NAURU",
+    "population": 64000,
+    "state_type": "incorporated"
+  },
+  "TNG::STATE_NORTH_ISLAND": {
+    "tag": "TNG",
+    "state": "STATE_NORTH_ISLAND",
+    "population": 61000,
+    "state_type": "incorporated"
+  },
+  "TNG::STATE_SOLOMON_ISLANDS": {
+    "tag": "TNG",
+    "state": "STATE_SOLOMON_ISLANDS",
+    "population": 41900,
+    "state_type": "incorporated"
+  },
+  "TNG::STATE_TAHITI": {
+    "tag": "TNG",
+    "state": "STATE_TAHITI",
+    "population": 135564,
+    "state_type": "incorporated"
+  },
+  "TNG::STATE_TONGA": {
+    "tag": "TNG",
+    "state": "STATE_TONGA",
+    "population": 50000,
+    "state_type": "incorporated"
+  },
+  "TNG::STATE_VANUATU": {
+    "tag": "TNG",
+    "state": "STATE_VANUATU",
+    "population": 73600,
+    "state_type": "incorporated"
+  },
+  "TNG::STATE_WEST_MICRONESIA": {
+    "tag": "TNG",
+    "state": "STATE_WEST_MICRONESIA",
+    "population": 24224,
+    "state_type": "incorporated"
+  },
+  "TNS::STATE_UPPER_YENISEYSK": {
+    "tag": "TNS",
+    "state": "STATE_UPPER_YENISEYSK",
+    "population": 19950,
+    "state_type": "incorporated"
+  },
+  "TOL::STATE_BAHIA": {
+    "tag": "TOL",
+    "state": "STATE_BAHIA",
+    "population": 566763,
+    "state_type": "unincorporated"
+  },
+  "TOL::STATE_BUENOS_AIRES": {
+    "tag": "TOL",
+    "state": "STATE_BUENOS_AIRES",
+    "population": 73500,
+    "state_type": "unincorporated"
+  },
+  "TOL::STATE_CANARY_ISLANDS": {
+    "tag": "TOL",
+    "state": "STATE_CANARY_ISLANDS",
+    "population": 433272,
+    "state_type": "incorporated"
+  },
+  "TOL::STATE_CAPE_VERDE": {
+    "tag": "TOL",
+    "state": "STATE_CAPE_VERDE",
+    "population": 78819,
+    "state_type": "incorporated"
+  },
+  "TOL::STATE_GUAYANA": {
+    "tag": "TOL",
+    "state": "STATE_GUAYANA",
+    "population": 75812,
+    "state_type": "unincorporated"
+  },
+  "TOL::STATE_LOWER_ANDALUSIA": {
+    "tag": "TOL",
+    "state": "STATE_LOWER_ANDALUSIA",
+    "population": 1262264,
+    "state_type": "incorporated"
+  },
+  "TOL::STATE_MURCIA": {
+    "tag": "TOL",
+    "state": "STATE_MURCIA",
+    "population": 567306,
+    "state_type": "incorporated"
+  },
+  "TOL::STATE_NEW_CASTILE": {
+    "tag": "TOL",
+    "state": "STATE_NEW_CASTILE",
+    "population": 1888858,
+    "state_type": "incorporated"
+  },
+  "TOL::STATE_NEW_SOUTH_WALES": {
+    "tag": "TOL",
+    "state": "STATE_NEW_SOUTH_WALES",
+    "population": 76180,
+    "state_type": "unincorporated"
+  },
+  "TOL::STATE_NIGER_DELTA": {
+    "tag": "TOL",
+    "state": "STATE_NIGER_DELTA",
+    "population": 2346000,
+    "state_type": "unincorporated"
+  },
+  "TOL::STATE_NORTH_ISLAND": {
+    "tag": "TOL",
+    "state": "STATE_NORTH_ISLAND",
+    "population": 7004,
+    "state_type": "unincorporated"
+  },
+  "TOL::STATE_ORAN": {
+    "tag": "TOL",
+    "state": "STATE_ORAN",
+    "population": 109485,
+    "state_type": "unincorporated"
+  },
+  "TOL::STATE_PARA": {
+    "tag": "TOL",
+    "state": "STATE_PARA",
+    "population": 101104,
+    "state_type": "unincorporated"
+  },
+  "TOL::STATE_PATAGONIA": {
+    "tag": "TOL",
+    "state": "STATE_PATAGONIA",
+    "population": 73500,
+    "state_type": "unincorporated"
+  },
+  "TOL::STATE_RIO_DE_JANEIRO": {
+    "tag": "TOL",
+    "state": "STATE_RIO_DE_JANEIRO",
+    "population": 648808,
+    "state_type": "unincorporated"
+  },
+  "TOL::STATE_SANTA_FE": {
+    "tag": "TOL",
+    "state": "STATE_SANTA_FE",
+    "population": 1350,
+    "state_type": "unincorporated"
+  },
+  "TOL::STATE_SOUTH_ATLANTIC_ISLANDS": {
+    "tag": "TOL",
+    "state": "STATE_SOUTH_ATLANTIC_ISLANDS",
+    "population": 18140,
+    "state_type": "unincorporated"
+  },
+  "TOL::STATE_UPPER_ANDALUSIA": {
+    "tag": "TOL",
+    "state": "STATE_UPPER_ANDALUSIA",
+    "population": 1529652,
+    "state_type": "incorporated"
+  },
+  "TPI::STATE_BAHIA": {
+    "tag": "TPI",
+    "state": "STATE_BAHIA",
+    "population": 310737,
+    "state_type": "incorporated"
+  },
+  "TPI::STATE_GOIAS": {
+    "tag": "TPI",
+    "state": "STATE_GOIAS",
+    "population": 48595,
+    "state_type": "incorporated"
+  },
+  "TPI::STATE_MINAS_GERAIS": {
+    "tag": "TPI",
+    "state": "STATE_MINAS_GERAIS",
+    "population": 459304,
+    "state_type": "incorporated"
+  },
+  "TRB::STATE_KASTAMONU": {
+    "tag": "TRB",
+    "state": "STATE_KASTAMONU",
+    "population": 925816,
+    "state_type": "incorporated"
+  },
+  "TRB::STATE_TRABZON": {
+    "tag": "TRB",
+    "state": "STATE_TRABZON",
+    "population": 1049612,
+    "state_type": "incorporated"
+  },
+  "TRE::STATE_ISTRIA": {
+    "tag": "TRE",
+    "state": "STATE_ISTRIA",
+    "population": 719096,
+    "state_type": "incorporated"
+  },
+  "TRK::STATE_RIFT_VALLEY": {
+    "tag": "TRK",
+    "state": "STATE_RIFT_VALLEY",
+    "population": 331700,
+    "state_type": "incorporated"
+  },
+  "TRO::STATE_CHAMPAGNE": {
+    "tag": "TRO",
+    "state": "STATE_CHAMPAGNE",
+    "population": 110745,
+    "state_type": "incorporated"
+  },
+  "TSW::STATE_BOTSWANA": {
+    "tag": "TSW",
+    "state": "STATE_BOTSWANA",
+    "population": 83160,
+    "state_type": "incorporated"
+  },
+  "TSW::STATE_ZAMBEZI": {
+    "tag": "TSW",
+    "state": "STATE_ZAMBEZI",
+    "population": 454196,
+    "state_type": "incorporated"
+  },
+  "TUG::STATE_EAST_SAHARA": {
+    "tag": "TUG",
+    "state": "STATE_EAST_SAHARA",
+    "population": 121304,
+    "state_type": "incorporated"
+  },
+  "TVE::STATE_TVER": {
+    "tag": "TVE",
+    "state": "STATE_TVER",
+    "population": 1002108,
+    "state_type": "incorporated"
+  },
+  "UBD::STATE_COURLAND": {
+    "tag": "UBD",
+    "state": "STATE_COURLAND",
+    "population": 396752,
+    "state_type": "incorporated"
+  },
+  "UBD::STATE_RIGA": {
+    "tag": "UBD",
+    "state": "STATE_RIGA",
+    "population": 595126,
+    "state_type": "incorporated"
+  },
+  "UBD::STATE_TARTU": {
+    "tag": "UBD",
+    "state": "STATE_TARTU",
+    "population": 253221,
+    "state_type": "incorporated"
+  },
+  "UKR::STATE_KIEV": {
+    "tag": "UKR",
+    "state": "STATE_KIEV",
+    "population": 2793761,
+    "state_type": "incorporated"
+  },
+  "ULR::STATE_NEW_SOUTH_WALES": {
+    "tag": "ULR",
+    "state": "STATE_NEW_SOUTH_WALES",
+    "population": 61384,
+    "state_type": "incorporated"
+  },
+  "ULR::STATE_NORTHERN_TERRITORY": {
+    "tag": "ULR",
+    "state": "STATE_NORTHERN_TERRITORY",
+    "population": 34800,
+    "state_type": "incorporated"
+  },
+  "ULR::STATE_QUEENSLAND": {
+    "tag": "ULR",
+    "state": "STATE_QUEENSLAND",
+    "population": 71000,
+    "state_type": "incorporated"
+  },
+  "ULR::STATE_SOUTH_AUSTRALIA": {
+    "tag": "ULR",
+    "state": "STATE_SOUTH_AUSTRALIA",
+    "population": 17400,
+    "state_type": "incorporated"
+  },
+  "URL::STATE_TOBOLSK": {
+    "tag": "URL",
+    "state": "STATE_TOBOLSK",
+    "population": 307676,
+    "state_type": "incorporated"
+  },
+  "URL::STATE_URAL": {
+    "tag": "URL",
+    "state": "STATE_URAL",
+    "population": 559044,
+    "state_type": "incorporated"
+  },
+  "UTE::STATE_COLORADO": {
+    "tag": "UTE",
+    "state": "STATE_COLORADO",
+    "population": 10000,
+    "state_type": "incorporated"
+  },
+  "UTE::STATE_UTAH": {
+    "tag": "UTE",
+    "state": "STATE_UTAH",
+    "population": 13800,
+    "state_type": "incorporated"
+  },
+  "UTE::STATE_WYOMING": {
+    "tag": "UTE",
+    "state": "STATE_WYOMING",
+    "population": 1000,
+    "state_type": "incorporated"
+  },
+  "UTS::STATE_LHASA": {
+    "tag": "UTS",
+    "state": "STATE_LHASA",
+    "population": 1221000,
+    "state_type": "incorporated"
+  },
+  "VAL::STATE_PICARDY": {
+    "tag": "VAL",
+    "state": "STATE_PICARDY",
+    "population": 564742,
+    "state_type": "incorporated"
+  },
+  "VEN::STATE_VENETIA": {
+    "tag": "VEN",
+    "state": "STATE_VENETIA",
+    "population": 224519,
+    "state_type": "incorporated"
+  },
+  "VER::STATE_ILE_DE_FRANCE": {
+    "tag": "VER",
+    "state": "STATE_ILE_DE_FRANCE",
+    "population": 365454,
+    "state_type": "incorporated"
+  },
+  "VIE::STATE_LAOS": {
+    "tag": "VIE",
+    "state": "STATE_LAOS",
+    "population": 278524,
+    "state_type": "incorporated"
+  },
+  "WAD::STATE_BORNU": {
+    "tag": "WAD",
+    "state": "STATE_BORNU",
+    "population": 593988,
+    "state_type": "unincorporated"
+  },
+  "WAD::STATE_CHAD": {
+    "tag": "WAD",
+    "state": "STATE_CHAD",
+    "population": 405764,
+    "state_type": "incorporated"
+  },
+  "WAD::STATE_EAST_HAUSALAND": {
+    "tag": "WAD",
+    "state": "STATE_EAST_HAUSALAND",
+    "population": 2275378,
+    "state_type": "unincorporated"
+  },
+  "WAD::STATE_NIGER": {
+    "tag": "WAD",
+    "state": "STATE_NIGER",
+    "population": 211200,
+    "state_type": "unincorporated"
+  },
+  "WAD::STATE_NIGERIA": {
+    "tag": "WAD",
+    "state": "STATE_NIGERIA",
+    "population": 559308,
+    "state_type": "unincorporated"
+  },
+  "WAD::STATE_NORTH_CAMEROON": {
+    "tag": "WAD",
+    "state": "STATE_NORTH_CAMEROON",
+    "population": 737172,
+    "state_type": "unincorporated"
+  },
+  "WAD::STATE_OUTER_HAUSALAND": {
+    "tag": "WAD",
+    "state": "STATE_OUTER_HAUSALAND",
+    "population": 111606,
+    "state_type": "unincorporated"
+  },
+  "WAD::STATE_WADDAI": {
+    "tag": "WAD",
+    "state": "STATE_WADDAI",
+    "population": 335792,
+    "state_type": "incorporated"
+  },
+  "WAS::STATE_WESTERN_AUSTRALIA": {
+    "tag": "WAS",
+    "state": "STATE_WESTERN_AUSTRALIA",
+    "population": 49360,
+    "state_type": "incorporated"
+  },
+  "WLS::STATE_LANCASHIRE": {
+    "tag": "WLS",
+    "state": "STATE_LANCASHIRE",
+    "population": 462104,
+    "state_type": "unincorporated"
+  },
+  "WLS::STATE_WALES": {
+    "tag": "WLS",
+    "state": "STATE_WALES",
+    "population": 731196,
+    "state_type": "incorporated"
+  },
+  "WTI::STATE_NORTHERN_TERRITORY": {
+    "tag": "WTI",
+    "state": "STATE_NORTHERN_TERRITORY",
+    "population": 12500,
+    "state_type": "incorporated"
+  },
+  "WTI::STATE_SOUTH_AUSTRALIA": {
+    "tag": "WTI",
+    "state": "STATE_SOUTH_AUSTRALIA",
+    "population": 21600,
+    "state_type": "incorporated"
+  },
+  "WTI::STATE_WESTERN_AUSTRALIA": {
+    "tag": "WTI",
+    "state": "STATE_WESTERN_AUSTRALIA",
+    "population": 4854,
+    "state_type": "incorporated"
+  },
+  "WYU::STATE_ANTIOQUIA": {
+    "tag": "WYU",
+    "state": "STATE_ANTIOQUIA",
+    "population": 530812,
+    "state_type": "incorporated"
+  },
+  "WYU::STATE_WEST_INDIES": {
+    "tag": "WYU",
+    "state": "STATE_WEST_INDIES",
+    "population": 0,
+    "state_type": "incorporated"
+  },
+  "WYU::STATE_ZULIA": {
+    "tag": "WYU",
+    "state": "STATE_ZULIA",
+    "population": 431908,
+    "state_type": "incorporated"
+  },
+  "XHO::STATE_EASTERN_CAPE": {
+    "tag": "XHO",
+    "state": "STATE_EASTERN_CAPE",
+    "population": 250396,
+    "state_type": "incorporated"
+  },
+  "XHO::STATE_ZULULAND": {
+    "tag": "XHO",
+    "state": "STATE_ZULULAND",
+    "population": 660896,
+    "state_type": "incorporated"
+  },
+  "XIB::STATE_ALXA": {
+    "tag": "XIB",
+    "state": "STATE_ALXA",
+    "population": 36188,
+    "state_type": "incorporated"
+  },
+  "XIB::STATE_CHONGQING": {
+    "tag": "XIB",
+    "state": "STATE_CHONGQING",
+    "population": 17992808,
+    "state_type": "incorporated"
+  },
+  "XIB::STATE_GANSU": {
+    "tag": "XIB",
+    "state": "STATE_GANSU",
+    "population": 5699641,
+    "state_type": "incorporated"
+  },
+  "XIB::STATE_NINGXIA": {
+    "tag": "XIB",
+    "state": "STATE_NINGXIA",
+    "population": 7890588,
+    "state_type": "incorporated"
+  },
+  "XIB::STATE_QINGHAI": {
+    "tag": "XIB",
+    "state": "STATE_QINGHAI",
+    "population": 1084004,
+    "state_type": "incorporated"
+  },
+  "XIB::STATE_SICHUAN": {
+    "tag": "XIB",
+    "state": "STATE_SICHUAN",
+    "population": 13003796,
+    "state_type": "incorporated"
+  },
+  "XIB::STATE_XIAN": {
+    "tag": "XIB",
+    "state": "STATE_XIAN",
+    "population": 8425792,
+    "state_type": "incorporated"
+  },
+  "XIN::STATE_FERGANA": {
+    "tag": "XIN",
+    "state": "STATE_FERGANA",
+    "population": 784759,
+    "state_type": "incorporated"
+  },
+  "XIN::STATE_KIRGHIZIA": {
+    "tag": "XIN",
+    "state": "STATE_KIRGHIZIA",
+    "population": 455700,
+    "state_type": "incorporated"
+  },
+  "XIN::STATE_NGARI": {
+    "tag": "XIN",
+    "state": "STATE_NGARI",
+    "population": 280000,
+    "state_type": "incorporated"
+  },
+  "XIN::STATE_TIANSHAN": {
+    "tag": "XIN",
+    "state": "STATE_TIANSHAN",
+    "population": 302200,
+    "state_type": "incorporated"
+  },
+  "YAK::STATE_KOLYMA": {
+    "tag": "YAK",
+    "state": "STATE_KOLYMA",
+    "population": 47570,
+    "state_type": "incorporated"
+  },
+  "YAK::STATE_YAKUTSK": {
+    "tag": "YAK",
+    "state": "STATE_YAKUTSK",
+    "population": 148415,
+    "state_type": "incorporated"
+  },
+  "YAR::STATE_YAROSLAVL": {
+    "tag": "YAR",
+    "state": "STATE_YAROSLAVL",
+    "population": 2410095,
+    "state_type": "incorporated"
+  },
+  "YOR::STATE_YORKSHIRE": {
+    "tag": "YOR",
+    "state": "STATE_YORKSHIRE",
+    "population": 434592,
+    "state_type": "incorporated"
+  },
+  "YUE::STATE_GUANGDONG": {
+    "tag": "YUE",
+    "state": "STATE_GUANGDONG",
+    "population": 11512392,
+    "state_type": "incorporated"
+  },
+  "YUE::STATE_GUANGXI": {
+    "tag": "YUE",
+    "state": "STATE_GUANGXI",
+    "population": 13878908,
+    "state_type": "incorporated"
+  },
+  "YUE::STATE_GUIZHOU": {
+    "tag": "YUE",
+    "state": "STATE_GUIZHOU",
+    "population": 4298128,
+    "state_type": "incorporated"
+  },
+  "YUE::STATE_LAOS": {
+    "tag": "YUE",
+    "state": "STATE_LAOS",
+    "population": 351356,
+    "state_type": "incorporated"
+  },
+  "YUE::STATE_SHAN_STATES": {
+    "tag": "YUE",
+    "state": "STATE_SHAN_STATES",
+    "population": 932525,
+    "state_type": "incorporated"
+  },
+  "YUE::STATE_SHAOZHOU": {
+    "tag": "YUE",
+    "state": "STATE_SHAOZHOU",
+    "population": 7533992,
+    "state_type": "incorporated"
+  },
+  "YUE::STATE_TONKIN": {
+    "tag": "YUE",
+    "state": "STATE_TONKIN",
+    "population": 2020544,
+    "state_type": "incorporated"
+  },
+  "YUE::STATE_YUNNAN": {
+    "tag": "YUE",
+    "state": "STATE_YUNNAN",
+    "population": 5838388,
+    "state_type": "incorporated"
+  },
+  "YUZ::STATE_FORMOSA": {
+    "tag": "YUZ",
+    "state": "STATE_FORMOSA",
+    "population": 800000,
+    "state_type": "incorporated"
+  },
+  "YUZ::STATE_RYUKYU_ISLANDS": {
+    "tag": "YUZ",
+    "state": "STATE_RYUKYU_ISLANDS",
+    "population": 0,
+    "state_type": "incorporated"
+  },
+  "ZAN::STATE_KAZEMBE": {
+    "tag": "ZAN",
+    "state": "STATE_KAZEMBE",
+    "population": 378408,
+    "state_type": "unincorporated"
+  },
+  "ZAN::STATE_KENYA": {
+    "tag": "ZAN",
+    "state": "STATE_KENYA",
+    "population": 0,
+    "state_type": "unincorporated"
+  },
+  "ZAN::STATE_LINDI": {
+    "tag": "ZAN",
+    "state": "STATE_LINDI",
+    "population": 489204,
+    "state_type": "incorporated"
+  },
+  "ZAN::STATE_LOURENCO_MARQUES": {
+    "tag": "ZAN",
+    "state": "STATE_LOURENCO_MARQUES",
+    "population": 931804,
+    "state_type": "unincorporated"
+  },
+  "ZAN::STATE_MOCAMBIQUE": {
+    "tag": "ZAN",
+    "state": "STATE_MOCAMBIQUE",
+    "population": 1144288,
+    "state_type": "incorporated"
+  },
+  "ZAN::STATE_TANGANYIKA": {
+    "tag": "ZAN",
+    "state": "STATE_TANGANYIKA",
+    "population": 524596,
+    "state_type": "incorporated"
+  },
+  "ZAN::STATE_ZAMBEZIA": {
+    "tag": "ZAN",
+    "state": "STATE_ZAMBEZIA",
+    "population": 838796,
+    "state_type": "incorporated"
+  },
+  "ZAN::STATE_ZANZIBAR": {
+    "tag": "ZAN",
+    "state": "STATE_ZANZIBAR",
+    "population": 1009200,
+    "state_type": "incorporated"
+  }
+}

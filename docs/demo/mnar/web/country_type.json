@@ -1,0 +1,60 @@
+{
+  "vanilla_types": [
+    "colonial",
+    "company",
+    "decentralized",
+    "recognized",
+    "unrecognized"
+  ],
+  "custom_types": [],
+  "tag_count_by_render_key": {
+    "recognized": 261,
+    "colonial": 39,
+    "unrecognized": 297,
+    "decentralized": 208,
+    "company": 1,
+    "custom": 0
+  },
+  "colors": {
+    "sea": [
+      255,
+      255,
+      255
+    ],
+    "unowned": [
+      255,
+      255,
+      255
+    ],
+    "recognized": [
+      55,
+      115,
+      195
+    ],
+    "colonial": [
+      185,
+      95,
+      55
+    ],
+    "unrecognized": [
+      170,
+      65,
+      75
+    ],
+    "decentralized": [
+      88,
+      138,
+      78
+    ],
+    "company": [
+      220,
+      180,
+      45
+    ],
+    "custom": [
+      190,
+      70,
+      190
+    ]
+  }
+}

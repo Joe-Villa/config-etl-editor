@@ -75,7 +75,9 @@ def main() -> None:
     log.print_summary()
 
     if not log.ok:
-        raise SystemExit(1)
+        print("  警告：建库存在 error，已按 --allow-errors 仍写出数据库（仅供预览/调试）")
+        if not args.allow_errors:
+            raise SystemExit(1)
 
     conn_counts = __import__("sqlite3").connect(output)
     tables = [

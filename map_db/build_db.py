@@ -1116,7 +1116,7 @@ def build_map_db(
             _progress("历史文件索引")
             all_states = [r[0] for r in conn.execute("SELECT state FROM ref_sr ORDER BY state")]
             insert_history_index(conn, mod_root, vanilla, replace_paths, all_states)
-        if log.ok and not skip_map_images:
+        if not skip_map_images and (log.ok or not fail_on_error):
             _insert_map_assets(
                 conn,
                 mod_root,
@@ -1132,11 +1132,9 @@ def build_map_db(
         _progress_callback = previous_progress_callback
         conn.close()
 
-    if not log.ok:
+    if not log.ok and fail_on_error:
         _remove_db_files(tmp)
-        if fail_on_error:
-            raise BuildMapDbError(log)
-        return log
+        raise BuildMapDbError(log)
 
     _finalize_db_build(tmp, output)
     from interactive_map.db_snapshot import create_initial_snapshot  # noqa: WPS433

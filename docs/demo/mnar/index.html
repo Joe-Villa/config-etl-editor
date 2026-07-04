@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Map preview · read-only demo</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+      background: #141418;
+      color: #e8e8ec;
+      min-height: 100vh;
+    }
+    header {
+      padding: 12px 16px;
+      background: #1e1e24;
+      border-bottom: 1px solid #333;
+    }
+    header h1 { font-size: 16px; font-weight: 600; margin-bottom: 4px; }
+    header p { font-size: 12px; color: #9a9aa8; line-height: 1.45; }
+    header a { color: #8cf; }
+    .badge {
+      display: inline-block;
+      margin-top: 6px;
+      padding: 2px 8px;
+      border-radius: 999px;
+      font-size: 11px;
+      background: #3a2a20;
+      color: #fca;
+      border: 1px solid #854;
+    }
+    .layout {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      min-height: calc(100vh - 88px);
+    }
+    @media (max-width: 800px) {
+      .layout { grid-template-columns: 1fr; }
+      .sidebar { border-right: none; border-bottom: 1px solid #333; max-height: 180px; overflow-y: auto; }
+    }
+    .sidebar {
+      padding: 10px;
+      border-right: 1px solid #333;
+      overflow-y: auto;
+    }
+    .sidebar h2 { font-size: 11px; color: #888; margin: 8px 0 6px; text-transform: uppercase; letter-spacing: .04em; }
+    .layer-btn {
+      display: block;
+      width: 100%;
+      text-align: left;
+      padding: 6px 8px;
+      margin-bottom: 4px;
+      border: 1px solid #444;
+      border-radius: 4px;
+      background: #25252b;
+      color: #ddd;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    .layer-btn:hover { background: #333; }
+    .layer-btn.active { border-color: #468; background: #1e2830; color: #bdf; }
+    .viewer-wrap {
+      position: relative;
+      overflow: hidden;
+      background: #0a0a0c;
+      cursor: grab;
+    }
+    .viewer-wrap.dragging { cursor: grabbing; }
+    #viewport {
+      position: absolute;
+      top: 0; left: 0;
+      transform-origin: 0 0;
+    }
+    #map-img {
+      display: block;
+      max-width: none;
+      image-rendering: pixelated;
+    }
+    .stats {
+      padding: 8px 12px;
+      font-size: 11px;
+      color: #888;
+      border-top: 1px solid #333;
+      background: #1a1a1e;
+    }
+    .gallery {
+      padding: 16px;
+      border-top: 1px solid #333;
+    }
+    .gallery h2 { font-size: 14px; margin-bottom: 10px; }
+    .gallery-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 10px;
+    }
+    .card {
+      background: #222228;
+      border: 1px solid #3a3a44;
+      border-radius: 6px;
+      overflow: hidden;
+      cursor: pointer;
+    }
+    .card:hover { border-color: #468; }
+    .card img { width: 100%; height: 100px; object-fit: contain; background: #111; }
+    .card span { display: block; padding: 6px 8px; font-size: 11px; color: #bbb; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>半结构化配置 ETL · 地图可视化预览</h1>
+    <p>
+      示例数据集：<strong>架空历史 mod</strong>（806 国家 tag · 912 scope · 8192×3616 像素）。
+      由配置目录 ETL 建库后预渲染的多图层 PNG。
+      <a href="https://github.com/Joe-Villa/config-etl-editor">返回仓库</a>
+    </p>
+    <span class="badge">只读预览 · 暂不支持在线编辑</span>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" id="layer-list"></aside>
+    <main>
+      <div class="viewer-wrap" id="viewer">
+        <div id="viewport">
+          <img id="map-img" alt="map layer" />
+        </div>
+      </div>
+      <div class="stats" id="stats"></div>
+    </main>
+  </div>
+
+  <section class="gallery">
+    <h2>全部图层（点击缩略图切换）</h2>
+    <div class="gallery-grid" id="gallery"></div>
+  </section>
+
+  <script>
+    const WEB = "./web/";
+    let layers = [];
+    let meta = {};
+    let scale = 0.35;
+    let tx = 40, ty = 20;
+    let dragging = false, lastX = 0, lastY = 0;
+    let current = "ownership";
+
+    const viewport = document.getElementById("viewport");
+    const mapImg = document.getElementById("map-img");
+    const viewer = document.getElementById("viewer");
+
+    function applyTransform() {
+      viewport.style.transform = `translate(${tx}px, ${ty}px) scale(${scale})`;
+    }
+
+    function setLayer(id) {
+      const layer = layers.find(l => l.id === id);
+      if (!layer) return;
+      current = id;
+      mapImg.src = WEB + layer.file;
+      document.querySelectorAll(".layer-btn").forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.id === id);
+      });
+    }
+
+    function fitView() {
+      if (!mapImg.naturalWidth) return;
+      const rect = viewer.getBoundingClientRect();
+      scale = Math.min(rect.width / mapImg.naturalWidth, rect.height / mapImg.naturalHeight) * 0.95;
+      tx = (rect.width - mapImg.naturalWidth * scale) / 2;
+      ty = (rect.height - mapImg.naturalHeight * scale) / 2;
+      applyTransform();
+    }
+
+    mapImg.addEventListener("load", fitView);
+
+    viewer.addEventListener("wheel", e => {
+      e.preventDefault();
+      const factor = e.deltaY < 0 ? 1.12 : 0.89;
+      const rect = viewer.getBoundingClientRect();
+      const mx = e.clientX - rect.left;
+      const my = e.clientY - rect.top;
+      tx = mx - (mx - tx) * factor;
+      ty = my - (my - ty) * factor;
+      scale *= factor;
+      applyTransform();
+    }, { passive: false });
+
+    viewer.addEventListener("mousedown", e => {
+      dragging = true;
+      lastX = e.clientX; lastY = e.clientY;
+      viewer.classList.add("dragging");
+    });
+    window.addEventListener("mouseup", () => {
+      dragging = false;
+      viewer.classList.remove("dragging");
+    });
+    window.addEventListener("mousemove", e => {
+      if (!dragging) return;
+      tx += e.clientX - lastX;
+      ty += e.clientY - lastY;
+      lastX = e.clientX; lastY = e.clientY;
+      applyTransform();
+    });
+
+    async function init() {
+      const [layerResp, metaResp] = await Promise.all([
+        fetch("./layers.json"),
+        fetch(WEB + "meta.json"),
+      ]);
+      const cfg = await layerResp.json();
+      meta = await metaResp.json();
+      layers = cfg.layers;
+
+      document.getElementById("stats").textContent =
+        `地块 ${meta.province_count} · scope ${meta.state_count} · tag ${meta.tag_name_count} · ` +
+        `尺寸 ${meta.width}×${meta.height} · 修订 ${meta.revision}`;
+
+      const list = document.getElementById("layer-list");
+      const h2 = document.createElement("h2");
+      h2.textContent = "图层";
+      list.appendChild(h2);
+      layers.forEach(layer => {
+        const btn = document.createElement("button");
+        btn.className = "layer-btn" + (layer.id === current ? " active" : "");
+        btn.dataset.id = layer.id;
+        btn.textContent = layer.label_zh;
+        btn.onclick = () => setLayer(layer.id);
+        list.appendChild(btn);
+      });
+
+      const gallery = document.getElementById("gallery");
+      layers.forEach(layer => {
+        const card = document.createElement("div");
+        card.className = "card";
+        card.innerHTML = `<img src="${WEB}${layer.file}" alt="" loading="lazy" /><span>${layer.label_zh}</span>`;
+        card.onclick = () => { setLayer(layer.id); window.scrollTo({ top: 0, behavior: "smooth" }); };
+        gallery.appendChild(card);
+      });
+
+      setLayer(current);
+    }
+
+    init();
+    window.addEventListener("resize", fitView);
+  </script>
+</body>
+</html>
