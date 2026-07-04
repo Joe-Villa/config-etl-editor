@@ -7,8 +7,9 @@ from dataclasses import dataclass
 from pathlib import Path
 
 PACKAGE_ROOT = Path(__file__).resolve().parents[1]
-CONFIG_PATH = PACKAGE_ROOT / "config.json"
-SCHEMA_PATH = PACKAGE_ROOT / "schema.sql"
+MAP_DB_ROOT = Path(__file__).resolve().parent
+CONFIG_PATH = PACKAGE_ROOT / "cfg" / "config.json"
+SCHEMA_PATH = MAP_DB_ROOT / "schema.sql"
 
 
 @dataclass(frozen=True)

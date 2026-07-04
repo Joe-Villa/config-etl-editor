@@ -17,6 +17,7 @@ import runtime_deps  # noqa: E402
 
 runtime_deps.register()
 
+from runtime.server_state import MapServerState  # noqa: E402
 from interactive_map.api_server import (  # noqa: E402
     create_map_server,
     run_until_shutdown,
@@ -41,14 +42,9 @@ def main() -> None:
         help="仅导出静态 web/ 快照（CI/离线），不启动服务",
     )
     parser.add_argument(
-        "--gui",
-        action="store_true",
-        help="使用 Tkinter 启动器（旧方式）",
-    )
-    parser.add_argument(
         "--no-gui",
         action="store_true",
-        help="不打开浏览器/GUI，仅运行 API 服务（需已指定 database）",
+        help="不打开浏览器，仅运行 API 服务（需已指定 database）",
     )
     parser.add_argument(
         "--no-browser",
@@ -56,9 +52,6 @@ def main() -> None:
         help="不自动打开浏览器（默认会在启动服务后打开）",
     )
     args = parser.parse_args()
-
-    if args.gui and args.no_gui:
-        raise SystemExit("不能同时使用 --gui 与 --no-gui")
 
     if args.export_only:
         if args.database is None:
@@ -101,23 +94,6 @@ def main() -> None:
     if args.no_gui:
         print("服务运行中，按 Ctrl+C 停止。")
         run_until_shutdown(server, server_state)
-        return
-
-    if args.gui:
-        try:
-            from launcher_gui import run_launcher_gui  # noqa: WPS433
-
-            run_launcher_gui(
-                server_state=server_state,
-                host=args.host,
-                port=args.port,
-            )
-        finally:
-            server.shutdown()
-            if serve_thread is not None:
-                serve_thread.join(timeout=5)
-            server.server_close()
-            server_state.close()
         return
 
     if not args.no_browser:

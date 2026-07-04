@@ -20,12 +20,12 @@ _PKG = Path(__file__).resolve().parents[1]
 if str(_PKG) not in sys.path:
     sys.path.insert(0, str(_PKG))
 
-from app_paths import package_root, viewer_root
+from app_paths import bootstrap_impl_root, package_root, viewer_root
 
 ROOT = package_root()
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
-SRC = ROOT / "src"
+SRC = bootstrap_impl_root()
 if str(SRC) not in sys.path:
     sys.path.insert(0, str(SRC))
 
@@ -89,8 +89,9 @@ from interactive_map.macro_edit_job import (  # noqa: E402
     SLOW_COUNTRY_MACRO_PATHS,
     run_slow_country_macro,
 )
+from bootstrap.build_job import launcher_defaults  # noqa: E402
+from runtime.server_state import MapServerState  # noqa: E402
 from interactive_map.map_session import JSON_DOCUMENTS, LAYER_NAMES, MapSession  # noqa: E402
-from interactive_map.server_state import MapServerState  # noqa: E402
 from interactive_map.state_detail import load_state_detail_json  # noqa: E402
 
 VIEWER_ROOT = viewer_root()

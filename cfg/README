@@ -1,0 +1,4 @@
+我们应该将和程序有关的重要设置，放在cfg文件夹内部。
+例如，我们应该将default path放在cfg内部。我们在本机调试用的是`/home/liulingda/桌面/vic3modder/vic3/game`，release的就用Windows的vanilla默认位置。
+
+**但是，目前config还都是没有起作用的。只是摆设**

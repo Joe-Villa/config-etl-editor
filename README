@@ -1,0 +1,98 @@
+这是什么？
+
+半结构化配置 ETL 与 Web 交互式编辑系统。从 base + overlay 两个内容目录解析 DSL 文本建 SQLite 库，在浏览器里可视化查看与编辑，再导出为结构化文本 zip。
+
+三层架构：HTML 前端 · Python HTTP 服务 · SQLite 数据层。
+
+---
+
+## 配置
+
+本地路径放在 `cfg/config.json`（参考 `cfg/config.example.json`）。`config.json` 不入库。
+
+便携 Windows 包默认使用 `%ProgramFiles(x86)%\Steam\...\game` 作为 base 路径。
+
+---
+
+## 流水线
+
+### 1. 建库（build_db）
+
+```bash
+python run.py /path/to/overlay -o save/map_editor.sqlite
+# 仅 base：python run.py -o save/map_editor.sqlite
+```
+
+- 只读解析源目录；不会修改 base/overlay 原文
+- 目标 sqlite 已存在时默认拒绝覆盖
+- `--allow-errors` 可在存在 error 级问题时仍建库（warning 始终尽量修正）
+
+校验分级：
+
+| 级别 | 行为 |
+|------|------|
+| error | 拒绝建库（或需 `--allow-errors`） |
+| warning | 自动修正并记录 |
+
+### 2. 启动编辑器（serve）
+
+```bash
+python interactive_map/serve.py --database save/map_editor.sqlite
+```
+
+默认 `http://127.0.0.1:8765/`。启动页可加载已有库或触发后台建库任务。
+
+### 3. 编辑（HTTP API）
+
+写操作仅修改 SQLite，不触碰源目录。全部通过 `POST /api/edit/...`：
+
+- 8 种原子操作（增删建筑/人口、改归属、改地区属性等）
+- 19 个 HTTP 写接口（含宏操作：整 scope 转移、灭国、整合等）
+- `atomic_edit`：单批次事务，失败整批回滚；成功后递增 `revision`
+
+### 4. 导出
+
+`GET /api/export/history.zip` — 按原始文件布局写出结构化文本，附 `edit-log.json`。
+
+---
+
+## 图层
+
+交互图层：领土归属、人口、建筑等级、战略区域、整合状态等。
+
+静态地理资源子模块（预渲染 PNG）：
+
+- 11 类资源上限列
+- 16 类耕地作物（vanilla 白名单）
+
+---
+
+## 测试
+
+```bash
+python -m pytest tests/ -q
+python -m pytest collect_origin_data/tests/ -q
+```
+
+---
+
+## 目录说明
+
+| 路径 | 说明 |
+|------|------|
+| `map_db/` | schema、解析、建库 |
+| `collect_origin_data/` | 共享内容解析（vendored） |
+| `interactive_map/` | API、viewer、图层、导出 |
+| `runtime/` | 会话与服务状态 |
+| `bootstrap/` | 建库任务 |
+| `launcher_go/` | Windows 便携启动器 |
+
+---
+
+## Windows 便携包
+
+```bash
+./build_windows_portable.sh
+```
+
+产出 `release/map_editor/`：Go exe + 内置 Python + app 目录。

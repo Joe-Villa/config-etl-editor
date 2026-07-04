@@ -25,7 +25,7 @@ def ensure_test_map_db() -> Path:
             conn.close()
         TEST_DB.unlink()
 
-    src = ROOT / "src"
+    src = ROOT / "map_db"
     import sys
 
     if str(src) not in sys.path:

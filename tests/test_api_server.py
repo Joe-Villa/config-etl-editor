@@ -26,7 +26,7 @@ class ApiServerTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
         if not DB.is_file():
-            src = ROOT / "src"
+            src = ROOT / "map_db"
             if str(src) not in sys.path:
                 sys.path.insert(0, str(src))
             from build_db import build_map_db  # noqa: E402
@@ -435,7 +435,7 @@ class ApiServerUnloadedTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
         if not DB.is_file():
-            src = ROOT / "src"
+            src = ROOT / "map_db"
             if str(src) not in sys.path:
                 sys.path.insert(0, str(src))
             from build_db import build_map_db  # noqa: E402

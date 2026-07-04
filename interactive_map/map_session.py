@@ -151,7 +151,7 @@ _PLACEHOLDER_RGB_KEYS = np.empty(0, dtype=np.uint32)
 
 def _load_names(conn: sqlite3.Connection) -> dict[str, dict[str, dict[str, str]]]:
     try:
-        from src.editor_config import load_config
+        from editor_config import load_config
 
         return load_names_json_merged_all_locales(conn, load_config().vanilla)
     except (ImportError, FileNotFoundError, OSError, ValueError):

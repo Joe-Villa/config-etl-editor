@@ -3,6 +3,7 @@ config.json
 
 # Documentation & design notes (not tracked)
 *.md
+!README.md
 extra.txt
 TODO
 所有可用的写操作
@@ -28,12 +29,11 @@ __pycache__/
 htmlcov/
 .coverage
 
-# Packaging / build artifacts
+# Packaging / build artifacts (do not ignore map editor ``map_db/`` source package)
 *.build/
 viewer_launcher.build/
 nuitka-crash-report.xml
 dist/
-build/
 *.exe
 *.spec
 

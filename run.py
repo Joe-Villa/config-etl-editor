@@ -10,13 +10,13 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
-SRC = ROOT / "src"
-if str(SRC) not in sys.path:
-    sys.path.insert(0, str(SRC))
+
+import bootstrap  # noqa: E402
+
+bootstrap.register_import_paths()
 
 from app_paths import default_save_sqlite  # noqa: E402
-
-from build_db import build_map_db, resolve_build_output_path  # noqa: E402
+from bootstrap import build_map_db, resolve_build_output_path  # noqa: E402
 from editor_config import MapEditorConfig, load_config  # noqa: E402
 
 

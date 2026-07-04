@@ -1,0 +1,4 @@
+{
+  "vanilla": "/path/to/base/content",
+  "mod_root": "/path/to/overlay/content"
+}

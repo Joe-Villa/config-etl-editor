@@ -14,7 +14,7 @@ def _is_compiled() -> bool:
 
 
 def package_root() -> Path:
-    """Directory containing interactive_map/, src/, and (when bundled) collect_origin_data/."""
+    """Directory containing map_db/, bootstrap/, runtime/, interactive_map/."""
     if _is_compiled():
         return Path(sys.executable).resolve().parent
     here = Path(__file__).resolve().parent
@@ -46,12 +46,36 @@ def interactive_map_root() -> Path:
     return package_root() / "interactive_map"
 
 
+def bootstrap_root() -> Path:
+    return package_root() / "bootstrap"
+
+
+def runtime_root() -> Path:
+    return package_root() / "runtime"
+
+
+def map_db_root() -> Path:
+    """Map editor sqlite build package (parse game content → map_editor.sqlite)."""
+    return package_root() / "map_db"
+
+
+def bootstrap_impl_root() -> Path:
+    """Alias for map_db_root (used by bootstrap path registration)."""
+    return map_db_root()
+
+
+def build_root() -> Path:
+    """Deprecated alias for map_db_root."""
+    return map_db_root()
+
+
 def viewer_root() -> Path:
     return interactive_map_root() / "viewer"
 
 
 def src_root() -> Path:
-    return package_root() / "src"
+    """Deprecated alias for map_db_root."""
+    return map_db_root()
 
 
 def install_root() -> Path:

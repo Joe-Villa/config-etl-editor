@@ -1,1 +1,0 @@
-"""Map editor database builder."""

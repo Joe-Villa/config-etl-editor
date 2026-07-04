@@ -13,9 +13,15 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
+from app_paths import map_db_root  # noqa: E402
+
+_MAP_DB = map_db_root()
+if str(_MAP_DB) not in sys.path:
+    sys.path.insert(0, str(_MAP_DB))
+
 from interactive_map.db_reader import load_names_json, load_names_json_merged_all_locales  # noqa: E402
 from interactive_map.map_session import JSON_DOCUMENTS, LAYER_NAMES, MapSession  # noqa: E402
-from src.editor_config import load_config  # noqa: E402
+from editor_config import load_config  # noqa: E402
 
 _LAYER_FILES = {
     "ownership": "ownership.png",

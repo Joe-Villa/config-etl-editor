@@ -295,7 +295,7 @@ def build_merged_loc(
     import sys
 
     root = Path(__file__).resolve().parents[1]
-    src = root / "src"
+    src = root / "map_db"
     if str(src) not in sys.path:
         sys.path.insert(0, str(src))
     from parse_ref import parse_localization_merged  # noqa: WPS433
